@@ -48,7 +48,11 @@
       </header>
       <section>
       
-      
+	<ul style="list-style-type:none; margin: 0; padding=; 0">
+	   {% for item in site.data.navigation %}
+	      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+	   {% endfor %}
+	</ul>
 
       {{ content }}
 
