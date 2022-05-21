@@ -4,7 +4,7 @@ docs:
   url: readme.md
 
 - title: Research
-  url: research.md
+  url: _pages/research.md
 
 - title: Publications
-  url: publications.md
+  url: _pages/publications.md
