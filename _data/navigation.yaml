@@ -1,0 +1,10 @@
+docs:
+
+- title: Home
+  url: readme.md
+
+- title: Research
+  url: research.md
+
+- title: Publications
+  url: publications.md
