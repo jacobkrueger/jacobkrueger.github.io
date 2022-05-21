@@ -1,7 +1,7 @@
 docs:
 
 - title: Home
-  url: readme.md
+  url: README.md
 
 - title: Research
   url: pages/research.md
