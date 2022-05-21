@@ -48,9 +48,9 @@
       </header>
       <section>
       
-	<ul style="list-style-type:none; margin: 0; padding=; 0">
+	<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden">
 	   {% for item in site.data.navigation.docs %}
-	      <li style="display: inline"><a href="{{ item.url }}">{{ item.title }}</a></li>
+	      <li style="display: block; text-align: center; padding: 14px 16px; text-decoration: none"><a href="{{ item.url }}">{{ item.title }}</a></li>
 	   {% endfor %}
 	</ul>
 
