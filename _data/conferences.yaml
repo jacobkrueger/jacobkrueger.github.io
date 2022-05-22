@@ -1,0 +1,7 @@
+- id: Krueger2016CostEstimation
+  author: Jacob Krüger, Wolfram Fenske, Jens Meinicke, Thomas Leich, and Gunter Saake
+	booktitle: International Systems and Software Product Line Conference (SPLC),
+	doi: 10.1145/2934466.2962731,
+	publisher: ACM,
+	title: Extracting Software Product Lines: A Cost Estimation Perspective,
+	year: 2016
