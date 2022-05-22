@@ -1,9 +1,26 @@
+
 proceedings:
+
+- id: Schroeter2017IdentifyingDocuments
+  author: "Ivonne Schröter, Jacob Krüger, Philipp Ludwig, Marcus Thiel, Andreas Nürnberger, and Thomas Leich"
+  title: "Identifying Innovative Documents: Quo vadis?"
+  booktitle: "International Conference on Enterprise Information Systems (ICEIS)"
+  doi: "10.5220/0006368706530658"
+  publisher: "ScitePress"
+  year: 2017
+
+- id: Krueger2016FeatureCoPP
+	author: "Jacob Krüger, Ivonne Schröter, Andy Kenner, Christopher Kruczek and Thomas Leich}"
+	title: "FeatureCoPP: Compositional Annotations"
+	booktitle: "International Workshop on Feature-Oriented Software Development (FOSD)"
+	doi: "10.1145/3001867.3001876"
+	publisher: "ACM"
+	year: 2016
 
 - id: Krueger2016CostEstimation
   author: "Jacob Krüger, Wolfram Fenske, Jens Meinicke, Thomas Leich, and Gunter Saake"
+  title: "Extracting Software Product Lines: A Cost Estimation Perspective."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
   doi: "10.1145/2934466.2962731"
   publisher: "ACM"
-  title: "Extracting Software Product Lines: A Cost Estimation Perspective."
   year: 2016
