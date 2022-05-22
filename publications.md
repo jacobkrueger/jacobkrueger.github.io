@@ -7,7 +7,7 @@
 ## Conference & Workshop Papers
 
 <ol>
-{% for pub in site.data.conferences %}
-<li>{{ pub.author }}: {{ pub.title }} {{ pub.booktitle }}, {{ pub.publisher }}, {{ pub.year }}. doi: {{ pub.doi }} </li>
+{% for pub in site.data.bib.proceedings %}
+<li>{{ pub.author }}: {{ pub.title }} {{ pub.booktitle }}, {{ pub.publisher }}, {{ pub.year }}. doi: {{ pub.doi }}</li>
 {% endfor %}
 </ol>
