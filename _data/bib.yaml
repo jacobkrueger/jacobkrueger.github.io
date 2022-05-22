@@ -10,12 +10,12 @@ proceedings:
   year: 2017
 
 - id: Krueger2016FeatureCoPP
-	author: "Jacob Krüger, Ivonne Schröter, Andy Kenner, Christopher Kruczek and Thomas Leich}"
-	title: "FeatureCoPP: Compositional Annotations"
-	booktitle: "International Workshop on Feature-Oriented Software Development (FOSD)"
-	doi: "10.1145/3001867.3001876"
-	publisher: "ACM"
-	year: 2016
+  author: "Jacob Krüger, Ivonne Schröter, Andy Kenner, Christopher Kruczek and Thomas Leich}"
+  title: "FeatureCoPP: Compositional Annotations"
+  booktitle: "International Workshop on Feature-Oriented Software Development (FOSD)"
+  doi: "10.1145/3001867.3001876"
+  publisher: "ACM"
+  year: 2016
 
 - id: Krueger2016CostEstimation
   author: "Jacob Krüger, Wolfram Fenske, Jens Meinicke, Thomas Leich, and Gunter Saake"
