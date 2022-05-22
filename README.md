@@ -2,13 +2,23 @@ I am a software engineering researcher with a focus on human aspects in software
 
 In 2021, I obtained my PhD from the [Otto-von-Guericke University Magdeburg](https://www.ovgu.de/en/) under the supervision of [Prof. Thomas Leich](https://www.hs-harz.de/tleich/zur-person/) and [Prof. Gunter Saake](https://www.dbse.ovgu.de/en/Staff/Gunter+Saake.html). My [dissertation](https://opendata.uni-halle.de//handle/1981185920/41305) (external reviewers: [Prof. Jan Bosch](https://janbosch.com/) and [Prof. Rick Rabiser](https://rickrabiser.github.io/rick/)) focused on providing an empirics-based understanding of the re-engineering of variant-rich systems to support developers in the decision whether to rely on unsystematic or systematic software reuse. For this purpose, I studied modern practices of engineering variant-rich systems to derive a novel process model as well as guidelines for scoping and planning the (re-)engineering of variant-rich systems. Digging into the details of such re-engineering endeavors, I elicited insights into the economics of software reuse, the impact of missing knowledge, and how to improve the tracing of that knowledge. Building on my dissertation, I am advancing with a focus on developers’ cognition and the challenges therein that are related to software evolution.
 
-If you are interested in collaborating with me (e.g., theses, research/industrial projects), just send me an email! Particularly for students, I can offer the following topics and their intersections (but feel free to suggest your own!):
+If you are interested in collaborating with me (e.g., theses, research/industrial projects), just send me an email! Particularly for students, I can offer the following topics and their intersections (these are only examples, feel free to suggest your own!):
 
-- Re-engineering variant-rich systems (e.g., economic impact of re-engineering)
-- Quality problems in software evolution (e.g., degeneration of software architecture)
-- Cognitive problems in software evolution (e.g., cognitive biases)
-- Fork-based software development (e.g., supporting developers in merging forks)
-- Guidelines for conducting research (e.g., management of research artifacts)
+- Re-engineering variant-rich systems
+   - Economic impact of re-engineering
+   - Challenges of merging variants
+- Quality problems in software evolution
+   - Degeneration of software architecture
+   - Code and bug propagation
+- Cognitive problems in software evolution
+   - Cognitive biases
+   - Misunderstandings in software evolution
+- Fork-based software development
+   - Developer support for merging forks
+   - Knowledge recovery
+- Guidelines for conducting research 
+   - Management of research artifacts
+   - Empirical studies
 
 Checkout my research and publications or ask me if you want to learn a bit more about these topics.
 
