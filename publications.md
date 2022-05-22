@@ -6,7 +6,7 @@
   
 ## Conference & Workshop Papers
 
-<ol style="line-height: 5px">
+<ol style="line-height: 105%">
 {% for pub in site.data.bib.proceedings %}
 <li>{{ pub.author }}: <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><b>{{ pub.title }}</b></a> {{ pub.booktitle }}, {{ pub.publisher }}, {{ pub.year }}. doi: {{ pub.doi }} <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a>
   </li>
