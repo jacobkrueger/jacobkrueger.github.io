@@ -1,10 +1,10 @@
 docs:
 
 - title: Home
-  url: README.md
+  url: README
 
 - title: Research
-  url: research.md
+  url: research
 
 - title: Publications
-  url: publications.md
+  url: publications
