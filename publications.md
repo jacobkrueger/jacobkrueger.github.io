@@ -12,6 +12,7 @@
 
 {% assign prev_year = "" %}
 {% for pub in site.data.bib.proceedings %}
+{% increment pubCounter %}
 {% capture this_year %}{{ pub.year }}{% endcapture %}
 {% if prev_year != this_year %}
 {% if prev_year != "" %}
