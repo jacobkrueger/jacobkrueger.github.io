@@ -1,6 +1,30 @@
 
 proceedings:
 
+- id: Durand2019Hermes
+  author: "Gabriel Campero Durand, Anusha Janardhana, Marcus Pinnecke, Yusra Shakeel, Jacob Krüger, Thomas Leich, and Gunter Saake"
+  title: "Exploring Large Scholarly Networks with Hermes."
+  booktitle: "International Conference on Extending Database Technology (EDBT)"
+  doi: "10.5441/002/edbt.2018.76"
+  publisher: "OpenProceedings"
+  year: 2018
+
+- id: Krueger2018Marlin
+  author: "Jacob Krüger, Wanzi Gu, Hui Shen, Mukelabai Mukelabai, Regina Hebig, and Thorsten Berger"
+  title: "Towards a Better Understanding of Software Features and Their Characteristics: A Case Study of Marlin." 
+  booktitle: "International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS)"
+  doi: "10.1145/3168365.3168371"
+  publisher: "ACM"
+  year: 2018
+
+- id: Krieter2018ManagingVariability
+  author: "Sebastian Krieter, Jacob Krüger, and Thomas Leich"
+  title: "Don’t Worry About It: Managing Variability On-the-Fly." 
+  booktitle: "International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS)
+  doi: "10.1145/3168365.3170426"
+  publisher: "ACM"
+  year: 2018
+
 - id: AlHajjaji2017MutationTesting
   author: "Mustafa Al-Hajjaji, Jacob Krüger, Fabian Benduhn, Thomas Leich, and Gunter Saake"
   title: "Efficient Mutation Testing in Configurable Systems."
