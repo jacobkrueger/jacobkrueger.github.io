@@ -97,3 +97,25 @@
 {% endfor %}
 </ol>
 </details>
+
+
+<details>
+<summary style="cursor:pointer;"><b style="cursor:pointer;">Other (Peer-Reviewed)</b></summary>
+
+{% assign prev_year = "" %}
+{% for pub in site.data.bib.others %}
+{% capture this_year %}{{ pub.year }}{% endcapture %}
+{% if prev_year != this_year %}
+{% if prev_year != "" %}
+</ol>
+{% endif %}
+{% assign prev_year = this_year %}
+<b>{{ this_year }}</b>
+<ol start="{{ pubCounter }}">
+{% endif %}
+  
+<li style="margin: 5px;">{{ pub.author }}: <a href="{{ pub.link }}" target="_blank" rel="me noopener noreferrer"><b>{{ pub.title }}</b></a> {{ pub.year }}. link: {{ pub.link }}</li>
+{% assign pubCounter = pubCounter | plus:1 %}
+{% endfor %}
+</ol>
+</details>
