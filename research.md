@@ -9,12 +9,16 @@ The primary focus of my dissertation has been on the re-engineering of variant-r
 
 </details>
 
+<br>
+
 <details>
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Quality in software evolution</b></summary>
 
 
 
 </details>
+
+<br>
 
 <details>
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Cognition in software evolution</b></summary>
@@ -23,12 +27,16 @@ The primary focus of my dissertation has been on the re-engineering of variant-r
 
 </details>
 
+<br>
+
 <details>
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Fork-based software development</b></summary>
 
 
 
 </details>
+
+<br>
 
 <details>
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Guidelines for conducting research</b></summary>
