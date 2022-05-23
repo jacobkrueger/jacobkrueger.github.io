@@ -10,10 +10,16 @@
 <details>
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Conference & Workshop Papers</b></summary>
 
-<ol>
+{% assign prev_year = "" %}
 {% for pub in site.data.bib.proceedings %}
-<li style="margin: 5px">{{ pub.author }}: <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><b>{{ pub.title }}</b></a> {{ pub.booktitle }}, {{ pub.publisher }}, {{ pub.year }}. doi: {{ pub.doi }} <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a>
-  </li>
+{% capture this_year %}{{ pub.year }}{% endcapture %}
+{% if prev_year != this_year %}
+{% assign prev_year = this_year %}
+  <h3>{{ pub.year }}</h3>
+<ol>
+{% endif %}
+  
+<li style="margin: 5px">{{ pub.author }}: <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><b>{{ pub.title }}</b></a> {{ pub.booktitle }}, {{ pub.publisher }}, {{ pub.year }}. doi: {{ pub.doi }} <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a></li>
 {% endfor %}
 </ol>
 </details>
