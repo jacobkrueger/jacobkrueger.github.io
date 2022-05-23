@@ -382,7 +382,8 @@ books:
 
 - id: Krueger2019FeatureLocation
   author: "Jacob Krüger, Thorsten Berger, and Thomas Leich"
-  title: "Features and How to Find Them: A Survey of Manual Feature Location. In: Software Engineering for Variability Intensive Systems"
+  title: "Features and How to Find Them: A Survey of Manual Feature Location."
+  book: "Software Engineering for Variability Intensive Systems"
   doi: "10.1201/9780429022067-9"
   publisher: "CRC Press"
   year: 2019
