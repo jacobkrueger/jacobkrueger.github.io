@@ -16,10 +16,10 @@
 {% capture this_year %}{{ pub.year }}{% endcapture %}
 {% if prev_year != this_year %}
 {% assign prev_year = this_year %}
-<li style="list-style: none; margin-inline-start: -2em; counter-increment: none"><b>{{ this_year }}</b></li>
+<li style="list-style: none; margin-inline-start: -2em; content:'\a0\a0\a0';"><b>{{ this_year }}</b></li>
 {% endif %}
   
-<li style="margin: 5px; counter-increment: procCounter; content: counter(procCounter, decimal);">{{ pub.author }}: <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><b>{{ pub.title }}</b></a> {{ pub.booktitle }}, {{ pub.publisher }}, {{ pub.year }}. doi: {{ pub.doi }} <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a></li>
+<li style="margin: 5px; counter-increment: procCounter; content: counter(procCounter);">{{ pub.author }}: <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><b>{{ pub.title }}</b></a> {{ pub.booktitle }}, {{ pub.publisher }}, {{ pub.year }}. doi: {{ pub.doi }} <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a></li>
 {% endfor %}
 </ul>
 </details>
