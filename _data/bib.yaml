@@ -82,7 +82,7 @@ journals:
   
 proceedings:
 
-- id: 
+- id: ""
   author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
   title: "On Academic Age Aspect and Discovering the Golden Age in Software Engineering."
   booktitle: "International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)"
@@ -114,7 +114,7 @@ proceedings:
   publisher: "GI"
   year: 2022
 
-- id: 
+- id: ""
   author: "Jacob Krüger, Wesley K. G. Assunção, Inmaculada Ayala, and Sébastien Mosser"
   title: "International Workshop on Variability Management for Modern Technologies (VM4ModernTech 2022)."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
