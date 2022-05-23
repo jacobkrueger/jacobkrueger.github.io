@@ -1,5 +1,7 @@
 ### Publications
 
+This is a list of all my publications in chronological and alphabetical order. For a more thematic ordering and some context, see the research site.
+
 {% assign pubCounter = 1 %}
 <details>
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Dissertation</b></summary>
