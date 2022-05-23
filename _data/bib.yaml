@@ -1,5 +1,29 @@
 journals:
 
+- id: Heumuller2020Artifacts
+  author: "Robert Heumüller, Sebastian Nielebock, Jacob Krüger, and Frank Ortmeier"
+  title: "Publish or Perish, but do not Forget your Software Artifacts."
+  journal: "Empirical Software Engineering"
+  pages: 25:4585-4616"
+  doi: "10.1007/s10664-020-09851-6"
+  year: 2020
+
+- id: Krueger2020ReplicatingSLRs
+  author: "Jacob Krüger, Christian Lausberger, Ivonne von Nostitz-Wallwitz, Gunter Saake, and Thomas Leich"
+  title: "Search. Review. Repeat? An Empirical Study of Threats to Replicating SLR Searches."
+  journal: "Empirical Software Engineering"
+  pages: "25(1):627-677"
+  doi: "10.1007/s10664-019-09763-0"
+  year: 2020
+
+- id: Shakeel2020PrimaryStudySelection
+  author: "Yusra Shakeel, Jacob Krüger, Ivonne von Nostitz-Wallwitz, Gunter Saake, and Thomas Leich"
+  title: "Automated Selection and Quality Assessment of Primary Studies: A Systematic Literature Review."
+  journal: "Journal of Data and Information Quality"
+  pages: "12(1):4:1-4:26"
+  doi: "10.1145/3356901"
+  year: 2020
+
 - id: Krueger2018MutationOperators
   author: "Jacob Krüger, Mustafa Al-Hajjaji, Thomas Leich, and Gunter Saake"
   title: "Mutation Operators for Feature-Oriented Software Product Lines."
@@ -33,6 +57,142 @@ journals:
   year: 2018
   
 proceedings:
+
+- id: Ananieva2020ConceptualModel
+  author: "Sofia Ananieva, Sandra Greiner, Thomas Kühn, Jacob Krüger, Lukas Linsbauer, Sten Grüner, Timo Kehrer, Heiko Klare, Anne Koziolek, Henrik Lönn, Sebastian Krieter, Christoph Seidl, S. Ramesh, Ralf Reussner, and Bernhard Westfechtel"
+  title: "A Reference Model for Unifying Variability in Space and Time."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3382025.3414955"
+  publisher: "ACM"
+  year: 2020
+  
+- id: Assuncao2020VariabilityManagementMicroservices
+  author: "Wesley K. G. Assunção, Jacob Krüger, and Willian D. F. Mendonça"
+  title: "Variability Management meets Microservices: Six Challenges of Re-Engineering Microservice-Based Webshops."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3382025.3414942"
+  publisher: "ACM"
+  year: 2020
+
+- id: Fenske2020ifdefDilemma
+  author: "Wolfram Fenske, Jacob Krüger, Maria Kanyshkova, and Sandro Schulze"
+  title: "#ifdef Directives and Program Comprehension: The Dilemma between Correctness and Preference."
+  booktitle: "International Conference on Software Maintenance and Evolution (ICSME)"
+  doi: "10.1109/ICSME46990.2020.00033"
+  publisher: "IEEE"
+  year: 2020
+
+- id: Kenner2020SecurityFMs
+  author: "Andy Kenner, Stephan Dassow, Christian Lausberger, Jacob Krüger, and Thomas Leich"
+  title: "Using Variability Modeling to Support Security Evaluations: Virtualizing the Right Attack Scenarios."
+  booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
+  doi: "10.1145/3377024.3377026"
+  publisher: "ACM"
+  year: 2020
+  
+- id: Krueger2020VariVolution
+  author: "Jacob Krüger, Sofia Ananieva, Lea Gerling, and Eric Walkingshaw"
+  title: "Third International Workshop on Variability and Evolution of Software-Intensive Systems (VariVolution 2020)"
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3382025.3414944"
+  publishers: "ACM"
+  year: 2020
+
+- id: Krueger2020ApoCosts
+  author: "Jacob Krüger and Thorsten Berger"
+  title: "Activities and Costs of Re-Engineering Cloned Variants into an Integrated Platform."
+  booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
+  doi: "10.1145/3377024.3377044"
+  publisher: "ACM"
+  year: 2020
+  
+- id: Krueger2020CostComparision
+  author: "Jacob Krüger and Thorsten Berger"
+  title: "An Empirical Analysis of the Costs of Clone- and Platform-Oriented Software Reuse."
+  booktitle: "Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
+  doi: "10.1145/3368089.3409684"
+  publisher: "ACM"
+  year: 2020
+  
+- id: Krueger2020TraceabilitySE
+  author: "Jacob Krüger, Gül Çalıklı, Thorsten Berger, Thomas Leich, and Gunter Saake"
+  title: "Effects of Explicit Feature Traceability on Program Comprehension."
+  booktitle: "Software Engineering (SE)"
+  doi: "10.18420/SE2020_22"
+  publisher: "GI"
+  year: 2020
+  
+- id: Krueger2020DevelopersRecall
+  author: "Jacob Krüger and Regina Hebig"
+  title: "What Developers (Care to) Recall: An Interview Survey on Smaller Systems."
+  booktitle: "International Conference on Software Maintenance and Evolution (ICSME)"
+  doi: "10.1109/ICSME46990.2020.00015"
+  publisher: "IEEE"
+  year: 2020
+
+- id: Krueger2020Explant
+  author: "Jacob Krüger, Sebastian Krieter, Thomas Leich, and Gunter Saake"
+  title: "EXtracting Product Lines from vAriaNTs (EXPLANT)."
+  booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
+  doi: "10.1145/3377024.3377046"
+  publisher: "ACM"
+  year: 2020
+  
+- id: Krueger2020promotepl
+  author: "Jacob Krüger, Wardah Mahmood, and Thorsten Berger"
+  title: "Promote-pl: A Round-Trip Engineering Process Model for Adopting and Evolving Product Lines."
+  booktitle: "International Conference on Systems and Software Product Line Engineering (SPLC)"
+  doi: "10.1145/3382025.3414970"
+  publisher: "ACM"
+  year: 2020
+  
+- id: Krueger2020CommunitiesContribute
+  author: "Jacob Krüger, Sebastian Nielebock, and Robert Heumüller"
+  title: "How Can I Contribute? A Qualitative Analysis of Community Websites of 25 Unix-Like Distributions."
+  booktitle: "International Conference on Evaluation and Assessment in Software Engineering (EASE)"
+  doi: "10.1145/3383219.3383256"
+  publisher: "ACM"
+  year: 2020
+  
+- id: Ludwig2020FeatureCoPP
+  author: "Kai Ludwig, Jacob Krüger, and Thomas Leich"
+  title: "FeatureCoPP: Unfolding Preprocessor Variability."
+  booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
+  doi: "10.1145/3377024.3377039"
+  publisher: "ACM"
+  year: 2020
+  
+- id: Nesic2020PrinciplesSE
+  author: "Damir Nešić, Jacob Krüger, Stefan Stănciulescu, and Thorsten Berger"
+  title: "Principles of Feature Modeling." 
+  booktitle: "Software Engineering (SE)"
+  doi: "10.18420/SE2020_21"
+  publisher: "GI"
+  year: 2020
+
+- id: Nielebock2020MisuseAPI
+  author: "Sebastian Nielebock, Robert Heumüller, Jacob Krüger, and Frank Ortmeier"
+  title: "Cooperative API Misuse Detection Using Correction Rules."
+  booktitle: "International Conference on Software Engineering - New Ideas and Emerging Results (ICSE-NIER)"
+  doi: "10.1145/3377816.3381735"
+  publisher: "ACM"
+  year: 2020 
+ 
+- id: Nielebock2020MEmbeddingMisuseRepairAPI
+  author: "Sebastian Nielebock, Robert Heumüller, Jacob Krüger, and Frank Ortmeier"
+  title: "Using API-Embedding for API-Misuse Repair."
+  booktitle: "International Conference on Software Engineering Workshops (ICSEW)"
+  doi: "10.1145/3387940.3392171"
+  publisher: "ACM"
+  year: 2020
+  
+- id: Sueruecue2020KeyPerformanceIndicators
+  author: "Cem Sürücü, Bianying Song, Jacob Krüger, Gunter Saake, and Thomas Leich"
+  title: "Establishing Key Performance Indicators for Measuring Software-Development Processes at a Large Organization." 
+  booktitle: "Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
+  doi: "10.1145/3368089.3417057"
+  publishers: "ACM"
+  year: 2020
 
 - id: Akesson2019ApoMigrationPP
   author: "Jonas Åkesson, Sebastian Nilsson, Jacob Krüger, and Thorsten Berger"
@@ -377,6 +537,14 @@ proceedings:
   doi: "10.1145/3001867.3001876"
   publisher: "ACM"
   year: 2016
+
+editorials:
+
+- id: SPLC2020B
+  editors: "Rafael Capilla, Philippe Collet, Paul Gazzillo, Jacob Krüger, Roberto Erick Lopez-Herrejon, Sarah Nadi, Gilles Perrouin, Iris Reinhartz-Berger, Julia Rubin, and Ina Schaefer"
+  title: "24th International Systems and Software Product Line Conference (SPLC) - Volume B"
+  publisher: "ACM"
+  doi: "10.1145/3382026"
 
 books:
 
