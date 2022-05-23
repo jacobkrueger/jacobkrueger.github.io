@@ -1,3 +1,12 @@
+journals:
+
+- id: Krueger2018FeatureC
+  author: "Jacob Krüger, Marcus Pinnecke, Andy Kenner, Christopher Kruczek, Fabian Benduhn, Thomas Leich, and Gunter Saake"
+  title: "Composing Annotations Without Regret? Practical Experiences Using FeatureC."
+  journal: "Software: Practice and Experience"
+  pages: "48(3):402–427"
+  doi: "10.1002/spe.2525"
+  year: 2018
 
 proceedings:
 
@@ -9,6 +18,62 @@ proceedings:
   publisher: "OpenProceedings"
   year: 2018
 
+- id: Krieter2018ManagingVariability
+  author: "Sebastian Krieter, Jacob Krüger, and Thomas Leich"
+  title: "Don’t Worry About It: Managing Variability On-the-Fly." 
+  booktitle: "International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS)"
+  doi: "10.1145/3168365.3170426"
+  publisher: "ACM"
+  year: 2018
+  
+- id: Krieter2018DSPLs
+  author: "Sebastian Krieter, Jacob Krüger, Nico Weichbrodt, Vasily A. Sartakov, Rüdiger Kapitza, and Thomas Leich"
+  title: "Towards Secure Dynamic Product Lines in the Cloud."
+  booktitle: "International Conference on Software Engineering - New Ideas and Emerging Results (ICSE-NIER)"
+  doi: "10.1145/3183399.3183425"
+  publisher: "ACM"
+  year: 2018
+  
+- id: Krueger2018SeparationConcerns
+  author: "Jacob Krüger"
+  title: "Separation of Concerns: Experiences of the Crowd."
+  booktitle: "Symposium on Applied Computing (SAC)"
+  doi: "10.1145/3167132.3167458"
+  publisher: "ACM"
+  year: 2018
+  
+- id: Krueger2018Recommender
+  author: "Jacob Krüger"
+  title: "When to Extract Features: Towards a Recommender System."
+  booktitle: "International Conference on Software Engineering Companion (ICSE-C)"
+  doi: "10.1145/3183440.3190328"
+  publisher: "ACM"
+  year: 2018
+  
+- id: Krueger2018TestRefactoring
+  author: "Jacob Krüger, Mustafa Al-Hajjaji, Sandro Schulze, Gunter Saake, and Thomas Leich"
+  title: "Towards Automated Test Refactoring for Software Product Lines." 
+  booktitle: "International Systems and Software Product Line Conference (SPLC)
+  doi: "10.1145/3233027.3233040"
+  publisher: "ACM"
+  year: 2018
+
+- id: Krueger2018ApoGames
+  author: "Jacob Krüger, Wolfram Fenske, Thomas Thüm, Dirk Aporius, Gunter Saake, and Thomas Leich"
+  title: "Apo-Games - A Case Study for Reverse Engineering Variability from Cloned Java Variants."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)
+  doi: "10.1145/3233027.3236403"
+  publisher: "ACM"
+  year: 2018
+  
+- id: Krueger2018PhysicalSeparation
+  author: "Jacob Krüger, Kai Ludwig, Bernhard Zimmermann, and Thomas Leich"
+  title: "Physical Separation of Features: A Survey with CPP Developers."
+  booktitle: "Symposium on Applied Computing (SAC)"
+  doi: "10.1145/3167132.3167351"
+  publisher: "ACM"
+  year: 2018
+
 - id: Krueger2018Marlin
   author: "Jacob Krüger, Wanzi Gu, Hui Shen, Mukelabai Mukelabai, Regina Hebig, and Thorsten Berger"
   title: "Towards a Better Understanding of Software Features and Their Characteristics: A Case Study of Marlin." 
@@ -16,13 +81,69 @@ proceedings:
   doi: "10.1145/3168365.3168371"
   publisher: "ACM"
   year: 2018
-
-- id: Krieter2018ManagingVariability
-  author: "Sebastian Krieter, Jacob Krüger, and Thomas Leich"
-  title: "Don’t Worry About It: Managing Variability On-the-Fly." 
-  booktitle: "International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS)"
-  doi: "10.1145/3168365.3170426"
+  
+- id: Krueger2018Remember
+  author: "Jacob Krüger, Jens Wiemann, Wolfram Fenske, Gunter Saake, and Thomas Leich"
+  title: "Do You Remember This Source Code?"
+  booktitle: "International Conference on Software Engineering (ICSE)"
+  doi: "10.1145/3180155.3180215"
   publisher: "ACM"
+  year: 2018
+
+- id: Kuiter2018PCLocator
+  author: "Elias Kuiter, Sebastian Krieter, Jacob Krüger, Kai Ludwig, Thomas Leich, and Gunter Saake"
+  title: "PCLocator: A Tool Suite to Automatically Identify Configurations for Code Locations."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3233027.3236399"
+  publisher: "ACM"
+  year: 2018
+
+- id: Kuiter2018Cloning
+  author: "Elias Kuiter, Jacob Krüger, Sebastian Krieter, Thomas Leich, and Gunter Saake"
+  title: "Getting Rid of Clone-And-Own: Moving To A Software Product Line for Temperature Monitoring."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3233027.3233050"
+  publisher: "ACM"
+  year: 2018
+  
+- id: Mukelabai2018PEoPL
+  author: "Mukelabai Mukelabai, Benjamin Behringer, Moritz Fey, Jochen Palz, Jacob Krüger, and Thorsten Berger"
+  title: "Multi-View Editing of Software Product Lines with PEoPL."
+  booktitle: "International Conference on Software Engineering Companion (ICSE-C)"
+  doi: "10.1145/3183440.3183499"
+  publisher: "ACM"
+  year: 2018
+  
+- id: vonNostitzWallwitz2018IndustryAdoption
+  author: "Ivonne von Nostitz-Wallwitz, Jacob Krüger, and Thomas Leich"
+  title: "Towards Improving Industrial Adoption: The Choice of Programming Languages and Development Environments."
+  booktitle: "International Workshop on Software Engineering Research and Industrial Practice (SER&IP)"
+  doi: "10.1145/3195546.3195548"
+  publisher: "ACM"
+  year: 2018
+  
+- id: vonNostitzWallwitz2018KnowledgeTransfer
+  author: "Ivonne von Nostitz-Wallwitz, Jacob Krüger, Janet Siegmund, and Thomas Leich"
+  author: "Knowledge Transfer from Research to Industry: A Survey on Program Comprehension."
+  booktitle: "International Conference on Software Engineering Companion (ICSE-C)"
+  doi: "10.1145/3183440.3194980"
+  publisher: "ACM"
+  year: 2018
+  
+- id: Shakeel2018LiteratureAnalysis
+  author: "Yusra Shakeel, Jacob Krüger, Ivonne von Nostitz-Wallwitz, Christian Lausberger, Gabriel Campero Durand, Gunter Saake, and Thomas Leich"
+  title: "(Automated) Literature Analysis - Threats and Experiences."
+  booktitle: "International Workshop on Software Engineering for Science (SE4Science)"
+  doi: "10.1145/3194747.3194748"
+  publisher: "ACM"
+  year: 2018
+  
+- id: Shakeel2019StudyQualityMetrics
+  author: "Yusra Shakeel, Jacob Krüger, Gunter Saake, and Thomas Leich"
+  title: "Indicating Studies’ Quality based on Open Data in Digital Libraries."
+  booktitle: "Business Information Systems Workshops"
+  doi: "10.1007/978-3-030-04849-5_50"
+  publisher: "Springer"
   year: 2018
 
 - id: AlHajjaji2017MutationTesting
