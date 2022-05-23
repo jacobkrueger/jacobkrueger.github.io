@@ -82,9 +82,9 @@ journals:
   
 proceedings:
 
-- id: ""
+- id: Alchokr2022GoldenAge
   author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
-  title: "On Academic Age Aspect and Discovering the Golden Age in Software Engineering."
+  title: "On Academic Age Aspects and Discovering the Golden Age in Software Engineering."
   booktitle: "International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)"
   doi: ""
   publisher: "ACM"
