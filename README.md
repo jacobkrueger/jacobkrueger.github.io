@@ -12,7 +12,7 @@ If you are interested in collaborating with me (e.g., theses, research/industria
    - Code and bug propagation
 - Cognitive problems in software evolution
    - Cognitive biases
-   - Misunderstandings in software evolution
+   - Program comprehension
 - Fork-based software development
    - Developer support for merging forks
    - Knowledge recovery
