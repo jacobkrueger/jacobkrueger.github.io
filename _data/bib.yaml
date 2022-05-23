@@ -1,5 +1,13 @@
 journals:
 
+- id: Ananieva2022ConceptualModelExtension
+  author: "Sofia Ananieva, Sandra Greiner, Timo Kehrer, Jacob Krüger, Thomas Kühn, Lukas Linsbauer, Sten Grüner, Anne Koziolek, Henrik Lönn, S. Ramesh, and Ralf Reussner"
+  title: "A Conceptual Model for Unifying Variability in Space and Time: Rationale, Validation, and Illustrative Applications."
+  journal: "Empirical Software Engineering"
+  pages: ""
+  doi: ""
+  year: 2022
+
 - id: Kuiter2021varied
   author: "Elias Kuiter, Sebastian Krieter, Jacob Krüger, Gunter Saake, and Thomas Leich"
   title: "variED: An Editor for Collaborative, Real-Time Feature Modeling."
@@ -74,6 +82,62 @@ journals:
   
 proceedings:
 
+- id: 
+  author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
+  title: "On Academic Age Aspect and Discovering the Golden Age in Software Engineering."
+  booktitle: "International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)"
+  doi: ""
+  publisher: "ACM"
+  year: 2022
+
+- id: Alchokr2022ReviewingDynamics
+  author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
+  title: "Peer-Reviewing and Submission Dynamics Around Top Software-Engineering Venues: A Juniors' Perspective."
+  booktitle: "International Conference on Evaluation and Assessment in Software Engineering (EASE)"
+  doi: ""
+  publisher: "IEEE"
+  year: 2022
+
+- id: Ananieva2022UnifiedOperations
+  author: "Sofia Ananieva, Sandra Greiner, Jacob Krüger, Lukas Linsbauer, Sten Grüner, Timo Kehrer, Thomas Kühn, Christoph Seidl, and Ralf Reussner"
+  title: "Unified Operations for Variability in Space and Time"
+  booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
+  doi: "10.1145/3510466.3510483"
+  publisher: "ACM"
+  year: 2022
+  
+- id: Gnoyke2022ArchSmellsEvolutionSE
+  author: "Philipp Gnoyke, Sandro Schulze, and Jacob Krüger"
+  title: "An Evolutionary Analysis of Software-Architecture Smells."
+  booktitle: "Software Engineering (SE)"
+  doi: "10.18420/se2022-ws-007"
+  publisher: "GI"
+  year: 2022
+
+- id: 
+  author: "Jacob Krüger, Wesley K. G. Assunção, Inmaculada Ayala, and Sébastien Mosser"
+  title: "International Workshop on Variability Management for Modern Technologies (VM4ModernTech 2022)."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: ""
+  publisher: "ACM"
+  year: 2022
+  
+- id: Shakeel2022Altmetrics
+  author: "Yusra Shakeel, Rand Alchokr, Jacob Krüger, Gunter Saake, and Thomas Leich"
+  title: "Altmetrics and Citation Counts: An Empirical Analysis of the Computer Science Domain."
+  booktitle: "Joint Conference on Digital Libraries (JCDL)"
+  doi: ""
+  publisher: "IEEE"
+  year: 2022
+  
+- id: Shakeel2022LiteratureAnalyses
+  author: "Yusra Shakeel, Rand Alchokr, Jacob Krüger, Gunter Saake, and Thomas Leich"
+  title: "Incorporating Altmetrics to Support Selection and Assessment of Publications during Literature Analyses."
+  booktitle: "International Conference on Evaluation and Assessment in Software Engineering (EASE)"
+  doi: ""
+  publisher: "IEEE"
+  year: 2022
+
 - id: Alchokr2021ArticleRecommendation
   author: "Rand Alchokr, Jacob Krüger, Gunter Saake, and Thomas Leich"
   title: "A Comparative Analysis of Article Recommendation Platforms."
@@ -90,7 +154,7 @@ proceedings:
   publisher: "IEEE"
   year: 2021
 
-- id: Assuncao2022VM4ModernTech
+- id: Assuncao2021VM4ModernTech
   author: "Wesley K. G. Assunção, Inmaculada Ayala, Jacob Krüger, and Sébastien Mosser"
   title: "International Workshop on Variability Management for Modern Technologies (VM4ModernTech 2021)."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
@@ -131,7 +195,7 @@ proceedings:
   year: 2021
 
 - id: Krueger2021FeatureTraceMemory
-  author: "Jacob Krüger, Gül  Calıklı, Thorsten Berger, and Thomas Leich"
+  author: "Jacob Krüger, Gül  Çalıklı, Thorsten Berger, and Thomas Leich"
   title: "How Explicit Feature Traces Did Not Impact Developers’ Memory."
   booktitle: "International Conference on Software Analysis, Evolution and Reengineering (SANER)"
   doi: "10.1109/SANER50967.2021.00075"
@@ -684,3 +748,11 @@ books:
   doi: "10.1201/9780429022067-9"
   publisher: "CRC Press"
   year: 2019
+
+others:
+
+- id: Krueger2022RegisteredReportIncentives
+  author: "Jacob Krüger, Gül Çalıklı, Dmitri Bershadskyy, Robert Heyer, Sarah Zabel, and Siegmar Otto"
+  title: "Registered Report: A Laboratory Experiment on Using Different Financial-Incentivization Schemes in Software-Engineering Experimentation."
+  link: "https://arxiv.org/abs/2202.10985"
+  year: 2020
