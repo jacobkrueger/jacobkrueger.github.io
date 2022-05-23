@@ -21,7 +21,7 @@
 {% endif %}
 {% assign prev_year = this_year %}
 <b>{{ this_year }}</b>
-<ol start= {{ pubCounter }}>
+<ol start="{{ pubCounter }}">
 {% assign pubCounter = pubCounter++ %}
 {% endif %}
   
