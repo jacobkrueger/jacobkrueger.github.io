@@ -1,15 +1,143 @@
 journals:
 
+- id: Krueger2018MutationOperators
+  author: "Jacob Krüger, Mustafa Al-Hajjaji, Thomas Leich, and Gunter Saake"
+  title: "Mutation Operators for Feature-Oriented Software Product Lines."
+  journal: "Software: Testing, Verification and Reliability"
+  pages: "29(1-2):1-21"
+  doi: "10.1002/stvr.1676"
+  year: 2019
+
+- id: Krueger2019FeatureFacets
+  author: "Jacob Krüger, Mukelabai Mukelabai, Wanzi Gu, Hui Shen, Regina Hebig, and Thorsten Berger"
+  title: "Where is my Feature and What is it About? A Case Study on Recovering Feature Facets."
+  journal: "Journal of Systems and Software"
+  pages: "152:239-253"
+  doi: "10.1016/j.jss.2019.01.057"
+  year: 2019
+
+- id: Nielebock2019Comments
+  author: "Sebastian Nielebock, Dariusz Krolikowski, Jacob Krüger, Thomas Leich, and Frank Ortmeier"
+  title: "Commenting Source Code: Is It Worth It For Small Programming Tasks?"
+  journal: "Empirical Software Engineering"
+  pages: "24(3):1418-1457"
+  doi: "10.1007/s10664-018-9664-z"
+  year: 2019
+
 - id: Krueger2018FeatureC
   author: "Jacob Krüger, Marcus Pinnecke, Andy Kenner, Christopher Kruczek, Fabian Benduhn, Thomas Leich, and Gunter Saake"
   title: "Composing Annotations Without Regret? Practical Experiences Using FeatureC."
   journal: "Software: Practice and Experience"
-  pages: "48(3):402–427"
+  pages: "48(3):402-427"
   doi: "10.1002/spe.2525"
   year: 2018
-
+  
 proceedings:
 
+- id: Akesson2019ApoMigrationPP
+  author: "Jonas Åkesson, Sebastian Nilsson, Jacob Krüger, and Thorsten Berger"
+  title: "Migrating the Android Apo-Games into an Annotation-Based Software Product Line."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3336294.3342362"
+  publisher: "ACM"
+  year: 2019
+  
+- id: Debbiche2019ApoMigrationFOP
+  author: "Jamel Debbiche, Oskar Lignell, Jacob Krüger, and Thorsten Berger"
+  title: "Migrating Java-Based Apo-Games into a Composition-Based Software Product Line."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3336294.3342361"
+  publisher: "ACM"
+  year: 2019
+  
+- id: Krueger2019TalkingPL
+  author: "Jacob Krüger"
+  title: "Are You Talking about Software Product Lines? An Analysis of Developer Communities."
+  booktitle: "International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS)"
+  doi: "10.1145/3302333.3302348"
+  publisher: "ACM"
+  year: 2019
+  
+- id: Krueger2019KnowledgeEvolution
+  author: "Jacob Krüger"
+  title: "Tackling Knowledge Needs during Software Evolution."
+  booktitle: "Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
+  doi: "10.1145/3338906.3342505"
+  publisher: "ACM"
+  year: 2019
+  
+- id: Krueger2019MutationOperatorsJF
+  author: "Jacob Krüger, Mustafa Al-Hajjaji, Thomas Leich, and Gunter Saake"
+  title: "Mutation Operators for Feature-Oriented Software Product Lines."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3336294.3342372"
+  publisher: "ACM"
+  year: 2019
+
+- id: Krueger2019Traceability
+  author: "Jacob Krüger, Gül  Çalıklı, Thorsten Berger, Thomas Leich, and Gunter Saake"
+  title: "Effects of Explicit Feature Traceability on Program Comprehension."
+  booktitle: "Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
+  doi: "10.1145/3338906.3338968"
+  publisher: "ACM"
+  year: 2019
+
+- id: Krueger2019ComprehensionMemory
+  author: "Jacob Krüger, Jens Wiemann, Wolfram Fenske, Gunter Saake, and Thomas Leich"
+  title: "Program Comprehension and Developers’ Memory."
+  booktitle: "INFORMATIK 2019: 50 Jahre Gesellschaft für Informatik (INFORMATIK)"
+  doi: "10.18420/inf2019_13"
+  publisher: "GI"
+  year: 2019
+  
+- id: Krueger2019UnderstandingForget
+  author: "Jacob Krüger, Jens Wiemann, Wolfram Fenske, Gunter Saake, and Thomas Leich"
+  title: "Understanding How Programmers Forget."
+  booktitle: "Software Engineering and Software Management (SE/SWM)"
+  doi: "10.18420/se2019-23"
+  publisher: "GI"
+  year: 2019
+  
+- id: Kuiter2019FeatureModeling
+  author: "Elias Kuiter, Sebastian Krieter, Jacob Krüger, Thomas Leich, and Gunter Saake"
+  title: "Foundations of Collaborative, Real-Time Feature Modeling."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3336294.3336308"
+  publisher: "ACM"
+  year: 2019
+  
+- id: Ludwig2019CovertPhantomFeatures
+  author: "Kai Ludwig, Jacob Krüger, and Thomas Leich"
+  title: "Covert and Phantom Features in Annotations: Do They Impact Variability Analysis?"
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3336294.3336296"
+  publisher: "ACM"
+  year: 2019
+  
+- id: Nesic2019Principles
+  author: "Damir Nešić, Jacob Krüger, Stefan Stănciulescu, and Thorsten Berger"
+  title: "Principles of Feature Modeling."
+  booktitle: "Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
+  doi: "10.1145/3338906.3338974"
+  publisher: "ACM"
+  year: 2019
+  
+- id: Nieke2019VariVolution
+  author: "Michael Nieke, Lukas Linsbauer, Jacob Krüger, and Thomas Leich"
+  title: "Second International Workshop on Variability and Evolution of Software-Intensive Systems (VariVolution 2019)."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3336294.3342367"
+  publisher: "ACM"
+  year: 2019
+  
+- id: Strueber2019Benchmarking
+  author: "Daniel Strüber, Mukelabai Mukelabai, Jacob Krüger, Stefan Fischer, Lukas Linsbauer, Jabier Martinez, and Thorsten Berger"
+  title: "Facing the Truth: Benchmarking the Techniques for the Evolution of Variant-Rich Systems."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3336294.3336302"
+  publisher: "ACM"
+  year: 2019
+  
 - id: Durand2019Hermes
   author: "Gabriel Campero Durand, Anusha Janardhana, Marcus Pinnecke, Yusra Shakeel, Jacob Krüger, Thomas Leich, and Gunter Saake"
   title: "Exploring Large Scholarly Networks with Hermes."
@@ -249,3 +377,12 @@ proceedings:
   doi: "10.1145/3001867.3001876"
   publisher: "ACM"
   year: 2016
+
+books:
+
+- id: Krueger2019FeatureLocation
+  author: "Jacob Krüger, Thorsten Berger, and Thomas Leich"
+  title: "Features and How to Find Them: A Survey of Manual Feature Location. In: Software Engineering for Variability Intensive Systems"
+  doi: "10.1201/9780429022067-9"
+  publisher: "CRC Press"
+  year: 2019
