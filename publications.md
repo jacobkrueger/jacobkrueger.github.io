@@ -1,4 +1,4 @@
-{% assign pubCounter = 1 %}
+{% assign pubCounter = 3 %}
 <details>
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Dissertation</b></summary>
 
