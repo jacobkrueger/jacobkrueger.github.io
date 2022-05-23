@@ -26,7 +26,7 @@
 <ol start="{{ pubCounter }}">
 {% endif %}
   
-<li style="margin: 5px;">{{ pub.author }}: <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><b>{{ pub.title }}</b></a> {{ pub.booktitle }}, {{ pub.publisher }}, {{ pub.year }}. doi: {{ pub.doi }} <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a></li>
+<li style="margin: 5px;">{{ pub.author }}: <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><b>{{ pub.title }}</b></a> {{ pub.journal }}, {{ pub.pages }}, {{ pub.year }}. doi: {{ pub.doi }} <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a></li>
 {% assign pubCounter = pubCounter | plus:1 %}
 {% endfor %}
 </ol>
@@ -49,6 +49,28 @@
 {% endif %}
   
 <li style="margin: 5px;">{{ pub.author }}: <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><b>{{ pub.title }}</b></a> {{ pub.booktitle }}, {{ pub.publisher }}, {{ pub.year }}. doi: {{ pub.doi }} <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a></li>
+{% assign pubCounter = pubCounter | plus:1 %}
+{% endfor %}
+</ol>
+</details>
+
+
+<details>
+<summary style="cursor:pointer;"><b style="cursor:pointer;">Book Contributions</b></summary>
+
+{% assign prev_year = "" %}
+{% for pub in site.data.bib.books %}
+{% capture this_year %}{{ pub.year }}{% endcapture %}
+{% if prev_year != this_year %}
+{% if prev_year != "" %}
+</ol>
+{% endif %}
+{% assign prev_year = this_year %}
+<b>{{ this_year }}</b>
+<ol start="{{ pubCounter }}">
+{% endif %}
+  
+<li style="margin: 5px;">{{ pub.author }}: <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><b>{{ pub.title }}</b></a> {{ pub.publisher }}, {{ pub.year }}. doi: {{ pub.doi }} <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a></li>
 {% assign pubCounter = pubCounter | plus:1 %}
 {% endfor %}
 </ol>
