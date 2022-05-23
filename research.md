@@ -20,11 +20,9 @@ The primary focus of my dissertation has been on the re-engineering of variant-r
     <li>Guidelines for assessing and planning the (re-)engineering of variant-rich systems, for instance, feature modeling principles.</li>
     <li>Other contributions on variant-rich systems include, for instance, datasets, definitions of benchmarks, concepts for enabling security analyses, and support for quality assurance.</li>
   </ul>
-  <li>Publications</li>
+  <li>Top publications</li>
   <ul>
-    <li>A*: </li>
-    <li>A: </li>
-    <li> </li>
+    <li></li>
   </ul>
   <li>Projects and funding</li>
   <ul>
