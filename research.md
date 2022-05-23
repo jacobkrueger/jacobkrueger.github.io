@@ -13,12 +13,12 @@ The primary focus of my [dissertation](https://opendata.uni-halle.de//handle/198
   <li>Contributions</li>
   <ul>
     <li>Empirically elicited economical data on the (re-)engineering of variant-rich systems, highlighting that organizations should aim to iteratively move towards platform-based software reuse but must be aware about costly factors (e.g., feature location). The data can help organizations in their decision making and confirms/refutes established assumptions in research (e.g., change propagation can be more challenging in a platform than often assumed).</li>
-    <li>Academic and industrial case studies on re-engineering variant-rich systems, providing insights into the processes, pitfalls, and benefits.<a href="assets/papers/Krueger2018FeatureC.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a></li>
-    <li>Empirical insights into the feature-location and knowledge recovery problem and how to tackle it by eagerly tracing features in advance, recommending that feature traces in the source code should be lightweight and separated from variability mechanisms to facilitate program comprehension.<a href="assets/papers/Krueger2019FeatureFacets.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a><a href="assets/papers/Nielebock2019Comments.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a></li>
-    <li> Process model, conceptual model<a href="assets/papers/Ananieva2022ConceptualModelExtension.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a>, and operations for specifying and supporting the (re-)engineering and evolution of variant-rich systems by providing an understanding of contemporary practices.</li>
-    <li>Techniques for supporting developers in (re-)engineering endeavors of variant-rich systems, for instance, for analyzing the variability of source code or feature modeling<a href="assets/papers/Kuiter2021varied.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a>.</li>
-    <li>Guidelines for assessing and planning the (re-)engineering of variant-rich systems, for instance, feature modeling principles.<a href="assets/papers/Lindohf2021LargeFEF.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a></li>
-    <li>Other contributions on variant-rich systems include, for instance, datasets, definitions of benchmarks, concepts for enabling security analyses, and support for quality assurance<a href="assets/papers/Krueger2018MutationOperators.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a>.</li>
+    <li>Academic and industrial case studies on re-engineering variant-rich systems, providing insights into the processes, pitfalls, and benefits.<a href="assets/papers/Krueger2018FeatureC.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a></li>
+    <li>Empirical insights into the feature-location and knowledge recovery problem and how to tackle it by eagerly tracing features in advance, recommending that feature traces in the source code should be lightweight and separated from variability mechanisms to facilitate program comprehension.<a href="assets/papers/Krueger2019FeatureFacets.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a><a href="assets/papers/Nielebock2019Comments.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a></li>
+    <li> Process model, conceptual model<a href="assets/papers/Ananieva2022ConceptualModelExtension.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>, and operations for specifying and supporting the (re-)engineering and evolution of variant-rich systems by providing an understanding of contemporary practices.</li>
+    <li>Techniques for supporting developers in (re-)engineering endeavors of variant-rich systems, for instance, for analyzing the variability of source code or feature modeling<a href="assets/papers/Kuiter2021varied.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>.</li>
+    <li>Guidelines for assessing and planning the (re-)engineering of variant-rich systems, for instance, feature modeling principles.<a href="assets/papers/Lindohf2021LargeFEF.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a></li>
+    <li>Other contributions on variant-rich systems include, for instance, datasets, definitions of benchmarks, concepts for enabling security analyses, and support for quality assurance<a href="assets/papers/Krueger2018MutationOperators.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>.</li>
   </ul>
   <li>Example publications</li>
   <ul>
@@ -39,7 +39,7 @@ The primary focus of my [dissertation](https://opendata.uni-halle.de//handle/198
 <details>
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Quality in software evolution</b></summary>
 
-
+Most software systems exist for a longer time, and thus are evolving. There are numerous reasons why software evolves, for instance, because new features are added (with the system potentially becoming variant-rich), refactorings employed, or bugs fixed. However, not every evolution may improve the system. Instead, a change may lead to new bugs in the system or a general degeneration of the source code; causing, for instance, architectural or code smells, technical debt, or incomprehensible code. It is important to understand how software degenerates and how this is impacted or impacts developers. Precisely, a system may become less and less comprehensible, requiring major re-engineering to improve its quality and make it usable for an organization.
 
 </details>
 
@@ -66,10 +66,10 @@ The primary focus of my [dissertation](https://opendata.uni-halle.de//handle/198
 <details>
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Guidelines for conducting research</b></summary>
 
-<a href="assets/papers/Heumuller2020Artifacts.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a>
+<a href="assets/papers/Heumuller2020Artifacts.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>
 
-<a href="assets/papers/Krueger2020ReplicatingSLRs.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a>
+<a href="assets/papers/Krueger2020ReplicatingSLRs.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>
 
-<a href="assets/papers/Shakeel2020PrimaryStudySelection.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a>
+<a href="assets/papers/Shakeel2020PrimaryStudySelection.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>
 
 </details>
