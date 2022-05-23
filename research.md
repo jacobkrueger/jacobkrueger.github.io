@@ -12,7 +12,7 @@ The primary focus of my dissertation has been on the re-engineering of variant-r
 <ul>
   <li>Contributions</li>
   <ul>
-    <li>Empirically elicited economical data on the (re-)engineering of variant-rich systems, highlighting that organizations should aim to iteratively move towards platform-based software reuse but must be aware about costly factors (e.g., feature location). The data can help organizations in their decision making and confirms/refutes established assumptions in research (e.g., change propagation can be more challenging in a platform than often assumed).
+    <li>Empirically elicited economical data on the (re-)engineering of variant-rich systems, highlighting that organizations should aim to iteratively move towards platform-based software reuse but must be aware about costly factors (e.g., feature location). The data can help organizations in their decision making and confirms/refutes established assumptions in research (e.g., change propagation can be more challenging in a platform than often assumed).</li>
     <li>Academic and industrial case studies on re-engineering variant-rich systems, providing insights into the processes, pitfalls, and benefits.</li>
     <li>Empirical insights into the feature-location problem and how to tackle it by eagerly tracing features in advance, recommending that feature traces in the source code should be lightweight and separated from variability mechanisms to facilitate program comprehension.</li>
     <li> Process model, conceptual model, and operations for specifying and supporting the (re-)engineering and evolution of variant-rich systems by providing an understanding of contemporary practices.</li>
