@@ -48,7 +48,7 @@
 <ol start="{{ pubCounter }}">
 {% endif %}
   
-<li style="margin: 5px;">{{ pub.author }}: <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><b>{{ pub.title }}</b></a> {{ pub.booktitle }}, {{ pub.publisher }}, {{ pub.year }}. doi: {{ pub.doi }} <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a></li>
+<li style="margin: 5px;">{{ pub.author }}: {% if pub.id != "" %}<a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer">{% endif %}<b>{{ pub.title }}</b></a> {{ pub.booktitle }}, {{ pub.publisher }}, {{ pub.year }}. doi: {{ pub.doi }} {% if pub.id != "" %}<a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a>{% endif %}</li>
 {% assign pubCounter = pubCounter | plus:1 %}
 {% endfor %}
 </ol>
