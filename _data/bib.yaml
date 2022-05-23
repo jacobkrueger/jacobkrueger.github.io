@@ -1,6 +1,78 @@
 
 proceedings:
 
+- id: AlHajjaji2017MutationTesting
+  author: "Mustafa Al-Hajjaji, Jacob Krüger, Fabian Benduhn, Thomas Leich, and Gunter Saake"
+  title: "Efficient Mutation Testing in Configurable Systems."
+  booktitle: "International Workshop on Variability and Complexity in Software Design (VACE)"
+  doi: "10.1109/vace.2017.3"
+  publisher: "IEEE"
+  year: 2017
+
+- id: AlHajjaji2017ClusterBasedTesting
+  author: "Mustafa Al-Hajjaji, Jacob Krüger, Sandro Schulze, Thomas Leich, and Gunter Saake"
+  title: "Efficient Product-Line Testing using Clustering-Based Product Prioritization."
+  booktitle: "International Workshop on Automation of Software Test (AST)"
+  doi: "10.1109/ast.2017.7"
+  publisher: "IEEE"
+  year: 2017
+
+- id: Krieter2017FeatureIDELib
+  author: "Sebastian Krieter, Marcus Pinnecke, Jacob Krüger, Joshua Sprey, Christopher Sontag, Thomas Thüm, Thomas Leich, and Gunter Saake"
+  title: "FeatureIDE: Empowering Third-Party Developers."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3109729.3109751"
+  publisher: "ACM"
+  year: 2017
+
+- id: Krueger2017Lost
+  author: "Jacob Krüger"
+  title: "Lost in Source Code: Physically Separating Features in Legacy Systems."
+  booktitle: "International Conference on Software Engineering Companion (ICSE-C)"
+  doi: "10.1109/icse-c.2017.46"
+  publisher: "IEEE"
+  year: 2017
+
+- id: Krueger2017Eclipse
+  author: "Jacob Krüger, Niklas Corr, Ivonne Schröter, and Thomas Leich"
+  title: "Digging into the Eclipse Marketplace."
+  booktitle: "International Conference on Open Source Systems (OSS)"
+  doi: "10.1007/978-3-319-57735-7_7"
+  publisher: "Springer"
+  year: 2017
+
+- id: Krueger2017FollowTheSun
+  author: "Jacob Krüger, Stephan Dassow, Karl-Albert Bebber, and Thomas Leich"
+  title: "Daedalus or Icarus? Experiences on Follow-The-Sun."
+  booktitle: "International Conference on Global Software Engineering (ICGSE)"
+  doi: "10.1109/icgse.2017.4"
+  publisher: "IEEE"
+  year: 2017
+
+- id: Krueger2017FindingFeatures
+  author: "Jacob Krüger, Louis Nell, Wolfram Fenske, Gunter Saake, and Thomas Leich"
+  title: "Finding Lost Features in Cloned Systems."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3109729.3109736"
+  publisher: "ACM"
+  year: 2017
+
+- id: Krueger2017CPS
+  author: "Jacob Krüger, Sebastian Nielebock, Sebastian Krieter, Christian Diedrich, Thomas Leich, Gunter Saake, Sebastian Zug, and Frank Ortmeier"
+  title: "Beyond Software Product Lines: Variability Modeling in Cyber-Physical Systems."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3106195.3106217"
+  publisher: "ACM"
+  year: 2017
+
+- id: Krueger2017QAS
+  author: "Jacob Krüger, Ivonne Schröter, Andy Kenner, and Thomas Leich"
+  title: "Empirical Studies in Question-Answering Systems: A Discussion."
+  booktitle: "International Workshop on Conducting Empirical Studies in Industry (CESI)"
+  doi: "10.1109/cesi.2017.6"
+  publisher: "IEEE"
+  year: 2017
+
 - id: Schroeter2017IdentifyingDocuments
   author: "Ivonne Schröter, Jacob Krüger, Philipp Ludwig, Marcus Thiel, Andreas Nürnberger, and Thomas Leich"
   title: "Identifying Innovative Documents: Quo vadis?"
@@ -9,18 +81,26 @@ proceedings:
   publisher: "ScitePress"
   year: 2017
 
-- id: Krueger2016FeatureCoPP
-  author: "Jacob Krüger, Ivonne Schröter, Andy Kenner, Christopher Kruczek and Thomas Leich}"
-  title: "FeatureCoPP: Compositional Annotations"
-  booktitle: "International Workshop on Feature-Oriented Software Development (FOSD)"
-  doi: "10.1145/3001867.3001876"
-  publisher: "ACM"
-  year: 2016
+- id: Schroeter2017PC
+  author: "Ivonne Schröter, Jacob Krüger, Janet Siegmund, and Thomas Leich"
+  title: "Comprehending Studies on Program Comprehension."
+  booktitle: "International Conference on Program Comprehension (ICPC)"
+  doi: "10.1109/icpc.2017.9"
+  publisher: "IEEE"
+  year: 2017
 
 - id: Krueger2016CostEstimation
   author: "Jacob Krüger, Wolfram Fenske, Jens Meinicke, Thomas Leich, and Gunter Saake"
   title: "Extracting Software Product Lines: A Cost Estimation Perspective."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
   doi: "10.1145/2934466.2962731"
+  publisher: "ACM"
+  year: 2016
+
+- id: Krueger2016FeatureCoPP
+  author: "Jacob Krüger, Ivonne Schröter, Andy Kenner, Christopher Kruczek and Thomas Leich}"
+  title: "FeatureCoPP: Compositional Annotations"
+  booktitle: "International Workshop on Feature-Oriented Software Development (FOSD)"
+  doi: "10.1145/3001867.3001876"
   publisher: "ACM"
   year: 2016
