@@ -1,5 +1,21 @@
 journals:
 
+- id: Kuiter2021varied
+  author: "Elias Kuiter, Sebastian Krieter, Jacob Krüger, Gunter Saake, and Thomas Leich"
+  title: "variED: An Editor for Collaborative, Real-Time Feature Modeling."
+  journal: "Empirical Software Engineering"
+  pages: "26(24):1-47"
+  doi: "10.1007/s10664-020-09892-x"
+  year: 2021
+  
+- id: Lindohf2021LargeFEF
+  author: "Robert Lindohf, Jacob Krüger, Erik Herzog, and Thorsten Berger"
+  title: "Software Product-Line Evaluation in the Large."
+  journal: "Empirical Software Engineering"
+  pages: "26(2):1-30"
+  doi: "10.1007/s10664-020-09913-9"
+  year: 2021
+
 - id: Heumuller2020Artifacts
   author: "Robert Heumüller, Sebastian Nielebock, Jacob Krüger, and Frank Ortmeier"
   title: "Publish or Perish, but do not Forget your Software Artifacts."
@@ -57,6 +73,118 @@ journals:
   year: 2018
   
 proceedings:
+
+- id: Alchokr2021ArticleRecommendation
+  author: "Rand Alchokr, Jacob Krüger, Gunter Saake, and Thomas Leich"
+  title: "A Comparative Analysis of Article Recommendation Platforms."
+  booktitle: "Joint Conference on Digital Libraries (JCDL)"
+  doi: "10.1109/JCDL52503.2021.00012"
+  publisher: "IEEE"
+  year: 2021
+
+- id: Alchokr2021JuniorResearchers
+  author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
+  title: "Understanding the Contributions of Junior Researchers at Software-Engineering Conferences."
+  booktitle: "Joint Conference on Digital Libraries (JCDL)"
+  doi: "10.1109/JCDL52503.2021.00056"
+  publisher: "IEEE"
+  year: 2021
+
+- id: Assuncao2022VM4ModernTech
+  author: "Wesley K. G. Assunção, Inmaculada Ayala, Jacob Krüger, and Sébastien Mosser"
+  title: "International Workshop on Variability Management for Modern Technologies (VM4ModernTech 2021)."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3461001.3475157"
+  publisher: "ACM"
+  year: 2021
+
+- id: Fenske2021IfdefsSE
+  author: "Wolfram Fenske, Jacob Krüger, Maria Kanyshkova, and Sandro Schulze"
+  title: "#ifdef Directives and Program Comprehension: The Dilemma between Correctness and Preference."
+  booktitle: "Software Engineering (SE)"
+  doi: "10.18420/SE2021_06"
+  publisher: "GI"
+  year: 2021
+  
+- id: Gnoyke2021ArchSmellsEvolution
+  author: "Philipp Gnoyke, Sandro Schulze, and Jacob Krüger"
+  title: "An Evolutionary Analysis of Software-Architecture Smells."
+  booktitle: "International Conference on Software Maintenance and Evolution (ICSME)"
+  doi: "10.1109/ICSME52107.2021.00043"
+  publisher: "IEEE"
+  year: 2021
+  
+- id: Kenner2021SecuritySfateySPL
+  author: "Andy Kenner, Richard May, Jacob Krüger, Gunter Saake, and Thomas Leich"
+  title: "Safety, Security, and Configurable Software Systems: A Systematic Mapping Study."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "0.1145/3461001.3471147"
+  publisher: "ACM"
+  year: 2021
+
+- id: Krueger2021CostsComparisonSE
+  author: "Jacob Krüger and Thorsten Berger"
+  title: "An Empirical Analysis of the Costs of Clone- and Platform-Oriented Software Reuse."
+  booktitle: "Software Engineering (SE)"
+  doi: "10.18420/SE2021_23"
+  publisher: "GI"
+  year: 2021
+
+- id: Krueger2021FeatureTraceMemory
+  author: "Jacob Krüger, Gül  Calıklı, Thorsten Berger, and Thomas Leich"
+  title: "How Explicit Feature Traces Did Not Impact Developers’ Memory."
+  booktitle: "International Conference on Software Analysis, Evolution and Reengineering (SANER)"
+  doi: "10.1109/SANER50967.2021.00075"
+  publisher: "IEEE"
+  year: 2021
+
+- id: Krueger2021CareRecallSE
+  author: "Jacob Krüger and Regina Hebig"
+  title: "What Developers (Care to) Recall: An Interview Survey on Smaller Systems."
+  booktitle: "Software Engineering (SE)"
+  doi: "10.18420/SE2021_24"
+  publisher: "GI"
+  year: 2021
+  
+- id: Kuiter2021PigNap
+  author: "Elias Kuiter, Jacob Krüger, and Gunter Saake"
+  title: "Iterative Development and Changing Requirements: Drivers of Variability in an Industrial System for Veterinary Anesthesia."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3461002.3473950"
+  publisher: "ACM"
+  year: 2021
+  
+- id: Nielebock2021GraphDistance
+  author: "Sebastian Nielebock, Paul Blockhaus, Jacob Krüger, and Frank Ortmeier"
+  title: "An Experimental Analysis of Graph-Distance Algorithms for Comparing API Usages."
+  booktitle: "International Working Conference on Source Code Analysis and Manipulation (SCAM)"
+  doi: "10.1109/SCAM52516.2021.00034"
+  publisher: "IEEE"
+  year: 2021
+  
+- id: Nielebock2021AndroidCompass
+  author: "Sebastian Nielebock, Paul Blockhaus, Jacob Krüger, and Frank Ortmeier"
+  title: "AndroidCompass: A Dataset of Android Compatibility Checks in Code Repositories."
+  booktitle: "International Conference on Mining Software Repositories (MSR)"
+  doi: "10.1109/MSR52588.2021.00069"
+  publisher: "IEEE"
+  year: 2021
+  
+- id: Shakeel2021Altmetrics
+  author: "Yusra Shakeel, Rand Alchokr, Jacob Krüger, Gunter Saake, and Thomas Leich"
+  title: "Are Altmetrics Proxies or Complements to Citations for Assessing Impact in Computer Science?"
+  booktitle: "Joint Conference on Digital Libraries (JCDL)"
+  doi: "10.1109/JCDL52503.2021.00037"
+  publisher: "IEEE"
+  year: 2021
+  
+- id: Sueruecue2021KPIsSE
+  author: "Cem Sürücü, Bianying Song, Jacob Krüger, Gunter Saake, and Thomas Leich"
+  title: "Using Key Performance Indicators to Compare Software-Development Processes."
+  booktitle: "Software Engineering (SE)"
+  doi:
+  publisher: "GI"
+  year: 2021
 
 - id: Ananieva2020ConceptualModel
   author: "Sofia Ananieva, Sandra Greiner, Thomas Kühn, Jacob Krüger, Lukas Linsbauer, Sten Grüner, Timo Kehrer, Heiko Klare, Anne Koziolek, Henrik Lönn, Sebastian Krieter, Christoph Seidl, S. Ramesh, Ralf Reussner, and Bernhard Westfechtel"
