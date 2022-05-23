@@ -53,7 +53,7 @@ proceedings:
 - id: Krueger2018TestRefactoring
   author: "Jacob Krüger, Mustafa Al-Hajjaji, Sandro Schulze, Gunter Saake, and Thomas Leich"
   title: "Towards Automated Test Refactoring for Software Product Lines." 
-  booktitle: "International Systems and Software Product Line Conference (SPLC)
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
   doi: "10.1145/3233027.3233040"
   publisher: "ACM"
   year: 2018
@@ -61,7 +61,7 @@ proceedings:
 - id: Krueger2018ApoGames
   author: "Jacob Krüger, Wolfram Fenske, Thomas Thüm, Dirk Aporius, Gunter Saake, and Thomas Leich"
   title: "Apo-Games - A Case Study for Reverse Engineering Variability from Cloned Java Variants."
-  booktitle: "International Systems and Software Product Line Conference (SPLC)
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
   doi: "10.1145/3233027.3236403"
   publisher: "ACM"
   year: 2018
@@ -124,7 +124,7 @@ proceedings:
   
 - id: vonNostitzWallwitz2018KnowledgeTransfer
   author: "Ivonne von Nostitz-Wallwitz, Jacob Krüger, Janet Siegmund, and Thomas Leich"
-  author: "Knowledge Transfer from Research to Industry: A Survey on Program Comprehension."
+  title: "Knowledge Transfer from Research to Industry: A Survey on Program Comprehension."
   booktitle: "International Conference on Software Engineering Companion (ICSE-C)"
   doi: "10.1145/3183440.3194980"
   publisher: "ACM"
