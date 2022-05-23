@@ -20,7 +20,7 @@ proceedings:
 - id: Krieter2018ManagingVariability
   author: "Sebastian Krieter, Jacob Krüger, and Thomas Leich"
   title: "Don’t Worry About It: Managing Variability On-the-Fly." 
-  booktitle: "International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS)
+  booktitle: "International Workshop on Variability Modelling of Software-Intensive Systems (VaMoS)"
   doi: "10.1145/3168365.3170426"
   publisher: "ACM"
   year: 2018
