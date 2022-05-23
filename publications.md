@@ -1,3 +1,5 @@
+{% assign pubCounter = 1 %}
+
 <details>
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Dissertation</b></summary>
 
@@ -10,16 +12,20 @@
 <details>
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Conference & Workshop Papers</b></summary>
 
-<ol>
 {% assign prev_year = "" %}
 {% for pub in site.data.bib.proceedings %}
 {% capture this_year %}{{ pub.year }}{% endcapture %}
 {% if prev_year != this_year %}
+{% if prev_year != "" %}
+</ol>
+{% endif %}
 {% assign prev_year = this_year %}
-<li style="list-style: none; margin-inline-start: -2em; counter-increment: -1"><b>{{ this_year }}</b></li>
+<b>{{ this_year }}</b>
+<ol start= {{ pubCounter }}>
+{% assign pubCounter = pubCounter++ %}
 {% endif %}
   
 <li style="margin: 5px;">{{ pub.author }}: <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><b>{{ pub.title }}</b></a> {{ pub.booktitle }}, {{ pub.publisher }}, {{ pub.year }}. doi: {{ pub.doi }} <a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a></li>
 {% endfor %}
-</ul>
+</ol>
 </details>
