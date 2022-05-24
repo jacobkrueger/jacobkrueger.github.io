@@ -64,9 +64,9 @@ Most software systems exist for a longer time, and thus are evolving. There are 
 <br>
 
 <details>
-<summary style="cursor:pointer;"><b style="cursor:pointer;">Cognition in software evolution</b></summary>
+<summary style="cursor:pointer;"><b style="cursor:pointer;">Cognition in software engineering</b></summary>
 
-
+Developers, and thus humans, implement and evolve software. Consequently, software engineering is subject to cognitive biases and other psychological or sociological concepts. Unfortunately, such biases can cause problems in the software itself, for instance, bugs, architectural degeneration, or performance problems. A prime example is that developers reuse an existing implementation that solves a problem similar to theirs. However, that solution may not work properly in the new context or may not be the best solution. The developers may not properly reflect on such problems, since cognitive biases impair their rationality. Understanding cognition in software engineering, studying program comprehension, and mitigating biases can help developers improve the quality of their systems.
 
 <br><br>
   
