@@ -7,7 +7,7 @@ In my research, I focus on understanding, describing, and facilitating software 
 
 The primary focus of my <a href="assets/papers/diss.pdf" target="_blank" rel="me noopener noreferrer">dissertation</a><a href="assets/papers/diss.pdf" target="_blank" rel="me noopener noreferrer"></a> has been on the re-engineering of variant-rich systems. A variant-rich system describes a number of reused software variants that are similar, but have unique functionalities (i.e., features) to fulfill individual customer requirements. Organizations implement variant-rich systems through different techniques, which can be primarily distinguished into clone-based (e.g., copy-paste, clone & own) or platform-based (e.g., product-line engineering) strategies. Most developers start with clone-based development by creating and adapting a copy of an existing variant, since it is well supported and readily available, for instance, via forking on GitHub. However, an increasing number of cloned variants can easily cause problems in developing and maintaining the variant-rich system, for instance, because new features or bug fixes must be propagated between the independent and co-evolving variants. In such cases, organizations often decide to adopt a platform by re-engineering their cloned variants. A platform builds on a variability mechanism (i.e., a technique for implementing configuration options, such as the C preprocessor) and automated tool support (e.g., for modeling features, configuring, and deriving variants) to help developers reuse software artifacts more systematically.
 
-<br>
+<br><br>
 
 <b>Contributions</b>
 <ul>
@@ -44,7 +44,7 @@ The primary focus of my <a href="assets/papers/diss.pdf" target="_blank" rel="me
 
 Most software systems exist for a longer time, and thus are evolving. There are numerous reasons why software evolves, for instance, because new features are added (with the system potentially becoming variant-rich), refactorings employed, or bugs fixed. However, not every evolution may improve the system. Instead, a change may lead to new bugs in the system or a general degeneration of the source code; causing, for instance, architectural or code smells<a href="assets/papers/Gnoyke2022ArchSmellsEvolutionSE.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a><a href="assets/papers/Gnoyke2021ArchSmellsEvolution.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>, technical debt, or incomprehensible code. It is important to understand how software degenerates and how this is impacted or impacts developers. Precisely, a system may become less and less comprehensible, requiring major re-engineering to improve its quality and make it usable for an organization.
 
-<br>
+<br><br>
   
 <b>Contributions</b>
 <ul>
@@ -68,7 +68,7 @@ Most software systems exist for a longer time, and thus are evolving. There are 
 
 
 
-<br>
+<br><br>
   
 <b>Contributions</b>
 <ul>
@@ -91,7 +91,7 @@ Most software systems exist for a longer time, and thus are evolving. There are 
 
 
 
-<br>
+<br><br>
   
 <b>Contributions</b>
 <ul>
@@ -119,7 +119,7 @@ Most software systems exist for a longer time, and thus are evolving. There are 
   <a href="assets/papers/Alchokr2021JuniorResearchers.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>
   
 
-<br>
+<br><br>
   
 <b>Contributions</b>
 <ul>
