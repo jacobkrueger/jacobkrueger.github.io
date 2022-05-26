@@ -111,7 +111,7 @@ Developers, and thus humans, implement and evolve software. Consequently, softwa
 
 <b>Projects and funding</b>
 <ul>
-  <li>Innovation fund of the Otto-von-Guericke University Magdeburg</li>
+  <li>Otto-von-Guericke University Magdeburg: Innovation fund</li>
 </ul>
 
 
