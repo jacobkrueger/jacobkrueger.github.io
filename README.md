@@ -10,7 +10,7 @@ If you are interested in collaborating with me (e.g., theses, research/industria
 - Quality in software evolution
    - Degeneration of software architecture
    - Code and bug propagation
-- Cognition in software evolution
+- Cognition in software engineering
    - Cognitive biases
    - Program comprehension
 - Fork-based software development
