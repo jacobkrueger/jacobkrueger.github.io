@@ -7,10 +7,10 @@ If you are interested in collaborating with me (e.g., theses, research/industria
 - Re-engineering variant-rich systems
    - Economic impact of re-engineering
    - Challenges of merging variants
-- Quality problems in software evolution
+- Quality in software evolution
    - Degeneration of software architecture
    - Code and bug propagation
-- Cognitive problems in software evolution
+- Cognition in software evolution
    - Cognitive biases
    - Program comprehension
 - Fork-based software development
