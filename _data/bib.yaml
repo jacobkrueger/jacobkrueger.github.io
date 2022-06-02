@@ -121,6 +121,22 @@ proceedings:
   doi: ""
   publisher: "ACM"
   year: 2022
+
+- id: ""
+  authors: "Richard May, Christian Biermann, Jacob Krüger, Gunter Saake, and Thomas Leich"
+  title: "A Systematic Mapping Study of Security Concepts for Configurable Data Storages"
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: ""
+  publisher: "ACM"
+  year: 2022
+
+- id: ""
+  author: "Sandro Schulze, Jacob Krüger, and Johannes Wünsche"
+  title: "Towards Automated Merging of Forked Test Cases"
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: ""
+  publisher: "ACM"
+  year: 2022
   
 - id: Shakeel2022Altmetrics
   author: "Yusra Shakeel, Rand Alchokr, Jacob Krüger, Gunter Saake, and Thomas Leich"

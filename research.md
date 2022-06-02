@@ -93,7 +93,7 @@ Most software systems exist for a longer time, and thus are evolving. There are 
 Developers, and thus humans, implement and evolve software. Consequently, software engineering is subject to cognitive biases and other psychological or sociological concepts. Unfortunately, such biases can cause problems in the software itself, for instance, bugs, architectural degeneration, or performance problems. A prime example is that developers reuse an existing implementation that solves a problem similar to theirs. However, that solution may not work properly in the new context or may not be the best solution. The developers may not properly reflect on such problems, since cognitive biases impair their rationality. Understanding cognition in software engineering, studying program comprehension, and mitigating biases can help developers improve the quality of their systems.
 
 <br><br>
-  
+
 <b>Contributions</b>
 <ul>
   <li>We improve our foundational understanding of what knowledge developers aim to remember, and how to measure their remaining expertise; with the results indicating that more abstract (e.g., feature) knowledge is easier to remember for them.<a href="assets/papers/Krueger2020DevelopersRecall.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a><a href="assets/papers/Krueger2018Remember.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a><a href="assets/papers/Krueger2021FeatureTraceMemory.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a><a href="assets/papers/Krueger2021CareRecallSE.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a><a href="assets/papers/Krueger2019ComprehensionMemory.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a><a href="assets/papers/Krueger2019UnderstandingForget.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a></li>
@@ -123,7 +123,14 @@ Developers, and thus humans, implement and evolve software. Consequently, softwa
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Fork-based software development</b></summary>
 
 Fork-based software development refers to developers creating a fork (i.e., copy) of a system and implementing, for instance, a new feature or bug fix on that fork. Afterwards, the developers request that the fork is merged back into the system, for which a review is typically performed. This development paradigm enables collaborative and distributed work, while also providing means to improve the management of concurrent development effort. However, forks can also easily become long-living clones of their system, resulting in variant-rich systems. Consequently, most research related to this area is also closely connected to the area of variant-rich systems.
-  
+
+<br><br>
+
+<b>Contributions</b>
+<ul>
+  <li>We are developing techniques to support developers during the merging of forked variants.</li>
+</ul>
+
 </details>
 
 <br>
@@ -134,7 +141,7 @@ Fork-based software development refers to developers creating a fork (i.e., copy
 In parallel to the other research topics, publishing experiences and recommendations on scientific methods is an important topic. Particularly, recommendations on pitfalls of literature analyses (e.g., literature reviews) and empirical studies are important to improve community practices. As such, such meta-research aims at improving science itself and facilitating researchers' tasks. Moreover, it is concerned with potential impediments that (certain groups of) researchers face when participating in the scientific community.
 
 <br><br>
-  
+
 <b>Contributions</b>
 <ul>
   <li>We empirically study the software engineering/computer science community, particularly what impediments junior researchers face when they start their scientific careers.<a href="assets/papers/Alchokr2022ReviewingDynamics.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a><a href="assets/papers/Alchokr2022GoldenAge.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a><a href="assets/papers/Alchokr2021JuniorResearchers.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>
