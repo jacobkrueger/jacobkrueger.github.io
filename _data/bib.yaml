@@ -4,8 +4,8 @@ journals:
   author: "Sofia Ananieva, Sandra Greiner, Timo Kehrer, Jacob Krüger, Thomas Kühn, Lukas Linsbauer, Sten Grüner, Anne Koziolek, Henrik Lönn, S. Ramesh, and Ralf Reussner"
   title: "A Conceptual Model for Unifying Variability in Space and Time: Rationale, Validation, and Illustrative Applications."
   journal: "Empirical Software Engineering"
-  pages: ""
-  doi: ""
+  pages: "27(101):1-53"
+  doi: "10.1007/s10664-021-10097-z"
   year: 2022
 
 - id: Kuiter2021varied
@@ -94,13 +94,13 @@ proceedings:
   author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
   title: "Peer-Reviewing and Submission Dynamics Around Top Software-Engineering Venues: A Juniors' Perspective."
   booktitle: "International Conference on Evaluation and Assessment in Software Engineering (EASE)"
-  doi: ""
+  doi: "10.1145/3530019.3530026"
   publisher: "IEEE"
   year: 2022
 
 - id: Ananieva2022UnifiedOperations
   author: "Sofia Ananieva, Sandra Greiner, Jacob Krüger, Lukas Linsbauer, Sten Grüner, Timo Kehrer, Thomas Kühn, Christoph Seidl, and Ralf Reussner"
-  title: "Unified Operations for Variability in Space and Time"
+  title: "Unified Operations for Variability in Space and Time."
   booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
   doi: "10.1145/3510466.3510483"
   publisher: "ACM"
@@ -124,7 +124,7 @@ proceedings:
 
 - id: ""
   author: "Richard May, Christian Biermann, Jacob Krüger, Gunter Saake, and Thomas Leich"
-  title: "A Systematic Mapping Study of Security Concepts for Configurable Data Storages"
+  title: "A Systematic Mapping Study of Security Concepts for Configurable Data Storages."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
   doi: ""
   publisher: "ACM"
@@ -132,7 +132,7 @@ proceedings:
 
 - id: ""
   author: "Sandro Schulze, Jacob Krüger, and Johannes Wünsche"
-  title: "Towards Automated Merging of Forked Test Cases"
+  title: "Towards Automated Merging of Forked Test Cases."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
   doi: ""
   publisher: "ACM"
@@ -142,7 +142,7 @@ proceedings:
   author: "Yusra Shakeel, Rand Alchokr, Jacob Krüger, Gunter Saake, and Thomas Leich"
   title: "Altmetrics and Citation Counts: An Empirical Analysis of the Computer Science Domain."
   booktitle: "Joint Conference on Digital Libraries (JCDL)"
-  doi: ""
+  doi: "10.1145/3529372.3530939"
   publisher: "IEEE"
   year: 2022
   
@@ -150,7 +150,7 @@ proceedings:
   author: "Yusra Shakeel, Rand Alchokr, Jacob Krüger, Gunter Saake, and Thomas Leich"
   title: "Incorporating Altmetrics to Support Selection and Assessment of Publications during Literature Analyses."
   booktitle: "International Conference on Evaluation and Assessment in Software Engineering (EASE)"
-  doi: ""
+  doi: "10.1145/3530019.3530038"
   publisher: "IEEE"
   year: 2022
 
