@@ -8,6 +8,13 @@ journals:
   doi: "10.1007/s10664-021-10097-z"
   year: 2022
 
+- id: Krueger2022DissDenert
+  author: "Jacob Krüger"
+  title: "Understanding the Re-Engineering of Variant-Rich Systems: An Empirical Work on Economics, Knowledge, Traceability, and Practices"
+  journal: "Softwaretechnik-Trends (Ernst-Denert-Preis)"
+  pages: "42(2):16-17"
+  year: 2022
+
 - id: Kuiter2021varied
   author: "Elias Kuiter, Sebastian Krieter, Jacob Krüger, Gunter Saake, and Thomas Leich"
   title: "variED: An Editor for Collaborative, Real-Time Feature Modeling."
