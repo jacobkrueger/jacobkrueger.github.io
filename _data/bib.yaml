@@ -121,7 +121,7 @@ proceedings:
   publisher: "GI"
   year: 2022
 
-- id: ""
+- id: Krueger2022VM4ModernTech
   author: "Jacob Krüger, Wesley K. G. Assunção, Inmaculada Ayala, and Sébastien Mosser"
   title: "International Workshop on Variability Management for Modern Technologies (VM4ModernTech 2022)."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
@@ -129,7 +129,7 @@ proceedings:
   publisher: "ACM"
   year: 2022
 
-- id: ""
+- id: May2022SecureDataStorages
   author: "Richard May, Christian Biermann, Jacob Krüger, Gunter Saake, and Thomas Leich"
   title: "A Systematic Mapping Study of Security Concepts for Configurable Data Storages."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
@@ -137,7 +137,7 @@ proceedings:
   publisher: "ACM"
   year: 2022
 
-- id: ""
+- id: Schulze2022TestMerging
   author: "Sandro Schulze, Jacob Krüger, and Johannes Wünsche"
   title: "Towards Automated Merging of Forked Test Cases."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
