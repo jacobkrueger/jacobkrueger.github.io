@@ -89,6 +89,14 @@ journals:
   
 proceedings:
 
+- id: ""
+  author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
+  title: "A Closer Look into Collaborative Publishing at Software-Engineering Conferences"
+  booktitle: "International Conference on Theory and Practice of Digital Libraries (TPDL)"
+  doi: ""
+  publisher: "Springer"
+  year: 2022
+
 - id: Alchokr2022GoldenAge
   author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
   title: "On Academic Age Aspects and Discovering the Golden Age in Software Engineering."
