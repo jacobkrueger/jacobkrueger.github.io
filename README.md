@@ -1,4 +1,4 @@
-I am a software engineering researcher with a focus on human aspects in software evolution, integrating economics, psychology, and other domains into software engineering. Currently, I work as an Academic Council (PostDoc position) at the Ruhr-University Bochum, Germany.
+I am a software engineering researcher with a focus on human aspects in software evolution, integrating economics, psychology, and other domains into software engineering. Currently, I work as Assistant Professor at Eindhoven University of Technology, The Netherlands.
 
 In 2021, I obtained my PhD from the [Otto-von-Guericke University Magdeburg](https://www.ovgu.de/en/) under the supervision of [Prof. Thomas Leich](https://www.hs-harz.de/tleich/zur-person/) and [Prof. Gunter Saake](https://www.dbse.ovgu.de/en/Staff/Gunter+Saake.html). My [dissertation](https://opendata.uni-halle.de//handle/1981185920/41305) (external reviewers: [Prof. Jan Bosch](https://janbosch.com/) and [Prof. Rick Rabiser](https://rickrabiser.github.io/rick/)) focused on providing an empirics-based understanding of the re-engineering of variant-rich systems to support developers in the decision whether to rely on unsystematic or systematic software reuse. For this purpose, I studied modern practices of engineering variant-rich systems to derive a novel process model as well as guidelines for scoping and planning the (re-)engineering of variant-rich systems. Digging into the details of such re-engineering endeavors, I elicited insights into the economics of software reuse, the impact of missing knowledge, and how to improve the tracing of that knowledge. Building on my dissertation, I am advancing with a focus on developers’ cognition and the challenges therein that are related to software evolution.
 
@@ -28,7 +28,8 @@ Checkout my research and publications or ask me if you want to learn a bit more 
 
 During my research, I have worked in different (types of) universities and multiple countries, collaborating with various researchers and students.
 
-- Since 06/2021 Academic Council, Ruhr-University Bochum, Germany
+- Since 09/2022 Assistant Professor, Eindhoven University of Technology, The Netherlands
+- 06/2021-08/2022 Academic Council, Ruhr-University Bochum, Germany
 - 05/2018–06/2021 Research Associate, Otto-von-Guericke University Magdeburg, Germany
 - 01/2020–03/2020 Visiting researcher, University of Toronto, Canada
 - 10/2017–09/2018 Visiting researcher, Chalmers and University of Gothenburg, Sweden
