@@ -13,6 +13,7 @@ journals:
   title: "Understanding the Re-Engineering of Variant-Rich Systems: An Empirical Work on Economics, Knowledge, Traceability, and Practices"
   journal: "Softwaretechnik-Trends (Ernst-Denert-Preis)"
   pages: "42(2):16-17"
+  doi: ""
   year: 2022
 
 - id: Kuiter2021varied
@@ -89,11 +90,11 @@ journals:
   
 proceedings:
 
-- id: ""
+- id: Alchokr2022CollaborativePublishing
   author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
-  title: "A Closer Look into Collaborative Publishing at Software-Engineering Conferences"
+  title: "A Closer Look into Collaborative Publishing at Software-Engineering Conferences."
   booktitle: "International Conference on Theory and Practice of Digital Libraries (TPDL)"
-  doi: ""
+  doi: "10.1007/978-3-031-16802-4_38"
   publisher: "Springer"
   year: 2022
 
@@ -101,7 +102,7 @@ proceedings:
   author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
   title: "On Academic Age Aspects and Discovering the Golden Age in Software Engineering."
   booktitle: "International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)"
-  doi: ""
+  doi: "10.1145/3528579.3529175"
   publisher: "ACM"
   year: 2022
 
@@ -133,7 +134,7 @@ proceedings:
   author: "Jacob Krüger, Wesley K. G. Assunção, Inmaculada Ayala, and Sébastien Mosser"
   title: "International Workshop on Variability Management for Modern Technologies (VM4ModernTech 2022)."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
-  doi: ""
+  doi: "10.1145/3546932.3547019"
   publisher: "ACM"
   year: 2022
 
@@ -141,16 +142,24 @@ proceedings:
   author: "Richard May, Christian Biermann, Jacob Krüger, Gunter Saake, and Thomas Leich"
   title: "A Systematic Mapping Study of Security Concepts for Configurable Data Storages."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
-  doi: ""
+  doi: "10.1145/3546932.3546994"
   publisher: "ACM"
   year: 2022
 
 - id: Schulze2022TestMerging
   author: "Sandro Schulze, Jacob Krüger, and Johannes Wünsche"
-  title: "Towards Automated Merging of Forked Test Cases."
+  title: "Towards Developer Support for Merging Forked Test Cases."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
-  doi: ""
+  doi: "10.1145/3546932.3547002"
   publisher: "ACM"
+  year: 2022
+
+- id: ""
+  author: "Yusra Shakeel, Rand Alchokr, Jacob Krüger, Thomas Leich, and Gunter Saake"
+  title: "Are Altmetrics Useful for Assessing Scientific Impact? A Survey."
+  booktitle: "International Conference on Management of Digital EcoSystems (MEDES)"
+  doi: ""
+  publisher: "Springer"
   year: 2022
   
 - id: Shakeel2022Altmetrics
