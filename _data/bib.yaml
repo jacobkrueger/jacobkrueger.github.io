@@ -91,11 +91,27 @@ journals:
 proceedings:
 
 - id: ""
+  author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
+  title: "Peer-Reviewing and Submission Dynamics Around Top Software-Engineering Venues: A Juniors' Perspective."
+  booktitle: "Software Engineering (SE)"
+  doi: ""
+  publisher: "GI"
+  year: 2023
+
+- id: ""
   author: "Lennart Holsten, Christian Frank, Jacob Krüger, Thomas Leich"
   title: "Electric/Electronic Platforms in the Automotive Industry: Challenges and Guidelines for Variant-Rich Systems Engineering."
   booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
   doi: ""
   publisher: "ACM"
+  year: 2023
+
+- id: ""
+  author: "Elias Kuiter, Sebastian Krieter, Jacob Krüger, Gunter Saake, and Thomas Leich"
+  title: "variED: An Editor for Collaborative, Real-Time Feature Modeling."
+  booktitle: "Software Engineering (SE)"
+  doi: ""
+  publisher: "GI"
   year: 2023
 
 - id: Alchokr2022CollaborativePublishing
@@ -135,6 +151,14 @@ proceedings:
   title: "An Evolutionary Analysis of Software-Architecture Smells."
   booktitle: "Software Engineering (SE)"
   doi: "10.18420/se2022-ws-007"
+  publisher: "GI"
+  year: 2022 
+
+- id: Krueger2022DissGI
+  author: "Jacob Krüger"
+  title: "Das Re-Engineering variantenreicher Systeme verstehen: Eine empirische Arbeit über Kosten, Wissen, Nachvollziehbarkeit und Methoden"
+  booktitle: "INFORMATIK 2022: GI-Dissertationspreis (INFORMATIK))"
+  doi: ""
   publisher: "GI"
   year: 2022
 
