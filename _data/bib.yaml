@@ -90,6 +90,14 @@ journals:
   
 proceedings:
 
+- id: ""
+  author: "Lennart Holsten, Christian Frank, Jacob Krüger, Thomas Leich"
+  title: "Electric/Electronic Platforms in the Automotive Industry: Challenges and Guidelines for Variant-Rich Systems Engineering."
+  booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
+  doi: ""
+  publisher: "ACM"
+  year: 2023
+
 - id: Alchokr2022CollaborativePublishing
   author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
   title: "A Closer Look into Collaborative Publishing at Software-Engineering Conferences."
