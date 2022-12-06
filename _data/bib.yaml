@@ -158,7 +158,7 @@ proceedings:
   author: "Jacob Krüger"
   title: "Das Re-Engineering variantenreicher Systeme verstehen: Eine empirische Arbeit über Kosten, Wissen, Nachvollziehbarkeit und Methoden"
   booktitle: "INFORMATIK 2022: GI-Dissertationspreis (INFORMATIK))"
-  doi: ""
+  link: "https://dl.gi.de/handle/20.500.12116/39836"
   publisher: "GI"
   year: 2022
 
@@ -186,12 +186,12 @@ proceedings:
   publisher: "ACM"
   year: 2022
 
-- id: ""
+- id: Shakeel2022AltmetricsSurvey
   author: "Yusra Shakeel, Rand Alchokr, Jacob Krüger, Thomas Leich, and Gunter Saake"
   title: "Are Altmetrics Useful for Assessing Scientific Impact? A Survey."
   booktitle: "International Conference on Management of Digital EcoSystems (MEDES)"
   doi: ""
-  publisher: "Springer"
+  publisher: "ACM"
   year: 2022
   
 - id: Shakeel2022Altmetrics
