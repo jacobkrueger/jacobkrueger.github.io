@@ -90,7 +90,6 @@ journals:
   
 proceedings:
 
-
 - id: ""
   author: "Rand Alchokr, Rayed Haider, Yusra Shakeel, Thomas Leich, Gunter Saake, and Jacob Krüger"
   title: "Forecasting Publication’s Success Using Machine Learning."
@@ -108,9 +107,33 @@ proceedings:
   year: 2023
 
 - id: ""
+  author: "Siyue Chen, Loek Cleophas, and Jacob Krüger"
+  title: "A Comparison of Visualization Concepts and Tools for Variant-Rich System Engineering."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: ""
+  publisher: "ACM"
+  year: 2023
+
+- id: ""
+  author: "Alejandro Cortiñas, Jacob Krüger, Victor Lamas, Oscar Pedreira, and Miguel R. Luaces"
+  title: "How to Retire and Replace a Software Product Line."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: ""
+  publisher: "ACM"
+  year: 2023
+
+- id: ""
   author: "Lennart Holsten, Christian Frank, Jacob Krüger, Thomas Leich"
   title: "Electric/Electronic Platforms in the Automotive Industry: Challenges and Guidelines for Variant-Rich Systems Engineering."
   booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
+  doi: ""
+  publisher: "ACM"
+  year: 2023
+
+- id: ""
+  author: "Sebastian Krieter, Jacob Krüger, Thomas Leich, and Gunter Saake"
+  title: "VariantInc: Automatically Pruning and Integrating Versioned Software Variants."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
   doi: ""
   publisher: "ACM"
   year: 2023
@@ -121,6 +144,14 @@ proceedings:
   booktitle: "Software Engineering (SE)"
   doi: ""
   publisher: "GI"
+  year: 2023
+
+- id: ""
+  author: "Philipp Zellmer, Lennart Holsten, Thomas Leich, and Jacob Krüger"
+  title: "Product-Structuring Concepts for Automotive Platforms: A Systematic Mapping Study."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: ""
+  publisher: "ACM"
   year: 2023
 
 - id: Alchokr2022CollaborativePublishing
