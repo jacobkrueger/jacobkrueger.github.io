@@ -1,6 +1,6 @@
 journals:
 
-- id: Assuncao2023MicroserviceEvolution
+- id: ""
   author: "Wesley K. G. Assunção, Jacob Krüger, Sébastien Mosser, and Sofiane Selaoui"
   title: "How do Microservices Evolve? An Empirical Analysis of Changes in Open-Source Microservice Repositories."
   journal: "Journal of Systems and Software"
