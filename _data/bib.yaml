@@ -147,6 +147,14 @@ proceedings:
   year: 2023
 
 - id: ""
+  author: Jacob Krüger, Alex Mikulinski, Sandro Schulze, Thomas Leich, and Gunter Saake"
+  title: "DSDGen: Extracting Documentation to Comprehend Fork Merges."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: ""
+  publisher: "ACM"
+  year: 2023
+
+- id: ""
   author: "Elias Kuiter, Sebastian Krieter, Jacob Krüger, Gunter Saake, and Thomas Leich"
   title: "variED: An Editor for Collaborative, Real-Time Feature Modeling."
   booktitle: "Software Engineering (SE)"
