@@ -147,7 +147,7 @@ proceedings:
   year: 2023
 
 - id: ""
-  author: Jacob Krüger, Alex Mikulinski, Sandro Schulze, Thomas Leich, and Gunter Saake"
+  author: "Jacob Krüger, Alex Mikulinski, Sandro Schulze, Thomas Leich, and Gunter Saake"
   title: "DSDGen: Extracting Documentation to Comprehend Fork Merges."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
   doi: ""
