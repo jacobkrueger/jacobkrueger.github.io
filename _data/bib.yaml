@@ -115,11 +115,11 @@ proceedings:
   year: 2023
 
 - id: ""
-  author: "Rand Alchokr, Rayed Haider, Yusra Shakeel, Thomas Leich, Gunter Saake, and Jacob Krüger"
-  title: "Forecasting Publication’s Success Using Machine Learning."
-  booktitle: "International Workshop on Bibliometric-Enhanced Information (BIR)"
+  author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
+  title: "Peer-Reviewing and Submission Dynamics Around Top Software-Engineering Venues: A Juniors' Perspective."
+  booktitle: "Software Engineering (SE)"
   doi: ""
-  publisher: "CEUR-WS.org"
+  publisher: "GI"
   year: 2023
 
 - id: ""
