@@ -171,6 +171,14 @@ proceedings:
   year: 2023
 
 - id: ""
+  author: "Mukelabai Mukelabai, Christoph Derks, Jacob Krüger, and Thorsten Berger"
+  title: "To Share, or Not to Share: Exploring Test-Case Reusability in Fork Ecosystems."
+  booktitle: "International Conference on Automated Software Engineering (ASE)"
+  doi: ""
+  publisher: "IEEE"
+  year: 2023
+
+- id: ""
   author: "Philipp Zellmer, Lennart Holsten, Thomas Leich, and Jacob Krüger"
   title: "Product-Structuring Concepts for Automotive Platforms: A Systematic Mapping Study."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
