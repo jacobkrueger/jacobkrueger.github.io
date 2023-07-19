@@ -155,6 +155,14 @@ proceedings:
   year: 2023
 
 - id: ""
+  author: "Jacob Krüger, Yi Li, Chenguang Zhu, Marsha Chechik, Thorsten Berger, and Julia Rubin"
+  title: "A Vision on Intentions in Software Engineering."
+  booktitle: "Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
+  doi: ""
+  publisher: "ACM"
+  year: 2023
+
+- id: ""
   author: "Jacob Krüger, Alex Mikulinski, Sandro Schulze, Thomas Leich, and Gunter Saake"
   title: "DSDGen: Extracting Documentation to Comprehend Fork Merges."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
