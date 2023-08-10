@@ -131,6 +131,14 @@ proceedings:
   year: 2023
 
 - id: ""
+  author: "Bavo Coremans, Arjen Klomp, Satrio A. Rukmono, Jacob Krüger, Dirk Fahland, and Michel R. V. Chaudron"
+  title: "Process Mining from Jira Issues at a Large Company."
+  booktitle: "International Conference on Software Maintenance and Evolution (ICSME)"
+  doi: ""
+  publisher: "IEEE"
+  year: 2023
+
+- id: ""
   author: "Alejandro Cortiñas, Jacob Krüger, Victor Lamas, Oscar Pedreira, and Miguel R. Luaces"
   title: "How to Retire and Replace a Software Product Line."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
