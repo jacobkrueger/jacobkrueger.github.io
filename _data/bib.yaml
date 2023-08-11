@@ -195,6 +195,14 @@ proceedings:
   year: 2023
 
 - id: ""
+  author: "Sandro Schulze, Phillipp Engelke, and Jacob Krüger"
+  title: "Evolutionary Feature Dependencies: Analyzing Feature Co-Changes in C Systems."
+  booktitle: "International Working Conference on Source Code Analysis and Manipulation (SCAM)"
+  doi: ""
+  publisher: "IEEE"
+  year: 2023
+
+- id: ""
   author: "Philipp Zellmer, Lennart Holsten, Thomas Leich, and Jacob Krüger"
   title: "Product-Structuring Concepts for Automotive Platforms: A Systematic Mapping Study."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
