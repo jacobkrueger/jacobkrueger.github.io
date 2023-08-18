@@ -44,7 +44,7 @@ journals:
   author: "Robert Heumüller, Sebastian Nielebock, Jacob Krüger, and Frank Ortmeier"
   title: "Publish or Perish, but do not Forget your Software Artifacts."
   journal: "Empirical Software Engineering"
-  pages: 25:4585-4616"
+  pages: "25:4585-4616"
   doi: "10.1007/s10664-020-09851-6"
   year: 2020
 
@@ -144,6 +144,14 @@ proceedings:
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
   doi: ""
   publisher: "ACM"
+  year: 2023
+
+- id: ""
+  author: "Philipp Gnoyke, Sandro Schulze, and Jacob Krüger"
+  title: "On Developing and Improving Tools for Architecture-Smell Tracking in Java Systems."
+  booktitle: "International Working Conference on Source Code Analysis and Manipulation (SCAM)"
+  doi: ""
+  publisher: "IEEE"
   year: 2023
 
 - id: ""
