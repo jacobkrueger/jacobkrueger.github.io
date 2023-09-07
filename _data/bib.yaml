@@ -116,6 +116,14 @@ proceedings:
 
 - id: ""
   author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
+  title: "An Empirical Analysis of Newcomers’ Contributions to Software-Engineering Conferences."
+  booktitle: "International Conference on Asia-Pacific Digital Libraries (ICADL)"
+  doi: ""
+  publisher: "Springer"
+  year: 2023
+
+- id: ""
+  author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
   title: "Peer-Reviewing and Submission Dynamics Around Top Software-Engineering Venues: A Juniors' Perspective."
   booktitle: "Software Engineering (SE)"
   doi: ""
