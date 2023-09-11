@@ -203,6 +203,14 @@ proceedings:
   year: 2023
 
 - id: ""
+  author: "Richard May, Christian Biermann, Andy Kenner, Jacob Krüger, and Thomas Leich"
+  title: "A Product-Line-Engineering Framework for Secure Enterprise-Resource-Planning Systems."
+  booktitle: "International Conference on Enterprise Information Systems (CENTERIS)"
+  doi: ""
+  publisher: "Elsevier"
+  year: 2023
+
+- id: ""
   author: "Mukelabai Mukelabai, Christoph Derks, Jacob Krüger, and Thorsten Berger"
   title: "To Share, or Not to Share: Exploring Test-Case Reusability in Fork Ecosystems."
   booktitle: "International Conference on Automated Software Engineering (ASE)"
