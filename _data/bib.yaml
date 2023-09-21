@@ -179,6 +179,14 @@ proceedings:
   year: 2023
 
 - id: ""
+  author: "Jacob Krüger and Regina Hebig"
+  title: "To Memorize or to Document: A Survey of Developers’ Views on Knowledge Availability."
+  booktitle: "International Conference on on Product-Focused Software Process Improvement (PROFES)"
+  doi: ""
+  publisher: "Springer"
+  year: 2023
+
+- id: ""
   author: "Jacob Krüger, Yi Li, Chenguang Zhu, Marsha Chechik, Thorsten Berger, and Julia Rubin"
   title: "A Vision on Intentions in Software Engineering."
   booktitle: "Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
@@ -216,6 +224,14 @@ proceedings:
   booktitle: "International Conference on Automated Software Engineering (ASE)"
   doi: ""
   publisher: "IEEE"
+  year: 2023
+
+- id: ""
+  author: "Samar Saeed, Shahrzad Sheikholeslami, Jacob Krüger, and Regina Hebig"
+  title: "What Data Scientists (Care to) Recall."
+  booktitle: "International Conference on on Product-Focused Software Process Improvement (PROFES)"
+  doi: ""
+  publisher: "Springer"
   year: 2023
 
 - id: ""
