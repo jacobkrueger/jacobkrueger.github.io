@@ -1,11 +1,11 @@
 journals:
 
-- id: ""
+- id: Assuncao2023MicroserviceEvolution
   author: "Wesley K. G. Assunção, Jacob Krüger, Sébastien Mosser, and Sofiane Selaoui"
   title: "How do Microservices Evolve? An Empirical Analysis of Changes in Open-Source Microservice Repositories."
   journal: "Journal of Systems and Software"
-  pages: ""
-  doi: ""
+  pages: "204:1-14"
+  doi: "10.1016/j.jss.2023.11178"
   year: 2023
 
 - id: Ananieva2022ConceptualModelExtension
@@ -98,7 +98,7 @@ journals:
   
 proceedings:
 
-- id: ""
+- id: Alchokr2023ForcastingSuccess
   author: "Rand Alchokr, Rayed Haider, Yusra Shakeel, Thomas Leich, Gunter Saake, and Jacob Krüger"
   title: "Forecasting Publication’s Success Using Machine Learning."
   booktitle: "International Workshop on Bibliometric-Enhanced Information (BIR)"
@@ -106,15 +106,15 @@ proceedings:
   publisher: "CEUR-WS.org"
   year: 2023
 
-- id: ""
+- id: Alchokr2023AcademicAgeCitations
   author: "Rand Alchokr, Sanket Vikas Joshi, Gunter Saake, Thomas Leich, and Jacob Krüger"
   title: "Investigating the Relation between Authors’ Academic Age and their Citations."
   booktitle: "International Conference on Theory and Practice of Digital Libraries (TPDL)"
-  doi: ""
+  doi: "10.1007/978-3-031-43849-3_10"
   publisher: "Springer"
   year: 2023
 
-- id: ""
+- id: Alchokr2023NewcomerContributionsSE
   author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
   title: "An Empirical Analysis of Newcomers’ Contributions to Software-Engineering Conferences."
   booktitle: "International Conference on Asia-Pacific Digital Libraries (ICADL)"
@@ -122,23 +122,23 @@ proceedings:
   publisher: "Springer"
   year: 2023
 
-- id: ""
+- id: Alchokr2023ReviewingDynamicsSE
   author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
   title: "Peer-Reviewing and Submission Dynamics Around Top Software-Engineering Venues: A Juniors' Perspective."
   booktitle: "Software Engineering (SE)"
-  doi: ""
+  link: "https://dl.gi.de/handle/20.500.12116/40124"
   publisher: "GI"
   year: 2023
 
-- id: ""
+- id: Chen2023ComparisonVisualizations
   author: "Siyue Chen, Loek Cleophas, and Jacob Krüger"
   title: "A Comparison of Visualization Concepts and Tools for Variant-Rich System Engineering."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
-  doi: ""
+  doi: "10.1145/3579027.3608986"
   publisher: "ACM"
   year: 2023
 
-- id: ""
+- id: Coremans2023ProcessMiningTFS
   author: "Bavo Coremans, Arjen Klomp, Satrio A. Rukmono, Jacob Krüger, Dirk Fahland, and Michel R. V. Chaudron"
   title: "Process Mining from Jira Issues at a Large Company."
   booktitle: "International Conference on Software Maintenance and Evolution (ICSME)"
@@ -146,15 +146,15 @@ proceedings:
   publisher: "IEEE"
   year: 2023
 
-- id: ""
+- id: Cortinas2023RetireSPLs
   author: "Alejandro Cortiñas, Jacob Krüger, Victor Lamas, Oscar Pedreira, and Miguel R. Luaces"
   title: "How to Retire and Replace a Software Product Line."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
-  doi: ""
+  doi: "10.1145/3579027.3609004"
   publisher: "ACM"
   year: 2023
 
-- id: ""
+- id: Gnoyke2023SmellTrackingTooling
   author: "Philipp Gnoyke, Sandro Schulze, and Jacob Krüger"
   title: "On Developing and Improving Tools for Architecture-Smell Tracking in Java Systems."
   booktitle: "International Working Conference on Source Code Analysis and Manipulation (SCAM)"
@@ -162,23 +162,23 @@ proceedings:
   publisher: "IEEE"
   year: 2023
 
-- id: ""
+- id: Holsten2023EEPlatforms
   author: "Lennart Holsten, Christian Frank, Jacob Krüger, Thomas Leich"
   title: "Electric/Electronic Platforms in the Automotive Industry: Challenges and Guidelines for Variant-Rich Systems Engineering."
   booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
-  doi: ""
+  doi: "10.1145/3571788.3571796"
   publisher: "ACM"
   year: 2023
 
-- id: ""
+- id: Krieter2023VariantInc
   author: "Sebastian Krieter, Jacob Krüger, Thomas Leich, and Gunter Saake"
   title: "VariantInc: Automatically Pruning and Integrating Versioned Software Variants."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
-  doi: ""
+  doi: "10.1145/3579027.3608984"
   publisher: "ACM"
   year: 2023
 
-- id: ""
+- id: Krueger2023MemorizeDocument
   author: "Jacob Krüger and Regina Hebig"
   title: "To Memorize or to Document: A Survey of Developers’ Views on Knowledge Availability."
   booktitle: "International Conference on Product-Focused Software Process Improvement (PROFES)"
@@ -186,7 +186,7 @@ proceedings:
   publisher: "Springer"
   year: 2023
 
-- id: ""
+- id: Krueger2023IntentionsNier
   author: "Jacob Krüger, Yi Li, Chenguang Zhu, Marsha Chechik, Thorsten Berger, and Julia Rubin"
   title: "A Vision on Intentions in Software Engineering."
   booktitle: "Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
@@ -194,23 +194,23 @@ proceedings:
   publisher: "ACM"
   year: 2023
 
-- id: ""
+- id: Krueger2023DSDGen
   author: "Jacob Krüger, Alex Mikulinski, Sandro Schulze, Thomas Leich, and Gunter Saake"
   title: "DSDGen: Extracting Documentation to Comprehend Fork Merges."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
-  doi: ""
+  doi: "10.1145/3579028.3609015"
   publisher: "ACM"
   year: 2023
 
-- id: ""
+- id: Kuiter2023variedSE
   author: "Elias Kuiter, Sebastian Krieter, Jacob Krüger, Gunter Saake, and Thomas Leich"
   title: "variED: An Editor for Collaborative, Real-Time Feature Modeling."
   booktitle: "Software Engineering (SE)"
-  doi: ""
+  link: "https://dl.gi.de/handle/20.500.12116/40095"
   publisher: "GI"
   year: 2023
 
-- id: ""
+- id: May2023SPLERP
   author: "Richard May, Christian Biermann, Andy Kenner, Jacob Krüger, and Thomas Leich"
   title: "A Product-Line-Engineering Framework for Secure Enterprise-Resource-Planning Systems."
   booktitle: "International Conference on Enterprise Information Systems (CENTERIS)"
@@ -218,7 +218,7 @@ proceedings:
   publisher: "Elsevier"
   year: 2023
 
-- id: ""
+- id: Mukelabai2023TestCaseSharing
   author: "Mukelabai Mukelabai, Christoph Derks, Jacob Krüger, and Thorsten Berger"
   title: "To Share, or Not to Share: Exploring Test-Case Reusability in Fork Ecosystems."
   booktitle: "International Conference on Automated Software Engineering (ASE)"
@@ -226,7 +226,7 @@ proceedings:
   publisher: "IEEE"
   year: 2023
 
-- id: ""
+- id: Saeed2023DataScientistsRecall
   author: "Samar Saeed, Shahrzad Sheikholeslami, Jacob Krüger, and Regina Hebig"
   title: "What Data Scientists (Care to) Recall."
   booktitle: "International Conference on Product-Focused Software Process Improvement (PROFES)"
@@ -234,7 +234,7 @@ proceedings:
   publisher: "Springer"
   year: 2023
 
-- id: ""
+- id: Schulze2023FeatureCoChanges
   author: "Sandro Schulze, Phillipp Engelke, and Jacob Krüger"
   title: "Evolutionary Feature Dependencies: Analyzing Feature Co-Changes in C Systems."
   booktitle: "International Working Conference on Source Code Analysis and Manipulation (SCAM)"
@@ -242,11 +242,11 @@ proceedings:
   publisher: "IEEE"
   year: 2023
 
-- id: ""
+- id: Zellmer2023ProductStructuring
   author: "Philipp Zellmer, Lennart Holsten, Thomas Leich, and Jacob Krüger"
   title: "Product-Structuring Concepts for Automotive Platforms: A Systematic Mapping Study."
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
-  doi: ""
+  doi: "10.1145/3579027.3608988"
   publisher: "ACM"
   year: 2023
 
