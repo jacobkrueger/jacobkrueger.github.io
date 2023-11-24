@@ -98,7 +98,7 @@ journals:
   
 proceedings:
 
-- id: May2024VulnerabilitiesMisconfigured
+- id: ""
   author: "Richard May, Christian Biermann, Xenia Marlene Zerweck, Kai Ludwig, Jacob Krüger, and Thomas Leich"
   title: "Vulnerably (Mis)Configured? Exploring 10 Years of Developers' Q&As on Stack Overflow."
   booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
