@@ -99,6 +99,14 @@ journals:
 proceedings:
 
 - id: ""
+  author: "Samuel Idowu, Yorick Sens, Thorsten Berger, Jacob Krüger, and Michael Vierhauser"
+  title: "A Large-Scale Study of ML-Related Python Projects."
+  booktitle: "Symposium on Applied Computing (SAC)"
+  doi: ""
+  publisher: "ACM"
+  year: 2024
+
+- id: ""
   author: "Richard May, Christian Biermann, Xenia Marlene Zerweck, Kai Ludwig, Jacob Krüger, and Thomas Leich"
   title: "Vulnerably (Mis)Configured? Exploring 10 Years of Developers' Q&As on Stack Overflow."
   booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
