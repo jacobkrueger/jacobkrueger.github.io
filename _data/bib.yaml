@@ -121,6 +121,7 @@ proceedings:
   doi: ""
   publisher: "CEUR-WS.org"
   year: 2023
+  link: ""
 
 - id: Alchokr2023AcademicAgeCitations
   author: "Rand Alchokr, Sanket Vikas Joshi, Gunter Saake, Thomas Leich, and Jacob Krüger"
@@ -134,7 +135,7 @@ proceedings:
   author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
   title: "An Empirical Analysis of Newcomers’ Contributions to Software-Engineering Conferences."
   booktitle: "International Conference on Asia-Pacific Digital Libraries (ICADL)"
-  doi: ""
+  doi: "10.1007/978-981-99-8085-7_21"
   publisher: "Springer"
   year: 2023
 
@@ -142,9 +143,10 @@ proceedings:
   author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
   title: "Peer-Reviewing and Submission Dynamics Around Top Software-Engineering Venues: A Juniors' Perspective."
   booktitle: "Software Engineering (SE)"
-  link: "https://dl.gi.de/handle/20.500.12116/40124"
+  doi: ""
   publisher: "GI"
   year: 2023
+  link: "https://dl.gi.de/handle/20.500.12116/40124"
 
 - id: Chen2023ComparisonVisualizations
   author: "Siyue Chen, Loek Cleophas, and Jacob Krüger"
@@ -158,7 +160,7 @@ proceedings:
   author: "Bavo Coremans, Arjen Klomp, Satrio A. Rukmono, Jacob Krüger, Dirk Fahland, and Michel R. V. Chaudron"
   title: "Process Mining from Jira Issues at a Large Company."
   booktitle: "International Conference on Software Maintenance and Evolution (ICSME)"
-  doi: ""
+  doi: "10.1109/ICSME58846.2023.00055"
   publisher: "IEEE"
   year: 2023
 
@@ -177,6 +179,7 @@ proceedings:
   doi: ""
   publisher: "IEEE"
   year: 2023
+  link: ""
 
 - id: Holsten2023EEPlatforms
   author: "Lennart Holsten, Christian Frank, Jacob Krüger, Thomas Leich"
@@ -198,7 +201,7 @@ proceedings:
   author: "Jacob Krüger and Regina Hebig"
   title: "To Memorize or to Document: A Survey of Developers’ Views on Knowledge Availability."
   booktitle: "International Conference on Product-Focused Software Process Improvement (PROFES)"
-  doi: ""
+  doi: "10.1007/978-3-031-49266-2_3"
   publisher: "Springer"
   year: 2023
 
@@ -206,7 +209,7 @@ proceedings:
   author: "Jacob Krüger, Yi Li, Chenguang Zhu, Marsha Chechik, Thorsten Berger, and Julia Rubin"
   title: "A Vision on Intentions in Software Engineering."
   booktitle: "Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
-  doi: ""
+  doi: "10.1145/3611643.3613087"
   publisher: "ACM"
   year: 2023
 
@@ -222,9 +225,10 @@ proceedings:
   author: "Elias Kuiter, Sebastian Krieter, Jacob Krüger, Gunter Saake, and Thomas Leich"
   title: "variED: An Editor for Collaborative, Real-Time Feature Modeling."
   booktitle: "Software Engineering (SE)"
-  link: "https://dl.gi.de/handle/20.500.12116/40095"
+  doi: ""
   publisher: "GI"
   year: 2023
+  link: "https://dl.gi.de/handle/20.500.12116/40095"
 
 - id: May2023SPLERP
   author: "Richard May, Christian Biermann, Andy Kenner, Jacob Krüger, and Thomas Leich"
@@ -233,12 +237,13 @@ proceedings:
   doi: ""
   publisher: "Elsevier"
   year: 2023
+  link: ""
 
 - id: Mukelabai2023TestCaseSharing
   author: "Mukelabai Mukelabai, Christoph Derks, Jacob Krüger, and Thorsten Berger"
   title: "To Share, or Not to Share: Exploring Test-Case Reusability in Fork Ecosystems."
   booktitle: "International Conference on Automated Software Engineering (ASE)"
-  doi: ""
+  doi: "10.1109/ASE56229.2023.00191"
   publisher: "IEEE"
   year: 2023
 
@@ -246,7 +251,7 @@ proceedings:
   author: "Samar Saeed, Shahrzad Sheikholeslami, Jacob Krüger, and Regina Hebig"
   title: "What Data Scientists (Care to) Recall."
   booktitle: "International Conference on Product-Focused Software Process Improvement (PROFES)"
-  doi: ""
+  doi: "10.1007/978-3-031-49266-2_15"
   publisher: "Springer"
   year: 2023
 
@@ -257,6 +262,7 @@ proceedings:
   doi: ""
   publisher: "IEEE"
   year: 2023
+  link: ""
 
 - id: Zellmer2023ProductStructuring
   author: "Philipp Zellmer, Lennart Holsten, Thomas Leich, and Jacob Krüger"
@@ -310,9 +316,10 @@ proceedings:
   author: "Jacob Krüger"
   title: "Das Re-Engineering variantenreicher Systeme verstehen: Eine empirische Arbeit über Kosten, Wissen, Nachvollziehbarkeit und Methoden"
   booktitle: "INFORMATIK 2022: GI-Dissertationspreis (INFORMATIK))"
-  link: "https://dl.gi.de/handle/20.500.12116/39836"
+  doi: ""
   publisher: "GI"
   year: 2022
+  link: "https://dl.gi.de/handle/20.500.12116/39836"
 
 - id: Krueger2022VM4ModernTech
   author: "Jacob Krüger, Wesley K. G. Assunção, Inmaculada Ayala, and Sébastien Mosser"
@@ -342,7 +349,7 @@ proceedings:
   author: "Yusra Shakeel, Rand Alchokr, Jacob Krüger, Thomas Leich, and Gunter Saake"
   title: "Are Altmetrics Useful for Assessing Scientific Impact? A Survey."
   booktitle: "International Conference on Management of Digital EcoSystems (MEDES)"
-  doi: ""
+  doi: "10.1145/3508397.3564845"
   publisher: "ACM"
   year: 2022
   
@@ -470,9 +477,10 @@ proceedings:
   author: "Cem Sürücü, Bianying Song, Jacob Krüger, Gunter Saake, and Thomas Leich"
   title: "Using Key Performance Indicators to Compare Software-Development Processes."
   booktitle: "Software Engineering (SE)"
-  doi:
+  doi: ""
   publisher: "GI"
   year: 2021
+  link: ""
 
 - id: Ananieva2020ConceptualModel
   author: "Sofia Ananieva, Sandra Greiner, Thomas Kühn, Jacob Krüger, Lukas Linsbauer, Sten Grüner, Timo Kehrer, Heiko Klare, Anne Koziolek, Henrik Lönn, Sebastian Krieter, Christoph Seidl, S. Ramesh, Ralf Reussner, and Bernhard Westfechtel"
