@@ -107,6 +107,14 @@ proceedings:
   year: 2024
 
 - id: ""
+  author: "Tom Groot, Lina Ochoa Venegas, Bogdan Lazar, and Jacob Krüger"
+  title: "A Catalog of Unintended Software Dependencies in Multi-Lingual Systems at ASML."
+  booktitle: "International Conference on Software Engineering - Software Engineering in Practice (ICSE-SEIP)"
+  doi: ""
+  publisher: "ACM"
+  year: 2024
+
+- id: ""
   author: "Samuel Idowu, Yorick Sens, Thorsten Berger, Jacob Krüger, and Michael Vierhauser"
   title: "A Large-Scale Study of ML-Related Python Projects."
   booktitle: "Symposium on Applied Computing (SAC)"
