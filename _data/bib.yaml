@@ -130,6 +130,14 @@ proceedings:
   publisher: "ACM"
   year: 2024
 
+- id: ""
+  author: "Richard May, Johanna Daher, Jacob Krüger, and Thomas Leich"
+  title: "An Experience Report on Using Video-Creation Tasks in Requirements-Engineering Education"
+  booktitle: "International Conference on Software Engineering - Software Engineering Education and Training (ICSE-SEET)"
+  doi: ""
+  publisher: "ACM"
+  year: 2024
+
 - id: Alchokr2023ForcastingSuccess
   author: "Rand Alchokr, Rayed Haider, Yusra Shakeel, Thomas Leich, Gunter Saake, and Jacob Krüger"
   title: "Forecasting Publication’s Success Using Machine Learning."
