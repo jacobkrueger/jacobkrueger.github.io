@@ -138,6 +138,14 @@ proceedings:
   publisher: "ACM"
   year: 2024
 
+- id: ""
+  author: "Sebastian Nielebock, Paul Blockhaus, Jacob Krüger, and Frank Ortmeier
+  title: "ASAP-Repair: API-Specific Automated Program Repair Based on API Usage Graphs"
+  booktitle: "International Workshop on Automated Program Repair (APR)"
+  doi: ""
+  publisher: "ACM"
+  year: 2024
+
 - id: Alchokr2023ForcastingSuccess
   author: "Rand Alchokr, Rayed Haider, Yusra Shakeel, Thomas Leich, Gunter Saake, and Jacob Krüger"
   title: "Forecasting Publication’s Success Using Machine Learning."
