@@ -139,7 +139,7 @@ proceedings:
   year: 2024
 
 - id: ""
-  author: "Sebastian Nielebock, Paul Blockhaus, Jacob Krüger, and Frank Ortmeier
+  author: "Sebastian Nielebock, Paul Blockhaus, Jacob Krüger, and Frank Ortmeier"
   title: "ASAP-Repair: API-Specific Automated Program Repair Based on API Usage Graphs"
   booktitle: "International Workshop on Automated Program Repair (APR)"
   doi: ""
@@ -347,7 +347,7 @@ proceedings:
 - id: Krueger2022DissGI
   author: "Jacob Krüger"
   title: "Das Re-Engineering variantenreicher Systeme verstehen: Eine empirische Arbeit über Kosten, Wissen, Nachvollziehbarkeit und Methoden"
-  booktitle: "INFORMATIK 2022: GI-Dissertationspreis (INFORMATIK))"
+  booktitle: "INFORMATIK 2022: GI-Dissertationspreis (INFORMATIK)"
   doi: ""
   publisher: "GI"
   year: 2022
