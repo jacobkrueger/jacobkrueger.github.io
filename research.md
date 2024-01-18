@@ -76,6 +76,8 @@ Most software systems exist for a longer time, and thus are evolving. There are 
 
 <b>Some interesting reads</b>
 <ul>
+  <li><a href="assets/papers/Groot2024Dependencies.pdf" target="_blank" rel="me noopener noreferrer">ICSE-SEIP 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We have interviewed developers at ASML to understand unintended software dependencies (e.g., architecture smells) in real-world, multi-lingual systems; finding that these are often similar to unintended dependencies in mono-lingual systems, but pose additional challenges to identify and resolve.</li>
+
   <li><a href="assets/papers/Assuncao2023MicroserviceEvolution.pdf" target="_blank" rel="me noopener noreferrer">Journal of Systems and Software 2023<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We analyzed for 11 open-source microservice systems to what extent their changes are tangled with respect to what microservices and what types of changes they involve, finding that there seems no focus or clear separation of distinct business/microservice-oriented changes.</li>
 
   <li><a href="assets/papers/Coremans2023ProcessMiningTFS.pdf" target="_blank" rel="me noopener noreferrer">ICSME 2023 Industry Track<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We worked with Thermo Fisher Scientific to design a new process-mining technique that analyzes Jira issues, enabling us to recover and shed light into process activities that are not fully visible in typical version-control data.</li>
@@ -141,6 +143,8 @@ Fork-based software development refers to developers creating a fork (i.e., copy
 
 <b>Some interesting reads</b>
 <ul>
+  <li><a href="assets/papers/Chen2024ForkVis.pdf" target="_blank" rel="me noopener noreferrer">SANER 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We have analyzed a community discussion about GitHub's network graph, based on which we designed and evaluated visualizations intended to help developers explore fork ecosystems.</li>
+
   <li><a href="assets/papers/Mukelabai2023TestCaseSharing.pdf" target="_blank" rel="me noopener noreferrer">ASE 2023<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We analyzed to what extent test cases within fork ecosystems are reused, finding that there is huge potential for sharing more test cases to improve the quality of other forks across an ecosystem.</li>
 </ul>
 
@@ -170,6 +174,8 @@ In parallel to the other research topics, publishing experiences and recommendat
 
 <b>Some interesting reads</b>
 <ul>
+  <li><a href="assets/papers/May2024Education.pdf" target="_blank" rel="me noopener noreferrer">ICSE-SEET 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We have reported our experiences of integrating video-creation tasks in a requirements-engineering course with the intention of increasing student participation and interaction.</li>
+
   <li><a href="assets/papers/Alchokr2022ReviewingDynamics.pdf" target="_blank" rel="me noopener noreferrer">EASE 2022<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We conducted a survey among software engineering researchers to explore the challenges they observe for junior researchers to actively participate in the community.</li>
 
   <li><a href="assets/papers/Shakeel2022LiteratureAnalyses.pdf" target="_blank" rel="me noopener noreferrer">EASE 2022<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We propose a technique that incorporates various metrics to facilitate the discovery, selection, and quality assessment of publications during literature analyses.</li>
@@ -180,7 +186,7 @@ In parallel to the other research topics, publishing experiences and recommendat
   
   <li><a href="assets/papers/Heumuller2020Artifacts.pdf" target="_blank" rel="me noopener noreferrer">Empirical Software Engineering 2020<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We have studied how research artifacts are (and should be) shared, indicating that researchers should be motivated to publish their artifacts in persistent repositories.</li>
   
- <li><a href="assets/papers/Krueger2020ReplicatingSLRs.pdf" target="_blank" rel="me noopener noreferrer">Empirical Software Engineering 2020<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We report on a large-scale experiment that shows the limitations and problems of search engines in computer science, indicating clear threats to the conduct and replication of literature reviews.</li>
+  <li><a href="assets/papers/Krueger2020ReplicatingSLRs.pdf" target="_blank" rel="me noopener noreferrer">Empirical Software Engineering 2020<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We report on a large-scale experiment that shows the limitations and problems of search engines in computer science, indicating clear threats to the conduct and replication of literature reviews.</li>
 </ul>
 
 </details>
