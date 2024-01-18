@@ -98,19 +98,20 @@ journals:
   
 proceedings:
 
-- id: ""
+- id: Chen2024ForkVis
   author: "Siyue Chen, Loek Cleophas, Sandro Schulze, and Jacob Krüger"
   title: "Use the Forks, Look! Visualizations for Exploring Fork Ecosystems."
   booktitle: "International Conference on Software Analysis, Evolution and Reengineering (SANER)"
   doi: ""
   publisher: "ACM"
   year: 2024
+  link: ""
 
-- id: ""
+- id: Groot2024Dependencies
   author: "Tom Groot, Lina Ochoa Venegas, Bogdan Lazar, and Jacob Krüger"
   title: "A Catalog of Unintended Software Dependencies in Multi-Lingual Systems at ASML."
   booktitle: "International Conference on Software Engineering - Software Engineering in Practice (ICSE-SEIP)"
-  doi: ""
+  doi: "10.1145/3639477.3639725"
   publisher: "ACM"
   year: 2024
 
@@ -121,20 +122,21 @@ proceedings:
   doi: ""
   publisher: "ACM"
   year: 2024
+  link: ""
 
-- id: ""
+- id: May2024Misconfigured
   author: "Richard May, Christian Biermann, Xenia Marlene Zerweck, Kai Ludwig, Jacob Krüger, and Thomas Leich"
   title: "Vulnerably (Mis)Configured? Exploring 10 Years of Developers' Q&As on Stack Overflow."
   booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
-  doi: ""
+  doi: "10.1145/3634713.3634729"
   publisher: "ACM"
   year: 2024
 
-- id: ""
+- id: May2024Education
   author: "Richard May, Johanna Daher, Jacob Krüger, and Thomas Leich"
   title: "An Experience Report on Using Video-Creation Tasks in Requirements-Engineering Education"
   booktitle: "International Conference on Software Engineering - Software Engineering Education and Training (ICSE-SEET)"
-  doi: ""
+  doi: "10.1145/3639474.3640057"
   publisher: "ACM"
   year: 2024
 
@@ -145,6 +147,7 @@ proceedings:
   doi: ""
   publisher: "ACM"
   year: 2024
+  link: ""
 
 - id: Alchokr2023ForcastingSuccess
   author: "Rand Alchokr, Rayed Haider, Yusra Shakeel, Thomas Leich, Gunter Saake, and Jacob Krüger"
@@ -153,7 +156,7 @@ proceedings:
   doi: ""
   publisher: "CEUR-WS.org"
   year: 2023
-  link: ""
+  link: "https://ceur-ws.org/Vol-3617/paper-08.pdf"
 
 - id: Alchokr2023AcademicAgeCitations
   author: "Rand Alchokr, Sanket Vikas Joshi, Gunter Saake, Thomas Leich, and Jacob Krüger"
