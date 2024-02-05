@@ -119,6 +119,7 @@ Developers, and thus humans, implement and evolve software. Consequently, softwa
 
 <b>Projects and funding</b>
 <ul>
+  <li>German Research Foundation: INKleSS</li>
   <li>Otto-von-Guericke University Magdeburg: Innovation fund</li>
 </ul>
 
