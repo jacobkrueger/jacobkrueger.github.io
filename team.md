@@ -4,7 +4,7 @@ I am part of the <a href="https://set.win.tue.nl/" target="_blank" rel="me noope
 
 <b>Open PhD Positions<b>
 <ul>
-  <li><a href="https://jobs.tue.nl/en/vacancy/2-phd-students-in-the-area-of-software-evolution-1055449.html" target="_blank" rel="me noopener noreferrer">tqo 5 year position(s) at Eindhoven University of Technolgoy on software evolution (one supervised by me, one by Lina Ochoa Venegas)</a></li>
+  <li><a href="https://jobs.tue.nl/en/vacancy/2-phd-students-in-the-area-of-software-evolution-1055449.html" target="_blank" rel="me noopener noreferrer">5 year position(s) at Eindhoven University of Technolgoy on software evolution (one supervised by me, one by Lina Ochoa Venegas)</a></li>
 </ul>
 
 <b>PhD Students<b>
