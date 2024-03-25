@@ -1,5 +1,21 @@
 journals:
 
+- id: Enaya2024CoronaWarnAppDevelopment
+  author: "Mohamad F. Enaya, Thomas Klingbeil, Jacob Krüger, David Broneske, Frank Feinbube, and Gunter Saake"
+  title: "A Case Study on the Development of the German Corona-Warn-App."
+  journal: "Journal of Systems and Software"
+  pages: ""
+  doi: ""
+  year: 2024
+
+- id: May2024CovidCertificateVerification
+  author: "Richard May, Niklas Baron, Jacob Krüger, and Thomas Leich"
+  title: "Pandemic Startup Software Engineering: An Experience Report on the Development of a COVID-19 Certificate Verification System."
+  journal: "Journal of Systems and Software"
+  pages: ""
+  doi: ""
+  year: 2024
+
 - id: Assuncao2023MicroserviceEvolution
   author: "Wesley K. G. Assunção, Jacob Krüger, Sébastien Mosser, and Sofiane Selaoui"
   title: "How do Microservices Evolve? An Empirical Analysis of Changes in Open-Source Microservice Repositories."
@@ -1021,5 +1037,5 @@ others:
 - id: Krueger2022RegisteredReportIncentives
   author: "Jacob Krüger, Gül Çalıklı, Dmitri Bershadskyy, Robert Heyer, Sarah Zabel, and Siegmar Otto"
   title: "Registered Report: A Laboratory Experiment on Using Different Financial-Incentivization Schemes in Software-Engineering Experimentation."
-  link: "https://arxiv.org/abs/2202.10985"
+  doi: "10.17605/OSF.IO/S36C2"
   year: 2022

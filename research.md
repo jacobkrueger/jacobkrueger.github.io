@@ -112,6 +112,10 @@ Developers, and thus humans, implement and evolve software. Consequently, softwa
 
 <b>Some interesting reads</b>
 <ul>
+  <li><a href="assets/papers/Enaya2024CoronaWarnAppDevelopment.pdf" target="_blank" rel="me noopener noreferrer">Journal of Systems and Software: In Practice 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We report on the development of the German Corona-Warn App, eliciting how the development process varied compared to other applications developed at SAP and how these variations impacted the developers involved.</li>
+
+  <li><a href="assets/papers/May2024CovidCertificateVerification.pdf" target="_blank" rel="me noopener noreferrer">Journal of Systems and Software: In Practice 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We share the experiences of a startup with developing a COVID-certificate verification-system, focusing on how the startup context, emergency situation, and pressure of developing an application for helping the general public impacted the startup developers.</li>
+
   <li><a href="assets/papers/Krueger2020DevelopersRecall.pdf" target="_blank" rel="me noopener noreferrer">ICSME 2020<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We conducted an interview survey on smaller software systems that indicates that developers focus on memorizing more abstract knowledge about their system, and are quite good at remembering knowledge.</li>
 
   <li><a href="assets/papers/Krueger2018Remember.pdf" target="_blank" rel="me noopener noreferrer">ICSE 2018<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf"/></a>: We report the results of a developer survey in which we investigated what factors impact developers' memory and whether we could adopt psychological forgetting curves to measure their remaining expertise.</li>

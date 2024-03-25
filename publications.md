@@ -114,8 +114,8 @@ This is a list of all my publications in chronological and alphabetical order. F
 <b>{{ this_year }}</b>
 <ol start="{{ pubCounter }}">
 {% endif %}
-  
-<li style="margin: 5px;">{{ pub.author }}: <a href="{{ pub.link }}" target="_blank" rel="me noopener noreferrer"><b>{{ pub.title }}</b></a> {{ pub.year }}. link: {{ pub.link }}</li>
+
+<li style="margin: 5px;">{{ pub.author }}: {% if pub.id != "" %}<a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer">{% endif %}<b>{{ pub.title }}</b>{% if pub.id != "" %}</a>{% endif %} {{ pub.booktitle }}, {{ pub.publisher }}, {{ pub.year }}. {% if pub.doi != "" %} doi: {{ pub.doi }} {% elsif pagpube.link != "" %} link: {{ pub.link }} {% endif %} {% if pub.id != "" %}<a href="assets/papers/{{ pub.id }}.pdf" target="_blank" rel="me noopener noreferrer"><img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.75em" alt="pdf"/></a>{% endif %}</li>
 {% assign pubCounter = pubCounter | plus:1 %}
 {% endfor %}
 </ol>
