@@ -8,6 +8,14 @@ journals:
   doi: ""
   year: 2024
 
+- id: ""
+  author: "Jacob Krüger, Yi Li, Kirill Lossev, Chenguang Zhu, Marsha Chechik, Thorsten Berger, and Julia Rubin"
+  title: "A Meta-Study of Software-Change Intentions"
+  journal: "ACM Computing Surveys"
+  pages: ""
+  doi: ""
+  year: 2024
+
 - id: May2024CovidCertificateVerification
   author: "Richard May, Niklas Baron, Jacob Krüger, and Thomas Leich"
   title: "Pandemic Startup Software Engineering: An Experience Report on the Development of a COVID-19 Certificate Verification System."
@@ -666,7 +674,7 @@ proceedings:
   title: "Establishing Key Performance Indicators for Measuring Software-Development Processes at a Large Organization." 
   booktitle: "Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
   doi: "10.1145/3368089.3417057"
-  publishers: "ACM"
+  publisher: "ACM"
   year: 2020
 
 - id: Akesson2019ApoMigrationPP
