@@ -26,7 +26,7 @@ Besides these core topics of mine, I have also published papers on improving sci
   <li>ACM SIGAPP STAP Grant</li>
   <li>Conference Traveling Fellowship, German Academic Exchange Service 2017</li>
 </ul>
-<details>
+</details>
 
 <details>
 <summary><b>Awards</b></summary>
@@ -42,7 +42,7 @@ Besides these core topics of mine, I have also published papers on improving sci
   <li>Wernigeröder Research Award, Stadtwerkestigtung Wernigerode 2017</li>
   <li>Best Graduate Master Business Informatics, Otto-con-Guericke University Magdeburg 2016</li>
 </ul>
-<details>
+</details>
 
 <details>
 <summary><b>Some interesting reads</b></summary>
