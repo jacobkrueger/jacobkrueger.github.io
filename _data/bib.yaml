@@ -1,5 +1,13 @@
 journals:
 
+- id: ""
+  author: "David Broneske, Sebastian Kittan, and Jacob Krüger"
+  title: "Sharing Software-Evolution Datasets: Practices, Challenges, and Recommendations"
+  journal: "Proceedings of the ACM on Software Engineering (FSE 2024)"
+  pages: ""
+  doi: ""
+  year: 2024
+
 - id: Enaya2024CoronaWarnAppDevelopment
   author: "Mohamad F. Enaya, Thomas Klingbeil, Jacob Krüger, David Broneske, Frank Feinbube, and Gunter Saake"
   title: "A Case Study on the Development of the German Corona-Warn-App."
@@ -8,7 +16,7 @@ journals:
   doi: ""
   year: 2024
 
-- id: ""
+- id: Krueger2024ChangeIntentions
   author: "Jacob Krüger, Yi Li, Kirill Lossev, Chenguang Zhu, Marsha Chechik, Thorsten Berger, and Julia Rubin"
   title: "A Meta-Study of Software-Change Intentions"
   journal: "ACM Computing Surveys"

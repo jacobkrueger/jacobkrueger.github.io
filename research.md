@@ -47,7 +47,7 @@ Besides these core topics of mine, I have also published papers on improving sci
 <details>
 <summary><b>Some interesting reads</b></summary>
 <ul>
-  <li>ACM Computing Surveys 2024: We have performed a meta review to structure existing software-engineering research based on software-change intentions, which represent the underlying intention a developer had when implementing a change to their software. We argue that structuring, studying, and specifying software-change intentions can be helpful to improve software evolution and assure that developers implement their intended changes.</li>
+  <li><a href="assets/papers/Krueger2024ChangeIntentions.pdf" target="_blank" rel="me noopener noreferrer">ACM Computing Surveys 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We have performed a meta review to structure existing software-engineering research based on software-change intentions, which represent the underlying intention a developer had when implementing a change to their software. We argue that structuring, studying, and specifying software-change intentions can be helpful to improve software evolution and assure that developers implement their intended changes.</li>
   
   <li><a href="assets/papers/Enaya2024CoronaWarnAppDevelopment.pdf" target="_blank" rel="me noopener noreferrer">Journal of Systems and Software 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We have conducted a case study on the development of the Germany Corona-Warn App at SAP to understand how the emergency situation of developing an app to mitigate the apdenmic during the pandemic changed development processes and impacted the developers involved.</li>
   
