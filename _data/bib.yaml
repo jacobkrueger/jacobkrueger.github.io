@@ -148,6 +148,14 @@ proceedings:
   year: 2024
 
 - id: ""
+  author: "Lennart Holsten, Jacob Krüger, and Thomas Leich"
+  title: "Insights into Transitioning towards Electrics/Electronics Platform Management in the Automotive Industry."
+  booktitle: "International Conference on the Foundations of Software Engineering (FSE)"
+  doi: ""
+  publisher: "ACM"
+  year: 2024
+
+- id: ""
   author: "Samuel Idowu, Yorick Sens, Thorsten Berger, Jacob Krüger, and Michael Vierhauser"
   title: "A Large-Scale Study of ML-Related Python Projects."
   booktitle: "Symposium on Applied Computing (SAC)"
@@ -180,6 +188,14 @@ proceedings:
   publisher: "ACM"
   year: 2024
   link: ""
+
+- id: ""
+  author: "Philipp Zellmer, Jacob Krüger, and Thomas Leich"
+  title: "Decision Making for Managing Automotive Platforms: An Interview Survey on the Sate-of-Practice."
+  booktitle: "International Conference on the Foundations of Software Engineering (FSE)"
+  doi: ""
+  publisher: "ACM"
+  year: 2024
 
 - id: Alchokr2023ForcastingSuccess
   author: "Rand Alchokr, Rayed Haider, Yusra Shakeel, Thomas Leich, Gunter Saake, and Jacob Krüger"
