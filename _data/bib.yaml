@@ -1,11 +1,11 @@
 journals:
 
-- id: ""
+- id: Broneske2024ArtifactSharing
   author: "David Broneske, Sebastian Kittan, and Jacob Krüger"
   title: "Sharing Software-Evolution Datasets: Practices, Challenges, and Recommendations"
   journal: "Proceedings of the ACM on Software Engineering (FSE 2024)"
-  pages: ""
-  doi: ""
+  pages: "91:1-24"
+  doi: "10.1145/3660798"
   year: 2024
 
 - id: Enaya2024CoronaWarnAppDevelopment
@@ -177,6 +177,14 @@ proceedings:
   title: "An Experience Report on Using Video-Creation Tasks in Requirements-Engineering Education"
   booktitle: "International Conference on Software Engineering - Software Engineering Education and Training (ICSE-SEET)"
   doi: "10.1145/3639474.3640057"
+  publisher: "ACM"
+  year: 2024
+
+- id: ""
+  author: "Richard May, Jacob Krüger, and Thomas Leich"
+  title: "How Artificial-Intelligence Incidents Can Jeopardize Safety and Security"
+  booktitle: "International Conference on Availability, Reliability and Security (ARES)"
+  doi: ""
   publisher: "ACM"
   year: 2024
 
