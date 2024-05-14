@@ -147,11 +147,11 @@ proceedings:
   publisher: "ACM"
   year: 2024
 
-- id: ""
+- id: Holsten2024EEPlatformTransition
   author: "Lennart Holsten, Jacob Krüger, and Thomas Leich"
   title: "Insights into Transitioning towards Electrics/Electronics Platform Management in the Automotive Industry."
   booktitle: "International Conference on the Foundations of Software Engineering (FSE)"
-  doi: ""
+  doi: "10.1145/3663529.3663837"
   publisher: "ACM"
   year: 2024
 
@@ -182,11 +182,12 @@ proceedings:
 
 - id: ""
   author: "Richard May, Jacob Krüger, and Thomas Leich"
-  title: "How Artificial-Intelligence Incidents Can Jeopardize Safety and Security"
+  title: "SoK: How Artificial-Intelligence Incidents Can Jeopardize Safety and Security"
   booktitle: "International Conference on Availability, Reliability and Security (ARES)"
   doi: ""
   publisher: "ACM"
   year: 2024
+  link: ""
 
 - id: ""
   author: "Sebastian Nielebock, Paul Blockhaus, Jacob Krüger, and Frank Ortmeier"
@@ -198,10 +199,19 @@ proceedings:
   link: ""
 
 - id: ""
+  author: "Sebastian Nielebock, Jacob Krüger, and Alexander Nolte"
+  title: "Making Replication Packages Usable (Again)"
+  booktitle: "International Conference on Product-Focused Software Process Improvement (PROFES)"
+  doi: ""
+  publisher: "Springer"
+  year: 2024
+  link: ""
+
+- id: Zellmer2024EEDecisionMaking
   author: "Philipp Zellmer, Jacob Krüger, and Thomas Leich"
   title: "Decision Making for Managing Automotive Platforms: An Interview Survey on the State-of-Practice."
   booktitle: "International Conference on the Foundations of Software Engineering (FSE)"
-  doi: ""
+  doi: "10.1145/3663529.3663851"
   publisher: "ACM"
   year: 2024
 
