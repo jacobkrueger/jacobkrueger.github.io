@@ -24,6 +24,14 @@ journals:
   doi: ""
   year: 2024
 
+- id: ""
+  author: "Jacob Krüger, Gül  Çalıklı, Dmitri Bershadskyy, Siegmar Otto, Sarah Zabel, and Robert Heyer"
+  title: "Guidelines for Using Financial Incentives in Software-Engineering Experimentation"
+  journal: "Empirical Software Engineering"
+  pages: ""
+  doi: ""
+  year: 2024
+
 - id: May2024CovidCertificateVerification
   author: "Richard May, Niklas Baron, Jacob Krüger, and Thomas Leich"
   title: "Pandemic Startup Software Engineering: An Experience Report on the Development of a COVID-19 Certificate Verification System."

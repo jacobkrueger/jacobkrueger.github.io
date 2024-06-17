@@ -2,11 +2,6 @@
 
 I am part of the <a href="https://set.win.tue.nl/" target="_blank" rel="me noopener noreferrer">Software Engineering and Technology (SET)</a> group at Eindhoven University of Technology, working with my colleagues and students on different topics around software evolution.
 
-<b>Open PhD Positions<b>
-<ul>
-  <li><a href="https://jobs.tue.nl/en/vacancy/2-phd-students-in-the-area-of-software-evolution-1055449.html" target="_blank" rel="me noopener noreferrer">5 year position(s) at Eindhoven University of Technolgoy on software evolution (one supervised by me, one by Lina Ochoa Venegas)</a></li>
-</ul>
-
 <b>PhD Students<b>
 <ul>
   <li>Henrik Waschke (supervision, Harz University of Applied Sciences, Germany, with Thomas Leich)</li>
@@ -23,9 +18,14 @@ I am part of the <a href="https://set.win.tue.nl/" target="_blank" rel="me noope
   <li>Philipp Zellmer (advising, Harz University of Applied Sciences, Germany, supervisor: Thomas Leich)</li>
 </ul>
 
+<b>External PhD Reviewer<b>
+<ul>
+  <li>Raul Medeiros Pérez: From Visualization to Decision-Making: Enhancing Software Product Line Evolution with Visual Interventions (University of the Basque Country, Spain, advisor: Oscar Diaz)</li>
+</ul>
+
 <b>Supervised Undergraudate/Graduate Students</b>
 <ul>
-  <li>Eindhoven University of Technology, The Netherlands: 21 SEP, 5 Master, 1 EngD</li>
+  <li>Eindhoven University of Technology, The Netherlands: 21 SEP, 6 Master, 1 EngD</li>
   <li>Ruhr-University Bochum, Germany: 1 Bachelor</li>
   <li>Chalmers | University of Gothenburg, Sweden: 4 Master</li>
   <li>Otto-von-Guericke University Magdeburg, Germany: 5 Bachelor, 10 Master</li>
