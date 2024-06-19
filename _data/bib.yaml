@@ -16,6 +16,14 @@ journals:
   doi: ""
   year: 2024
 
+- id: Lange2024MicroBiomeModeling
+  author: "Emanuel Lange, Lena Kranert, Jacob Krüger, Dirk Benndorf, and Robert Heyer"
+  title: "Microbiome Modeling: A Beginner’s Guide."
+  journal: "Frontiers in Microbiology"
+  pages: "15(1368377):1-32"
+  doi: "10.3389/fmicb.2024.1368377"
+  year: 2024
+
 - id: Krueger2024ChangeIntentions
   author: "Jacob Krüger, Yi Li, Kirill Lossev, Chenguang Zhu, Marsha Chechik, Thorsten Berger, and Julia Rubin"
   title: "A Meta-Study of Software-Change Intentions"
