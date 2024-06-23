@@ -2,7 +2,7 @@ journals:
 
 - id: Broneske2024ArtifactSharing
   author: "David Broneske, Sebastian Kittan, and Jacob Krüger"
-  title: "Sharing Software-Evolution Datasets: Practices, Challenges, and Recommendations"
+  title: "Sharing Software-Evolution Datasets: Practices, Challenges, and Recommendations."
   journal: "Proceedings of the ACM on Software Engineering (FSE 2024)"
   pages: "91:1-24"
   doi: "10.1145/3660798"
@@ -26,7 +26,7 @@ journals:
 
 - id: Krueger2024ChangeIntentions
   author: "Jacob Krüger, Yi Li, Kirill Lossev, Chenguang Zhu, Marsha Chechik, Thorsten Berger, and Julia Rubin"
-  title: "A Meta-Study of Software-Change Intentions"
+  title: "A Meta-Study of Software-Change Intentions."
   journal: "ACM Computing Surveys"
   pages: ""
   doi: ""
@@ -34,7 +34,7 @@ journals:
 
 - id: ""
   author: "Jacob Krüger, Gül  Çalıklı, Dmitri Bershadskyy, Siegmar Otto, Sarah Zabel, and Robert Heyer"
-  title: "Guidelines for Using Financial Incentives in Software-Engineering Experimentation"
+  title: "Guidelines for Using Financial Incentives in Software-Engineering Experimentation."
   journal: "Empirical Software Engineering"
   pages: ""
   doi: ""
@@ -66,7 +66,7 @@ journals:
 
 - id: Krueger2022DissDenert
   author: "Jacob Krüger"
-  title: "Understanding the Re-Engineering of Variant-Rich Systems: An Empirical Work on Economics, Knowledge, Traceability, and Practices"
+  title: "Understanding the Re-Engineering of Variant-Rich Systems: An Empirical Work on Economics, Knowledge, Traceability, and Practices."
   journal: "Softwaretechnik-Trends (Ernst-Denert-Preis)"
   pages: "42(2):16-17"
   doi: ""
@@ -190,7 +190,7 @@ proceedings:
 
 - id: May2024Education
   author: "Richard May, Johanna Daher, Jacob Krüger, and Thomas Leich"
-  title: "An Experience Report on Using Video-Creation Tasks in Requirements-Engineering Education"
+  title: "An Experience Report on Using Video-Creation Tasks in Requirements-Engineering Education."
   booktitle: "International Conference on Software Engineering - Software Engineering Education and Training (ICSE-SEET)"
   doi: "10.1145/3639474.3640057"
   publisher: "ACM"
@@ -198,7 +198,7 @@ proceedings:
 
 - id: ""
   author: "Richard May, Jacob Krüger, and Thomas Leich"
-  title: "SoK: How Artificial-Intelligence Incidents Can Jeopardize Safety and Security"
+  title: "SoK: How Artificial-Intelligence Incidents Can Jeopardize Safety and Security."
   booktitle: "International Conference on Availability, Reliability and Security (ARES)"
   doi: ""
   publisher: "ACM"
@@ -207,7 +207,7 @@ proceedings:
 
 - id: ""
   author: "Sebastian Nielebock, Paul Blockhaus, Jacob Krüger, and Frank Ortmeier"
-  title: "ASAP-Repair: API-Specific Automated Program Repair Based on API Usage Graphs"
+  title: "ASAP-Repair: API-Specific Automated Program Repair Based on API Usage Graphs."
   booktitle: "International Workshop on Automated Program Repair (APR)"
   doi: ""
   publisher: "ACM"
@@ -216,7 +216,7 @@ proceedings:
 
 - id: ""
   author: "Sebastian Nielebock, Jacob Krüger, and Alexander Nolte"
-  title: "Making Replication Packages Usable (Again)"
+  title: "Making Replication Packages Usable (Again)."
   booktitle: "International Conference on Product-Focused Software Process Improvement (PROFES)"
   doi: ""
   publisher: "Springer"
