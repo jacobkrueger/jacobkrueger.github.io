@@ -16,7 +16,7 @@ journals:
   doi: ""
   year: 2024
 
-- id: Gnoyke2024SmellEvolution
+- id: ""
   author: "Philipp Gnoyke, Sandro Schulze, and Jacob Krüger"
   title: "Evolution Patterns of Software-Architecture Smells: An Empirical Study of Intra- and Inter-Version Smells."
   journal: "Journal of Systems and Software"
