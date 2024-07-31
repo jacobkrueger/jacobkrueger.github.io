@@ -213,11 +213,11 @@ proceedings:
   publisher: "ACM"
   year: 2024
 
-- id: ""
+- id: May2024AIIncidents
   author: "Richard May, Jacob Krüger, and Thomas Leich"
   title: "SoK: How Artificial-Intelligence Incidents Can Jeopardize Safety and Security."
   booktitle: "International Conference on Availability, Reliability and Security (ARES)"
-  doi: ""
+  doi: "10.1145/3664476.3664510"
   publisher: "ACM"
   year: 2024
   link: ""
