@@ -16,6 +16,14 @@ journals:
   doi: ""
   year: 2024
 
+- id: Gnoyke2024SmellEvolution
+  author: "Philipp Gnoyke, Sandro Schulze, and Jacob Krüger"
+  title: "Evolution Patterns of Software-Architecture Smells: An Empirical Study of Intra- and Inter-Version Smells."
+  journal: "Journal of Systems and Software"
+  pages: ""
+  doi: ""
+  year: 2024
+
 - id: Lange2024MicroBiomeModeling
   author: "Emanuel Lange, Lena Kranert, Jacob Krüger, Dirk Benndorf, and Robert Heyer"
   title: "Microbiome Modeling: A Beginner’s Guide."
@@ -146,11 +154,20 @@ journals:
   
 proceedings:
 
+- id: Alchokr2024QualityMetrics
+  author: "Rand Alchokr, Abhishek Gopalrao, Gunter Saake, Thomas Leich, and Jacob Krüger"
+  title: "Scholarly Quality Measurements, A Systematic Literature Review."
+  booktitle: "International Conference on Theory and Practice of Digital Libraries (TPDL)"
+  doi: ""
+  publisher: "Springer"
+  year: 2024
+  link: ""
+
 - id: Chen2024ForkVis
   author: "Siyue Chen, Loek Cleophas, Sandro Schulze, and Jacob Krüger"
   title: "Use the Forks, Look! Visualizations for Exploring Fork Ecosystems."
   booktitle: "International Conference on Software Analysis, Evolution and Reengineering (SANER)"
-  doi: ""
+  doi: "10.1109/SANER60148.2024.00107"
   publisher: "IEEE"
   year: 2024
   link: ""
@@ -171,11 +188,11 @@ proceedings:
   publisher: "ACM"
   year: 2024
 
-- id: ""
+- id: Idowu2024MLEvolution
   author: "Samuel Idowu, Yorick Sens, Thorsten Berger, Jacob Krüger, and Michael Vierhauser"
   title: "A Large-Scale Study of ML-Related Python Projects."
   booktitle: "Symposium on Applied Computing (SAC)"
-  doi: ""
+  doi: "10.1145/3605098.3636056"
   publisher: "ACM"
   year: 2024
   link: ""
@@ -431,7 +448,7 @@ proceedings:
 
 - id: Krueger2022DissGI
   author: "Jacob Krüger"
-  title: "Das Re-Engineering variantenreicher Systeme verstehen: Eine empirische Arbeit über Kosten, Wissen, Nachvollziehbarkeit und Methoden"
+  title: "Das Re-Engineering variantenreicher Systeme verstehen: Eine empirische Arbeit über Kosten, Wissen, Nachvollziehbarkeit und Methoden."
   booktitle: "INFORMATIK 2022: GI-Dissertationspreis (INFORMATIK)"
   doi: ""
   publisher: "GI"
@@ -1073,7 +1090,7 @@ proceedings:
 
 - id: Krueger2016FeatureCoPP
   author: "Jacob Krüger, Ivonne Schröter, Andy Kenner, Christopher Kruczek and Thomas Leich}"
-  title: "FeatureCoPP: Compositional Annotations"
+  title: "FeatureCoPP: Compositional Annotations."
   booktitle: "International Workshop on Feature-Oriented Software Development (FOSD)"
   doi: "10.1145/3001867.3001876"
   publisher: "ACM"
@@ -1083,7 +1100,7 @@ editorials:
 
 - id: SPLC2020B
   editors: "Rafael Capilla, Philippe Collet, Paul Gazzillo, Jacob Krüger, Roberto Erick Lopez-Herrejon, Sarah Nadi, Gilles Perrouin, Iris Reinhartz-Berger, Julia Rubin, and Ina Schaefer"
-  title: "24th International Systems and Software Product Line Conference (SPLC) - Volume B"
+  title: "24th International Systems and Software Product Line Conference (SPLC) - Volume B."
   publisher: "ACM"
   doi: "10.1145/3382026"
   year: 2020
@@ -1104,4 +1121,7 @@ others:
   author: "Jacob Krüger, Gül Çalıklı, Dmitri Bershadskyy, Robert Heyer, Sarah Zabel, and Siegmar Otto"
   title: "Registered Report: A Laboratory Experiment on Using Different Financial-Incentivization Schemes in Software-Engineering Experimentation."
   doi: "10.17605/OSF.IO/S36C2"
+  booktitle: "Stage 1 Registered Report submitted with PCI Registered Reports"
+  publisher: "OSF"
   year: 2022
+  link: ""
