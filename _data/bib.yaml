@@ -12,16 +12,16 @@ journals:
   author: "Mohamad F. Enaya, Thomas Klingbeil, Jacob Krüger, David Broneske, Frank Feinbube, and Gunter Saake"
   title: "A Case Study on the Development of the German Corona-Warn-App."
   journal: "Journal of Systems and Software"
-  pages: ""
-  doi: ""
+  pages: "213(112020):1-13"
+  doi: "10.1016/j.jss.2024.112020"
   year: 2024
 
-- id: ""
+- id: Gnoyke2024ArchitectureSmellEvolution
   author: "Philipp Gnoyke, Sandro Schulze, and Jacob Krüger"
   title: "Evolution Patterns of Software-Architecture Smells: An Empirical Study of Intra- and Inter-Version Smells."
   journal: "Journal of Systems and Software"
-  pages: ""
-  doi: ""
+  pages: "217(112170):1-28"
+  doi: "10.1016/j.jss.2024.112170"
   year: 2024
 
 - id: Lange2024MicroBiomeModeling
@@ -37,23 +37,23 @@ journals:
   title: "A Meta-Study of Software-Change Intentions."
   journal: "ACM Computing Surveys"
   pages: ""
-  doi: ""
+  doi: "10.1145/3661484"
   year: 2024
 
-- id: ""
+- id: Krueger2024FinancialIncentivesGuidelines
   author: "Jacob Krüger, Gül  Çalıklı, Dmitri Bershadskyy, Siegmar Otto, Sarah Zabel, and Robert Heyer"
   title: "Guidelines for Using Financial Incentives in Software-Engineering Experimentation."
   journal: "Empirical Software Engineering"
-  pages: ""
-  doi: ""
+  pages: "29(135):1-53"
+  doi: "10.1007/s10664-024-10517-w"
   year: 2024
 
 - id: May2024CovidCertificateVerification
   author: "Richard May, Niklas Baron, Jacob Krüger, and Thomas Leich"
   title: "Pandemic Startup Software Engineering: An Experience Report on the Development of a COVID-19 Certificate Verification System."
   journal: "Journal of Systems and Software"
-  pages: ""
-  doi: ""
+  pages: "216(112106):1-13"
+  doi: "10.1016/j.jss.2024.112106"
   year: 2024
 
 - id: Assuncao2023MicroserviceEvolution
@@ -179,6 +179,7 @@ proceedings:
   doi: "10.1145/3639477.3639725"
   publisher: "ACM"
   year: 2024
+  link: ""
 
 - id: Holsten2024EEPlatformTransition
   author: "Lennart Holsten, Jacob Krüger, and Thomas Leich"
@@ -187,6 +188,7 @@ proceedings:
   doi: "10.1145/3663529.3663837"
   publisher: "ACM"
   year: 2024
+  link: ""
 
 - id: Idowu2024MLEvolution
   author: "Samuel Idowu, Yorick Sens, Thorsten Berger, Jacob Krüger, and Michael Vierhauser"
@@ -204,6 +206,7 @@ proceedings:
   doi: "10.1145/3634713.3634729"
   publisher: "ACM"
   year: 2024
+  link: ""
 
 - id: May2024Education
   author: "Richard May, Johanna Daher, Jacob Krüger, and Thomas Leich"
@@ -212,6 +215,7 @@ proceedings:
   doi: "10.1145/3639474.3640057"
   publisher: "ACM"
   year: 2024
+  link: ""
 
 - id: May2024AIIncidents
   author: "Richard May, Jacob Krüger, and Thomas Leich"
@@ -247,6 +251,7 @@ proceedings:
   doi: "10.1145/3663529.3663851"
   publisher: "ACM"
   year: 2024
+  link: ""
 
 - id: Alchokr2023ForcastingSuccess
   author: "Rand Alchokr, Rayed Haider, Yusra Shakeel, Thomas Leich, Gunter Saake, and Jacob Krüger"
@@ -264,6 +269,7 @@ proceedings:
   doi: "10.1007/978-3-031-43849-3_10"
   publisher: "Springer"
   year: 2023
+  link: ""
 
 - id: Alchokr2023NewcomerContributionsSE
   author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
@@ -272,6 +278,7 @@ proceedings:
   doi: "10.1007/978-981-99-8085-7_21"
   publisher: "Springer"
   year: 2023
+  link: ""
 
 - id: Alchokr2023ReviewingDynamicsSE
   author: "Rand Alchokr, Jacob Krüger, Yusra Shakeel, Gunter Saake, and Thomas Leich"
@@ -289,6 +296,7 @@ proceedings:
   doi: "10.1145/3579027.3608986"
   publisher: "ACM"
   year: 2023
+  link: ""
 
 - id: Coremans2023ProcessMiningTFS
   author: "Bavo Coremans, Arjen Klomp, Satrio A. Rukmono, Jacob Krüger, Dirk Fahland, and Michel R. V. Chaudron"
@@ -297,6 +305,7 @@ proceedings:
   doi: "10.1109/ICSME58846.2023.00055"
   publisher: "IEEE"
   year: 2023
+  link: ""
 
 - id: Cortinas2023RetireSPLs
   author: "Alejandro Cortiñas, Jacob Krüger, Victor Lamas, Oscar Pedreira, and Miguel R. Luaces"
@@ -305,12 +314,13 @@ proceedings:
   doi: "10.1145/3579027.3609004"
   publisher: "ACM"
   year: 2023
+  link: ""
 
 - id: Gnoyke2023SmellTrackingTooling
   author: "Philipp Gnoyke, Sandro Schulze, and Jacob Krüger"
   title: "On Developing and Improving Tools for Architecture-Smell Tracking in Java Systems."
   booktitle: "International Working Conference on Source Code Analysis and Manipulation (SCAM)"
-  doi: ""
+  doi: "10.1109/SCAM59687.2023.00034"
   publisher: "IEEE"
   year: 2023
   link: ""
@@ -322,6 +332,7 @@ proceedings:
   doi: "10.1145/3571788.3571796"
   publisher: "ACM"
   year: 2023
+  link: ""
 
 - id: Krieter2023VariantInc
   author: "Sebastian Krieter, Jacob Krüger, Thomas Leich, and Gunter Saake"
@@ -1097,6 +1108,13 @@ proceedings:
   year: 2016
 
 editorials:
+
+- id: SPLC2024A
+  editors: "Maxime Cordy, Daniel Strüber, Mónica Pinto, Iris Groher, Deepak Dhungana, Jacob Krüger, Juliana Alves Pereira, Mathieu Acher, Thomas Thüm, Maurice H. ter Beek, Jessie Galasso-Carbonnel, Paolo Arcaini, Mohammad Reza Mousavi, Xhevahire Tërnava, José Galindo, Tao Yue, Lidia Fuentes, and José Miguel Horcas"
+  title: "28th International Systems and Software Product Line Conference (SPLC) - Volume A."
+  publisher: "ACM"
+  doi: "10.1145/3646548"
+  year: 2024
 
 - id: SPLC2020B
   editors: "Rafael Capilla, Philippe Collet, Paul Gazzillo, Jacob Krüger, Roberto Erick Lopez-Herrejon, Sarah Nadi, Gilles Perrouin, Iris Reinhartz-Berger, Julia Rubin, and Ina Schaefer"
