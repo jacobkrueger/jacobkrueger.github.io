@@ -56,6 +56,14 @@ journals:
   doi: "10.1016/j.jss.2024.112106"
   year: 2024
 
+- id: ""
+  author: "Philipp Zellmer, Lennart Holsten, Jacob Krüger, and Thomas Leich"
+  title: "The Terminology of Automotive Product-Structuring Concepts: A Systematic Mapping Study."
+  journal: "IEEE Transactions on Engineering Management"
+  pages: ""
+  doi: ""
+  year: 2024
+
 - id: Assuncao2023MicroserviceEvolution
   author: "Wesley K. G. Assunção, Jacob Krüger, Sébastien Mosser, and Sofiane Selaoui"
   title: "How do Microservices Evolve? An Empirical Analysis of Changes in Open-Source Microservice Repositories."
@@ -1114,6 +1122,13 @@ editorials:
   title: "28th International Systems and Software Product Line Conference (SPLC) - Volume A."
   publisher: "ACM"
   doi: "10.1145/3646548"
+  year: 2024
+
+- id: SPLC2024B
+  editors: "Maxime Cordy, Daniel Strüber, Mónica Pinto, Iris Groher, Deepak Dhungana, Jacob Krüger, Juliana Alves Pereira, Mathieu Acher, Thomas Thüm, Maurice H. ter Beek, Jessie Galasso-Carbonnel, Paolo Arcaini, Mohammad Reza Mousavi, Xhevahire Tërnava, José Galindo, Tao Yue, Lidia Fuentes, and José Miguel Horcas"
+  title: "28th International Systems and Software Product Line Conference (SPLC) - Volume B."
+  publisher: "ACM"
+  doi: ""
   year: 2024
 
 - id: SPLC2020B
