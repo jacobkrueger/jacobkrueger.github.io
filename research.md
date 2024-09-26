@@ -1,4 +1,4 @@
-### Research
+﻿### Research
 
 I am a software-engineering researcher specializing on the development and evolution of variant-rich software systems. Variant-rich systems exist in different customizable variants and have become the most widely existing form of software systems in all areas of society. My goal as a researcher is to improve our foundational understanding of how the respective software evolves, focusing on the interplay of human cognition and software quality. Evolving variant-rich systems is particularly challenging for developers, and during my PhD studies I have found that developers' comprehension of their system is the most important factor to engineer high-quality (variant-rich) software. These findings have fascinated me to follow a scientific career on this topic, for which I provide a conceptual sketch in Figure 1.
  
@@ -33,13 +33,13 @@ Besides these core topics of mine, I have also published papers on improving sci
 <ul>
   <li>Distinguished Reviewer Award, SPLC 2023</li>
   <li>bridgefield Award for Software Engineering from Saxony-Anhalt (special award for dissertation), bridgefield GmbH 2023</li>
-  <li>Award for the best dissertation of the Faculty for Computer Science, Otto-von-Guericke Unviersity Magdebrug 2022</li>
+  <li>Award for the best dissertation of the Faculty for Computer Science, Otto-von-Guericke University Magdeburg 2022</li>
   <li>Research Award, Association of German Chambers of Industry and Commerce (IHK) Magdeburg 2022</li>
   <li>Research Award of the Faculty for Computer Science for overall research achievements, Otto-von-Guericke University Magdeburg 2020</li>
   <li>Frank Anger Memorial Award, ACM SIGSOFT 2019</li>
   <li>3rd ACM Student Research Competition at ESEC/FSE 2019</li>
-  <li>Best PResentation Award Faculty Doctoral Symposium, Otto-con-Guericke University Magdeburg 2019</li>
-  <li>Wernigeröder Research Award, Stadtwerkestigtung Wernigerode 2017</li>
+  <li>Best Presentation Award Faculty Doctoral Symposium, Otto-con-Guericke University Magdeburg 2019</li>
+  <li>Wernigeröder Research Award, Stadtwerkestiftung Wernigerode 2017</li>
   <li>Best Graduate Master Business Informatics, Otto-con-Guericke University Magdeburg 2016</li>
 </ul>
 </details>
@@ -47,13 +47,26 @@ Besides these core topics of mine, I have also published papers on improving sci
 <details>
 <summary><b>Some interesting reads</b></summary>
 <ul>
+  
+  <li><a href="assets/papers/Broneske2024ArtifactSharing.pdf" target="_blank" rel="me noopener noreferrer">Proceedings of the ACM on Software Engineering (FSE) 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We have reviewed the state-of-the-art concerning (re-)sharing software-evolution data, such as repositories, their metadata, or associated tools’ data. We discussed our findings with an ethics expert to provide recommendation for researchers regarding how to deal with legal, ethical, and technical problems. Our goal is that these recommendations help researchers in improving and facilitating their efforts towards open science.</li>
+  
+  <li><a href="assets/papers/papers/Krueger2024FinancialIncentivesGuidelines.pdf" target="_blank" rel="me noopener noreferrer">Empirical Software Engineering 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: Financial incentives (i.e., money) are extensively used to motivate participation in empirical studies. In economics, financial incentives are furthermore bound towards real-world behavior that is mimicked within experiments to improve realism and motivate participants’ to execute the tasks correctly. As part of this research, we have proposed a set of guidelines and recommendations on how to use financial incentives in software-engineering experiments to improve their validity when they involve tasks that require effort.</li>
+  
+  <li><a href="assets/papers/Gnoyke2024ArchitectureSmellEvolution.pdf" target="_blank" rel="me noopener noreferrer">Journal of Systems and Software 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: In this article, we report on our work towards tracing the evolution of architecture smells within software systems. Architecture smells are indicators of quality problems that can become more and more serious over time if they are not addressed. We provide the first tooling and an empirical study to shed light into the evolution of three types of architecture smells in Java, underpinning that the smells go through complex evolution patterns.</li>
+  
   <li><a href="assets/papers/Krueger2024ChangeIntentions.pdf" target="_blank" rel="me noopener noreferrer">ACM Computing Surveys 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We have performed a meta review to structure existing software-engineering research based on software-change intentions, which represent the underlying intention a developer had when implementing a change to their software. We argue that structuring, studying, and specifying software-change intentions can be helpful to improve software evolution and assure that developers implement their intended changes.</li>
   
   <li><a href="assets/papers/Enaya2024CoronaWarnAppDevelopment.pdf" target="_blank" rel="me noopener noreferrer">Journal of Systems and Software 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We have conducted a case study on the development of the Germany Corona-Warn App at SAP to understand how the emergency situation of developing an app to mitigate the apdenmic during the pandemic changed development processes and impacted the developers involved.</li>
   
+  <li><a href="assets/papers/Zellmer2024EEDecisionMaking.pdf" target="_blank" rel="me noopener noreferrer">IEEE Transactions on Engineering Management 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: Within this article, we have collected the various definitions of terms used within different product-structuring concepts, including software product-line engineering and electrics/electronics platforms, among others. By synthesizing a terminological overview and providing a conceptual model based on industrial experiences, we aim to help researchers and practitioners in aligning their terminologies and obtaining a better understanding of what has already been done in other research areas.</li>
+  
+  <li><a href="assets/papers/Holsten2024EEPlatformTransition.pdf" target="_blank" rel="me noopener noreferrer">IEEE Transactions on Engineering Management 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We have conducted 24 interviews with practitioners from the automotive industry to gain insights into their current practices and challenges of transitioning from their traditional to modern systems platforms. We found that particularly managing and evolving the new platforms as a whole are causing needs for improving platform management and evolution.</li>
+  
+  <li><a href="assets/papers/Zellmer2024EEDecisionMaking.pdf" target="_blank" rel="me noopener noreferrer">IEEE Transactions on Engineering Management 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: Automotive companies face strategic challenges regarding the evolution of their platforms every day. Through 26 interviews with experts, we elicited practitioners’ challenges, key requirements, practices, as well as needs, regarding their decision-making on platform evolution.</li>
+  
   <li><a href="assets/papers/May2024CovidCertificateVerification.pdf" target="_blank" rel="me noopener noreferrer">Journal of Systems and Software 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We report the experiences of developing a COVID-19 certificate verification system within a startup, eliciting how the pandemic, startup context, and developing an app for enabling public life impcated the developers' work.</li>
   
-  <li><a href="assets/papers/Groot2024Dependencies.pdf" target="_blank" rel="me noopener noreferrer">ICSE-SEIP 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We have interviewed developers at ASML to understand unintended software dependencies (e.g., architecture smells) in real-world, multi-lingual systems; finding that these are often similar to unintended dependencies in mono-lingual systems. Unintended depednencies by themselves are not causing errors in a system, but they complicated developers' comprehension due to unepxected depedendencies reducing the quality of a software system.</li>
+  <li><a href="assets/papers/Groot2024Dependencies.pdf" target="_blank" rel="me noopener noreferrer">ICSE-SEIP 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We have interviewed developers at ASML to understand unintended software dependencies (e.g., architecture smells) in real-world, multi-lingual systems; finding that these are often similar to unintended dependencies in mono-lingual systems. Unintended dependencies by themselves are not causing errors in a system, but they complicated developers' comprehension due to unexpected dependencies reducing the quality of a software system.</li>
 
   <li><a href="assets/papers/May2024Education.pdf" target="_blank" rel="me noopener noreferrer">ICSE-SEET 2024<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We have reported our experiences of integrating video-creation tasks in a requirements-engineering course with the intention of increasing student participation and interaction.</li>
 
@@ -71,7 +84,7 @@ Besides these core topics of mine, I have also published papers on improving sci
 
   <li><a href="assets/papers/Ananieva2022ConceptualModelExtension.pdf" target="_blank" rel="me noopener noreferrer">Empirical Software Engineering 2022<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We have proposed a conceptual model for unifying variability in space and time (i.e., the evolution of variant-rich systems) to guide contemporary research and tool development.</li>
  
-  <li><a href="assets/papers/Shakeel2022Altmetrics.pdf" target="_blank" rel="me noopener noreferrer">JCDL 2022<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We report on a large study of the computer science community in which we compare citations and altmetrics for a number of high reputation venues to understand how representative or complementary Altmetrics can be, for instance, for literature analyses.</li>
+  <li><a href="assets/papers/Shakeel2022Altmetrics.pdf" target="_blank" rel="me noopener noreferrer">JCDL 2022<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We report on a large study of the computer science community in which we compare citations and altmetrics for a number of high reputation venues to understand how representative or complementary altmetrics can be, for instance, for literature analyses.</li>
   
   <li><a href="assets/papers/Alchokr2021ArticleRecommendation.pdf" target="_blank" rel="me noopener noreferrer">JCDL 2021<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We performed a comparative survey of existing article recommendation platforms, which help research disseminate and discuss their publications after they have been accepted.</li>
 
@@ -91,7 +104,7 @@ Besides these core topics of mine, I have also published papers on improving sci
 
   <li><a href="assets/papers/Fenske2020ifdefDilemma.pdf" target="_blank" rel="me noopener noreferrer">ICSME 2020<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We conducted a large-scale study with open-source developers, revealing that while they preferred refactored preprocessor directives, they actually performed worse in two program comprehension tasks; and had particular challenges in understanding the configurability of the source code.</li>
 
-  <li><a href="assets/papers/Krueger2020DevelopersRecall.pdf" target="_blank" rel="me noopener noreferrer">ICSME 2020<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: In this paper, we investgiated how reliably developers could still remember knowledge about their system from memory, aiming to investigate how to better support them during software evolution (i.e., when they require what knowledge).</li>
+  <li><a href="assets/papers/Krueger2020DevelopersRecall.pdf" target="_blank" rel="me noopener noreferrer">ICSME 2020<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: In this paper, we investigated how reliably developers could still remember knowledge about their system from memory, aiming to investigate how to better support them during software evolution (i.e., when they require what knowledge).</li>
 
   <li><a href="assets/papers/Krueger2019Traceability.pdf" target="_blank" rel="me noopener noreferrer">ESEC/FSE 2019<img src="logos/pdf.png" height="12px" style="margin-inline-start: 0.5em" alt="pdf" /></a>: We report an online experiment in which practitioners solved six comprehension tasks while exposed to different types of feature traces typically used for engineering variant-rich systems, indicating that virtual traces (i.e., annotations) can facilitate program comprehension.</li>
 
