@@ -243,15 +243,6 @@ proceedings:
   year: 2024
   link: ""
 
-- id: ""
-  author: "Sebastian Nielebock, Jacob Krüger, and Alexander Nolte"
-  title: "Making Replication Packages Usable (Again)."
-  booktitle: "International Conference on Product-Focused Software Process Improvement (PROFES)"
-  doi: ""
-  publisher: "Springer"
-  year: 2024
-  link: ""
-
 - id: Zellmer2024EEDecisionMaking
   author: "Philipp Zellmer, Jacob Krüger, and Thomas Leich"
   title: "Decision Making for Managing Automotive Platforms: An Interview Survey on the State-of-Practice."
