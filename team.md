@@ -4,9 +4,15 @@ I am part of the <a href="https://set.win.tue.nl/" target="_blank" rel="me noope
 
 <b>PhD Students<b>
 <ul>
+  <li>Open position (Harz University of Applied Sciences, Germany, with Thomas Leich)</li>
+</ul>
+  
+<ul>
   <li>Henrik Waschke (supervision, Harz University of Applied Sciences, Germany, with Thomas Leich)</li>
   <li>Ismay Wolff (supervision, Eindhoven University of Technology, with Alexander Serebrenik)</li>
-  <li>Xenia Zerweck (supervision, Harz University of Applied Sciences, Germany, with Thomas Leich)</li>
+</ul>
+
+<ul>
   <li>Rand Alchokr (advising, Otto-von-Guericke University Magdeburg, Germany, supervisors: Thomas Leich, Gunter Saake)</li>
   <li>Christian Biermann (advising, Harz University of Applied Sciences, Germany, supervisor: Thomas Leich)</li>
   <li>Philipp Gnoyke (advising, Otto-von-Guericke University Magdeburg, Germany, supervisors: Sandro Schulze, Gunter Saake)</li>
