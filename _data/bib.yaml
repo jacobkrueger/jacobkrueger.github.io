@@ -1,19 +1,19 @@
 journals:
 
-- id: Broneske2024ArtifactSharing
-  author: "David Broneske, Sebastian Kittan, and Jacob Krüger"
-  title: "Sharing Software-Evolution Datasets: Practices, Challenges, and Recommendations."
-  journal: "Proceedings of the ACM on Software Engineering (FSE 2024)"
-  pages: "91:1-24"
-  doi: "10.1145/3660798"
-  year: 2024
-
-- id: Chen2024ForkVisTool
+- id: Chen2025ForkVisTool
   author: "Siyue Chen, Loek Cleophas, Sandro Schulze, and Jacob Krüger"
   title: "VisFork: Towards a Toolsuite for Visualizing Fork Ecosystems."
   journal: "Science of Computer Programming"
   pages: "241(103223):1-5"
   doi: "10.1016/j.scico.2024.103223"
+  year: 2025
+
+- id: Broneske2024ArtifactSharing
+  author: "David Broneske, Sebastian Kittan, and Jacob Krüger"
+  title: "Sharing Software-Evolution Datasets: Practices, Challenges, and Recommendations."
+  journal: "Proceedings of the ACM on Software Engineering (FSE 2024)"
+  pages: "91:2051-2074"
+  doi: "10.1145/3660798"
   year: 2024
 
 - id: Enaya2024CoronaWarnAppDevelopment
