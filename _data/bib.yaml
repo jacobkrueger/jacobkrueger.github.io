@@ -32,14 +32,6 @@ journals:
   doi: "10.1016/j.jss.2024.112170"
   year: 2024
 
-- id: Lange2024MicroBiomeModeling
-  author: "Emanuel Lange, Lena Kranert, Jacob Krüger, Dirk Benndorf, and Robert Heyer"
-  title: "Microbiome Modeling: A Beginner’s Guide."
-  journal: "Frontiers in Microbiology"
-  pages: "15(1368377):1-32"
-  doi: "10.3389/fmicb.2024.1368377"
-  year: 2024
-
 - id: Krueger2024ChangeIntentions
   author: "Jacob Krüger, Yi Li, Kirill Lossev, Chenguang Zhu, Marsha Chechik, Thorsten Berger, and Julia Rubin"
   title: "A Meta-Study of Software-Change Intentions."
@@ -56,6 +48,14 @@ journals:
   doi: "10.1007/s10664-024-10517-w"
   year: 2024
 
+- id: Lange2024MicroBiomeModeling
+  author: "Emanuel Lange, Lena Kranert, Jacob Krüger, Dirk Benndorf, and Robert Heyer"
+  title: "Microbiome Modeling: A Beginner’s Guide."
+  journal: "Frontiers in Microbiology"
+  pages: "15(1368377):1-32"
+  doi: "10.3389/fmicb.2024.1368377"
+  year: 2024
+
 - id: May2024CovidCertificateVerification
   author: "Richard May, Niklas Baron, Jacob Krüger, and Thomas Leich"
   title: "Pandemic Startup Software Engineering: An Experience Report on the Development of a COVID-19 Certificate Verification System."
@@ -68,8 +68,8 @@ journals:
   author: "Philipp Zellmer, Lennart Holsten, Jacob Krüger, and Thomas Leich"
   title: "The Terminology of Automotive Product-Structuring Concepts: A Systematic Mapping Study."
   journal: "IEEE Transactions on Engineering Management"
-  pages: ""
-  doi: ""
+  pages: "71:14974-14990"
+  doi: "10.1109/TEM.2024.3463179"
   year: 2024
 
 - id: Assuncao2023MicroserviceEvolution
