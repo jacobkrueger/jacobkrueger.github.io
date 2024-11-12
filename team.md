@@ -4,7 +4,7 @@ I am part of the <a href="https://set.win.tue.nl/" target="_blank" rel="me noope
 
 <b>PhD Students<b>
 <ul>
-  <li>Open position (Harz University of Applied Sciences, Germany, with Thomas Leich)</li>
+  <li>Open position (Harz University of Applied Sciences, Germany, with Thomas Leich): <a href="https://www.hs-harz.de/karriere/aktuelle-stellenausschreibungen">Research associate for software engineering (f/m/d)</a></li>
 </ul>
   
 <ul>

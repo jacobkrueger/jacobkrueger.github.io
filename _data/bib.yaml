@@ -8,6 +8,14 @@ journals:
   doi: "10.1145/3660798"
   year: 2024
 
+- id: Chen2024ForkVisTool
+  author: "Siyue Chen, Loek Cleophas, Sandro Schulze, and Jacob Krüger"
+  title: "VisFork: Towards a Toolsuite for Visualizing Fork Ecosystems."
+  journal: "Science of Computer Programming"
+  pages: "241(103223):1-5"
+  doi: "10.1016/j.scico.2024.103223"
+  year: 2024
+
 - id: Enaya2024CoronaWarnAppDevelopment
   author: "Mohamad F. Enaya, Thomas Klingbeil, Jacob Krüger, David Broneske, Frank Feinbube, and Gunter Saake"
   title: "A Case Study on the Development of the German Corona-Warn-App."
@@ -162,11 +170,20 @@ journals:
   
 proceedings:
 
+- id: Alchokr2025LLMsLiteratureAnalyses
+  author: "Rand Alchokr, Evelyn Starzew, Gunter Saake, Thomas Leich, and Jacob Krüger"
+  title: "The Impact of AI Language Models on ScientificWriting and Scientific Peer Reviews: A Systematic Literature Review."
+  booktitle: "Joint Conference on Digital Libraries (JCDL)"
+  doi: ""
+  publisher: "ACM"
+  year: 2025
+  link: ""
+
 - id: Alchokr2024QualityMetrics
   author: "Rand Alchokr, Abhishek Gopalrao, Gunter Saake, Thomas Leich, and Jacob Krüger"
   title: "Scholarly Quality Measurements, A Systematic Literature Review."
   booktitle: "International Conference on Theory and Practice of Digital Libraries (TPDL)"
-  doi: ""
+  doi: "10.1007/978-3-031-72437-4_11"
   publisher: "Springer"
   year: 2024
   link: ""
@@ -238,7 +255,7 @@ proceedings:
   author: "Sebastian Nielebock, Paul Blockhaus, Jacob Krüger, and Frank Ortmeier"
   title: "ASAP-Repair: API-Specific Automated Program Repair Based on API Usage Graphs."
   booktitle: "International Workshop on Automated Program Repair (APR)"
-  doi: ""
+  doi: "10.1145/3643788.3648011"
   publisher: "ACM"
   year: 2024
   link: ""
@@ -378,7 +395,7 @@ proceedings:
   author: "Richard May, Christian Biermann, Andy Kenner, Jacob Krüger, and Thomas Leich"
   title: "A Product-Line-Engineering Framework for Secure Enterprise-Resource-Planning Systems."
   booktitle: "International Conference on Enterprise Information Systems (CENTERIS)"
-  doi: ""
+  doi: "10.1016/j.procs.2024.06.338"
   publisher: "Elsevier"
   year: 2023
   link: ""
