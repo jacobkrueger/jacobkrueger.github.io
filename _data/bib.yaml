@@ -172,8 +172,17 @@ proceedings:
 
 - id: Alchokr2025LLMsLiteratureAnalyses
   author: "Rand Alchokr, Evelyn Starzew, Gunter Saake, Thomas Leich, and Jacob Krüger"
-  title: "The Impact of AI Language Models on ScientificWriting and Scientific Peer Reviews: A Systematic Literature Review."
+  title: "The Impact of AI Language Models on Scientific Writing and Scientific Peer Reviews: A Systematic Literature Review."
   booktitle: "Joint Conference on Digital Libraries (JCDL)"
+  doi: ""
+  publisher: "ACM"
+  year: 2025
+  link: ""
+
+- id: 
+  author: "Richard May, Christian Biermann, Jacob Krüger, and Thomas Leich"
+  title: "Asking Security Practitioners: Did You Find the Vulnerable (Mis)Configuration?"
+  booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
   doi: ""
   publisher: "ACM"
   year: 2025
