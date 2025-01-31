@@ -4,12 +4,14 @@ I am part of the <a href="https://set.win.tue.nl/" target="_blank" rel="me noope
 
 <b>PhD Students<b>
 <ul>
-  <li>Open position (Harz University of Applied Sciences, Germany, with Thomas Leich): <a href="https://www.hs-harz.de/karriere/aktuelle-stellenausschreibungen">Research associate for software engineering (f/m/d)</a></li>
+  <li>Open position (Harz University of Applied Sciences, with Thomas Leich)</li>
 </ul>
   
 <ul>
-  <li>Henrik Waschke (supervision, Harz University of Applied Sciences, Germany, with Thomas Leich)</li>
+  <li>Sarah Stika (supervision, Harz University of Applied Sciences, with Thomas Leich)</li>
+  <li>Henrik Waschke (supervision, Harz University of Applied Sciences, with Thomas Leich)</li>
   <li>Ismay Wolff (supervision, Eindhoven University of Technology, with Alexander Serebrenik)</li>
+  <li>Filip Zamfirov (supervision, Eindhoven University of Technology, with Michel R. V. Chaudron</li>
 </ul>
 
 <ul>
@@ -33,7 +35,7 @@ I am part of the <a href="https://set.win.tue.nl/" target="_blank" rel="me noope
 
 <b>Supervised Undergraduate/Graduate Students</b>
 <ul>
-  <li>Eindhoven University of Technology, The Netherlands: 21 SEP, 6 Master, 1 EngD</li>
+  <li>Eindhoven University of Technology, The Netherlands: 21 SEP, 8 Master, 2 EngD</li>
   <li>Ruhr-University Bochum, Germany: 1 Bachelor</li>
   <li>Chalmers | University of Gothenburg, Sweden: 4 Master</li>
   <li>Otto-von-Guericke University Magdeburg, Germany: 5 Bachelor, 10 Master</li>
