@@ -1,5 +1,13 @@
 journals:
 
+- id: Bershadskyy2025FinancialIncentivesExperiment
+  author: "Dmitri Bershadskyy, Jacob Krüger, Gül Calıklı, Siegmar Otto, Sarah Zabel, Jannik Greif, and Robert Heyer"
+  title: "A Laboratory Experiment on Using Different Financial-Incentivization Schemes in Software-Engineering Experimentation."
+  journal: "PeerJ Computer Science"
+  pages: "11:e2650:1-34"
+  doi: "10.7717/peerj-cs.2650"
+  year: 2025
+
 - id: Chen2025ForkVisTool
   author: "Siyue Chen, Loek Cleophas, Sandro Schulze, and Jacob Krüger"
   title: "VisFork: Towards a Toolsuite for Visualizing Fork Ecosystems."
