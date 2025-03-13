@@ -186,6 +186,15 @@ proceedings:
   publisher: "ACM"
   year: 2025
   link: ""
+ 
+- id:
+  author: "Jacob Krüger, Xenia M. Zerweck, Sol M. Demarco, Alena Bleicher, and Thomas Leich"
+  title: "Non-Knowledge as a New Lens on Software Engineering"
+  booktitle: "Symposium on the Foundations of Software Engineering (FSE)"
+  doi: ""
+  publisher: "ACM"
+  year: 2025
+  link: ""
 
 - id: 
   author: "Richard May, Christian Biermann, Jacob Krüger, and Thomas Leich"
