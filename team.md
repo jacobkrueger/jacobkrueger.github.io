@@ -3,13 +3,11 @@
 I am part of the <a href="https://set.win.tue.nl/" target="_blank" rel="me noopener noreferrer">Software Engineering and Technology (SET)</a> group at Eindhoven University of Technology, working with my colleagues and students on different topics around software evolution.
 
 <b>PhD Students<b>
-<ul>
-  <li>Open position (Harz University of Applied Sciences, with Thomas Leich)</li>
-</ul>
   
 <ul>
   <li>Sarah Stika (supervision, Harz University of Applied Sciences, with Thomas Leich)</li>
   <li>Henrik Waschke (supervision, Harz University of Applied Sciences, with Thomas Leich)</li>
+  <li> Giuliano Wietig (supervision, Harz University of Applied Sciences, with Thomas Leich)</li>
   <li>Ismay Wolff (supervision, Eindhoven University of Technology, with Alexander Serebrenik)</li>
   <li>Filip Zamfirov (supervision, Eindhoven University of Technology, with Michel R. V. Chaudron</li>
 </ul>
