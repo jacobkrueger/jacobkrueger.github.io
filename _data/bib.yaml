@@ -178,7 +178,16 @@ journals:
   
 proceedings:
 
-- id: Alchokr2025LLMsLiteratureAnalyses
+- id: 
+  author: "Rand Alchokr, Athul Sunilkumar, Thomas Leich, Gunter Saake, and Jacob Krüger"
+  title: "A Comparative Analysis of Support Techniques for Assessing the Quality of Systematic Literature Reviews."
+  booktitle: "International Conference on Theory and Practice of Digital Libraries (TPDL)"
+  doi: ""
+  publisher: "Springer"
+  year: 2025
+  link: ""
+
+- id:
   author: "Rand Alchokr, Evelyn Starzew, Gunter Saake, Thomas Leich, and Jacob Krüger"
   title: "The Impact of AI Language Models on Scientific Writing and Scientific Peer Reviews: A Systematic Literature Review."
   booktitle: "Joint Conference on Digital Libraries (JCDL)"
@@ -202,6 +211,15 @@ proceedings:
   booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
   doi: ""
   publisher: "ACM"
+  year: 2025
+  link: ""
+
+- id: 
+  author: "Filip Zamfirov, Andrei Radulescu, Jacob Krüger, and Michel R. V. Chaudron"
+  title: "Lessons from Visualizing Software Architecture Structure Conformance at Thermo Fisher Scientific."
+  booktitle: "Euromicro Conference on Software Engineering and Advanced Applications (SEAA)"
+  doi: ""
+  publisher: "Springer"
   year: 2025
   link: ""
 
