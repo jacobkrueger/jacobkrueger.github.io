@@ -54,11 +54,6 @@ a:hover small {
   color:#777;
 }
 
-.wrapper {
-  width:860px;
-  margin:0 auto;
-}
-
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -209,13 +204,12 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+.wrapper {
+	width:auto;
+	margin:0;
+}
+
 @media print, screen and (max-width: 960px) {
-
-  div.wrapper {
-    width:auto;
-    margin:0;
-  }
-
   header, section, footer {
     float:none;
     position:static;

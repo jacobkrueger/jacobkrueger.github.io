@@ -15,6 +15,7 @@ Besides these core topics of mine, I have also published papers on improving sci
 <details>
 <summary><b>Projects and funding</b></summary>
 <ul>
+  <li>Conceptualizing Human Assumptions in Software Evolution (CHASE), NWO Veni Personal Grant 2025-2029</li>
   <li>Understanding the Importance of Non-Knowledge for Software Engineering on Social-Coding Platforms (INKleSS), German Research Foundation 2024-2027</li>
   <li>FOSD Meeting 2024, NWO Scientific Meetings and Consultations 2024</li>
   <li>Cognitive Biases in Software Engineering, Otto-von-Guericke University Magdeburg Innovation Fund 2022-2024</li>
