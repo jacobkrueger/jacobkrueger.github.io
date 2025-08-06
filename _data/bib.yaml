@@ -1,5 +1,14 @@
 journals:
 
+- id: Bakhshi2025WWF
+  author: "Amin Bakhshi, Hasrul Maruf, Maas van Apeldoorn, Zillah Calle, Jonas van Duijvenbode, Ismay Wolff, Yanja Dajsuren, and Jacob Krüger"
+  title: "Preparing an R Package for Open-Source Contributions: An Experience Report on the World Wildlife Fund’s Forest Foresight."
+  journal: "Journal of Systems and Software"
+  pages: ""
+  doi: ""
+  year: 2025
+  link: ""
+
 - id: Bershadskyy2025FinancialIncentivesExperiment
   author: "Dmitri Bershadskyy, Jacob Krüger, Gül Calıklı, Siegmar Otto, Sarah Zabel, Jannik Greif, and Robert Heyer"
   title: "A Laboratory Experiment on Using Different Financial-Incentivization Schemes in Software-Engineering Experimentation."
@@ -178,7 +187,7 @@ journals:
   
 proceedings:
 
-- id: 
+- id: Alchokr2025SLRQuality
   author: "Rand Alchokr, Athul Sunilkumar, Thomas Leich, Gunter Saake, and Jacob Krüger"
   title: "A Comparative Analysis of Support Techniques for Assessing the Quality of Systematic Literature Reviews."
   booktitle: "International Conference on Theory and Practice of Digital Libraries (TPDL)"
@@ -187,34 +196,34 @@ proceedings:
   year: 2025
   link: ""
 
-- id:
-  author: "Rand Alchokr, Evelyn Starzew, Gunter Saake, Thomas Leich, and Jacob Krüger"
-  title: "The Impact of AI Language Models on Scientific Writing and Scientific Peer Reviews: A Systematic Literature Review."
-  booktitle: "Joint Conference on Digital Libraries (JCDL)"
+- id: ""
+  author: "Philipp Gnoyke, Sandro Schulze, and Jacob Krüger"
+  title: "Insights into Optimizing Research Software: A Case of an Architecture-Smell Detection Tool."
+  booktitle: "International Working Conference on Source Code Analysis and Manipulation (SCAM)"
   doi: ""
-  publisher: "ACM"
+  publisher: "IEEE"
   year: 2025
   link: ""
  
-- id:
+- id: Krueger2025NonKnowledge
   author: "Jacob Krüger, Xenia M. Zerweck, Sol M. Demarco, Alena Bleicher, and Thomas Leich"
   title: "Non-Knowledge as a New Lens on Software Engineering"
   booktitle: "Symposium on the Foundations of Software Engineering (FSE)"
-  doi: ""
+  doi: "10.1145/3696630.372850"
   publisher: "ACM"
   year: 2025
   link: ""
 
-- id: 
+- id: May2025Misconfiguration
   author: "Richard May, Christian Biermann, Jacob Krüger, and Thomas Leich"
   title: "Asking Security Practitioners: Did You Find the Vulnerable (Mis)Configuration?"
   booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
-  doi: ""
+  doi: "10.1145/3715340.3715439"
   publisher: "ACM"
   year: 2025
   link: ""
 
-- id: 
+- id: Zamfirov2025ArchitectureConformance
   author: "Filip Zamfirov, Andrei Radulescu, Jacob Krüger, and Michel R. V. Chaudron"
   title: "Lessons from Visualizing Software Architecture Structure Conformance at Thermo Fisher Scientific."
   booktitle: "Euromicro Conference on Software Engineering and Advanced Applications (SEAA)"
@@ -230,6 +239,15 @@ proceedings:
   doi: "10.1007/978-3-031-72437-4_11"
   publisher: "Springer"
   year: 2024
+  link: ""
+
+- id: Alchokr2024LLMsLiteratureAnalyses
+  author: "Rand Alchokr, Evelyn Starzew, Gunter Saake, Thomas Leich, and Jacob Krüger"
+  title: "The Impact of AI Language Models on Scientific Writing and Scientific Peer Reviews: A Systematic Literature Review."
+  booktitle: "Joint Conference on Digital Libraries (JCDL)"
+  doi: "10.1145/3677389.370250"
+  publisher: "ACM"
+  year: 2025
   link: ""
 
 - id: Chen2024ForkVis
