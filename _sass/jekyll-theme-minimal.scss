@@ -1,6 +1,17 @@
 @import "fonts";
 @import "rouge-github";
 
+#newsDiv {
+  float: right;
+  height: 250px;
+  padding: 3px;
+}
+
+#newsEntriesDiv {
+  height: 225px;
+  overflow: auto;
+}
+
 body {
   background-color: #fff;
   padding:50px;
@@ -181,7 +192,6 @@ strong {
 
 section {
   width:500px;
-  float:right;
   padding-bottom:50px;
 }
 
