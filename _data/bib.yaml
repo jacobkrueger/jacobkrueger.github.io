@@ -25,6 +25,15 @@ journals:
   doi: "10.1016/j.scico.2024.103223"
   year: 2025
 
+- id: Holsten2025ReleaseManagementEEP
+  author: "Lennart Holsten, Jacob Krüger, and Thomas Leich"
+  title: "A Methodology for Electrics/Electronics Platform Release Management in the Automotive Domain."
+  journal: "Journal of Systems and Software"
+  pages: ""
+  doi: ""
+  year: 2025
+  link: ""
+
 - id: Broneske2024ArtifactSharing
   author: "David Broneske, Sebastian Kittan, and Jacob Krüger"
   title: "Sharing Software-Evolution Datasets: Practices, Challenges, and Recommendations."
