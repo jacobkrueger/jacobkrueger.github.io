@@ -1196,6 +1196,20 @@ proceedings:
 
 editorials:
 
+- id: SPLC2025A
+  editors: "Miguel R. Luaces, Tirso V. Rodeiro, Sandra Greiner, José Galindo Duarte, Tao Yue, Kentaro Yoshimura, Laura Semini, Maxime Cordy, Maider Azanza, Jacob Krüger, Gilles Perrouin, Sophie Fortz, Iris Groher, Daniel-Jesus Muñoz, Klaus Schmid, Francisca Pérez, Jessie Galasso-Carbonnel, José Miguel Horcas, Kevin Feichtinger"
+  title: "29th International Systems and Software Product Line Conference (SPLC) - Volume A."
+  publisher: "ACM"
+  doi: ""
+  year: 2025
+
+- id: SPLC2025B
+  editors: "Miguel R. Luaces, Tirso V. Rodeiro, Sandra Greiner, José Galindo Duarte, Tao Yue, Kentaro Yoshimura, Laura Semini, Maxime Cordy, Maider Azanza, Jacob Krüger, Gilles Perrouin, Sophie Fortz, Iris Groher, Daniel-Jesus Muñoz, Klaus Schmid, Francisca Pérez, Jessie Galasso-Carbonnel, José Miguel Horcas, Kevin Feichtinger"
+  title: "29th International Systems and Software Product Line Conference (SPLC) - Volume B."
+  publisher: "ACM"
+  doi: ""
+  year: 2025
+
 - id: SPLC2024A
   editors: "Maxime Cordy, Daniel Strüber, Mónica Pinto, Iris Groher, Deepak Dhungana, Jacob Krüger, Juliana Alves Pereira, Mathieu Acher, Thomas Thüm, Maurice H. ter Beek, Jessie Galasso-Carbonnel, Paolo Arcaini, Mohammad Reza Mousavi, Xhevahire Tërnava, José Galindo, Tao Yue, Lidia Fuentes, and José Miguel Horcas"
   title: "28th International Systems and Software Product Line Conference (SPLC) - Volume A."
