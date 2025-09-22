@@ -34,6 +34,15 @@ journals:
   year: 2025
   link: ""
 
+- id: Hofstad2025MarlinFeatures
+  author: "Aron van der Hofstad, Loek Cleophas, Clemens Dubslaff, and Jacob Krüger"
+  title: "The Life of Software Features: An Exploratory Case Study of 189 Feature Requests in Marlin."
+  journal: "Journal of Systems and Software"
+  pages: ""
+  doi: ""
+  year: 2025
+  link: ""
+
 - id: Broneske2024ArtifactSharing
   author: "David Broneske, Sebastian Kittan, and Jacob Krüger"
   title: "Sharing Software-Evolution Datasets: Practices, Challenges, and Recommendations."
