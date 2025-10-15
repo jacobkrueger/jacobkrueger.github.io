@@ -43,6 +43,16 @@ journals:
   year: 2025
   link: ""
 
+
+- id: Zellmer2025DecisionMakingPlatforms
+  author: "Philipp Zellmer, Jacob Krüger, and Thomas Leich"
+  title: "Decision Making for Automotive-Platform Engineering: A Mixed-Methods Study on Practitioners' Requirements and Criteria."
+  journal: "Journal of Systems and Software"
+  pages: ""
+  doi: ""
+  year: 2025
+  link: ""
+
 - id: Broneske2024ArtifactSharing
   author: "David Broneske, Sebastian Kittan, and Jacob Krüger"
   title: "Sharing Software-Evolution Datasets: Practices, Challenges, and Recommendations."
