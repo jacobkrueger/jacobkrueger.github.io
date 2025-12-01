@@ -215,6 +215,24 @@ journals:
   
 proceedings:
 
+- id: 
+  author: "Philipp Gnoyke, Sandro Schulze, and Jacob Krüger"
+  title: "Evolution Patterns of Software-Architecture Smells."
+  booktitle: "Software Engineering (SE)"
+  doi: ""
+  publisher: "GI"
+  year: 2026
+  link: ""
+
+- id: 
+  author: "Henrik Waschke, Jacob Krüger, and Thomas Leich"
+  title: "Opportunities and Barriers for AI-Supported Quality Planning in the Automotive Domain: An Interview Survey at Volkswagen."
+  booktitle: "International Conference on Software Engineering - Software Engineering in Practice (ICSE-SEIP)"
+  doi: ""
+  publisher: "ACM"
+  year: 2026
+  link: ""
+
 - id: Alchokr2025SLRQuality
   author: "Rand Alchokr, Athul Sunilkumar, Thomas Leich, Gunter Saake, and Jacob Krüger"
   title: "A Comparative Analysis of Support Techniques for Assessing the Quality of Systematic Literature Reviews."
