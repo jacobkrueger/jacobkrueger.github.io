@@ -4,10 +4,9 @@ journals:
   author: "Amin Bakhshi, Hasrul Maruf, Maas van Apeldoorn, Zillah Calle, Jonas van Duijvenbode, Ismay Wolff, Yanja Dajsuren, and Jacob Krüger"
   title: "Preparing an R Package for Open-Source Contributions: An Experience Report on the World Wildlife Fund’s Forest Foresight."
   journal: "Journal of Systems and Software"
-  pages: ""
-  doi: ""
+  pages: "231(112597):1-13"
+  doi: "10.1016/j.jss.2025.112597"
   year: 2025
-  link: ""
 
 - id: Bershadskyy2025FinancialIncentivesExperiment
   author: "Dmitri Bershadskyy, Jacob Krüger, Gül Calıklı, Siegmar Otto, Sarah Zabel, Jannik Greif, and Robert Heyer"
@@ -29,29 +28,26 @@ journals:
   author: "Lennart Holsten, Jacob Krüger, and Thomas Leich"
   title: "A Methodology for Electrics/Electronics Platform Release Management in the Automotive Domain."
   journal: "Journal of Systems and Software"
-  pages: ""
-  doi: ""
+  pages: "231(112605):1-13"
+  doi: "10.1016/j.jss.2025.112605"
   year: 2025
-  link: ""
 
-- id: Hofstad2025MarlinFeatures
+- id: Hofstad2025FeatureLifeCycle
   author: "Aron van der Hofstad, Loek Cleophas, Clemens Dubslaff, and Jacob Krüger"
   title: "The Life of Software Features: An Exploratory Case Study of 189 Feature Requests in Marlin."
   journal: "Journal of Systems and Software"
-  pages: ""
-  doi: ""
+  pages: "231(112647):1-13"
+  doi: "10.1016/j.jss.2025.112647"
   year: 2025
-  link: ""
 
 
 - id: Zellmer2025DecisionMakingPlatforms
   author: "Philipp Zellmer, Jacob Krüger, and Thomas Leich"
   title: "Decision Making for Automotive-Platform Engineering: A Mixed-Methods Study on Practitioners' Requirements and Criteria."
   journal: "Journal of Systems and Software"
-  pages: ""
-  doi: ""
+  pages: "233(112670):1-15"
+  doi: "10.1016/j.jss.2025.112670"
   year: 2025
-  link: ""
 
 - id: Broneske2024ArtifactSharing
   author: "David Broneske, Sebastian Kittan, and Jacob Krüger"
