@@ -221,6 +221,15 @@ proceedings:
   link: ""
 
 - id: 
+  author: "Satrio Adi Rukmono, Lina Ochoa, Thijs Bressers, Jacob Krüger, and Michel R. V. Chaudron"
+  title: "Evaluating Explanatory Artefacts of DSAR-Recovered Software Architectures from Industrial Codebases."
+  booktitle: "International Conference on the Foundations of Software Engineering (FSE)"
+  doi: ""
+  publisher: "ACM"
+  year: 2026
+  link: ""
+
+- id: 
   author: "Henrik Waschke, Jacob Krüger, and Thomas Leich"
   title: "Opportunities and Barriers for AI-Supported Quality Planning in the Automotive Domain: An Interview Survey at Volkswagen."
   booktitle: "International Conference on Software Engineering - Software Engineering in Practice (ICSE-SEIP)"
